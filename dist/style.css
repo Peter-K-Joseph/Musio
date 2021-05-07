@@ -47,6 +47,22 @@
   --shuffle-btn: #7a0000;
 }
 
+[data-theme="Blu Sky"] {
+  --bg-color-main: #0035A3;
+  --bg-color-main-col: #1A65FD;
+  --option: #4600c9;
+  --deselected: rgb(110, 110, 110);
+  --option-selected: #a5afff;
+  --pure-red: rgb(255, 0, 0);
+  --pure-white: rgb(254, 254, 254);
+  --option-hover: #808eff;
+  --font-color: white;
+  --font-color-selected: black;
+  --bg-grad: url(./resources/light.svg);
+  --fav-grad: linear-gradient(-20deg, #a5afff 0%, #21d4fd 100%);
+  --shuffle-btn: #00dbff;
+}
+
 * {
   -ms-overflow-style: none;
   scrollbar-width: none;
