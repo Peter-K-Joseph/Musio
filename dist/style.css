@@ -1,0 +1,502 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Poppins&display=swap");
+
+:root {
+  --bg-color-main: #d0d2e1;
+  --bg-color-main-col: #e8e9f1;
+  --option: #c7b1f0;
+  --deselected: rgb(110, 110, 110);
+  --option-selected: #e8e9f1;
+  --pure-red: rgb(255, 0, 0);
+  --pure-white: rgb(255, 255, 255);
+  --option-hover: #e8e9f1;
+  --font-color: black;
+  --font-color-selected: black;
+  --bg-grad: url(./resources/light.svg);
+  --fav-grad: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+  --shuffle-btn: #00dbff;
+}
+
+[data-theme="Dark Theme"] {
+  --bg-color-main: rgb(32 32 32);
+  --bg-color-main-col: #0c0c0c;
+  --option: #0087ff;
+  --deselected: rgb(201, 201, 201);
+  --option-selected: #dadada;
+  --pure-red: rgb(255, 0, 0);
+  --pure-white: rgb(255, 255, 255);
+  --option-hover: #606060;
+  --font-color: white;
+  --font-color-selected: black;
+  --bg-grad: url(./resources/dark.svg);
+  --shuffle-btn: #00a000;
+}
+
+[data-theme="Red Berry"] {
+  --bg-color-main: #7a0000;
+  --bg-color-main-col: #e20000;
+  --option: #3a0000;
+  --deselected: rgb(227 227 227);
+  --option-selected: #ffffff;
+  --pure-red: rgb(255 0 0);
+  --pure-white: rgb(255 255 255);
+  --option-hover: #ff0000;
+  --font-color: white;
+  --font-color-selected: black;
+  --bg-grad: url(./resources/redberry.svg);
+  --fav-grad: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+  --shuffle-btn: #7a0000;
+}
+
+* {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  color: var(--font-color);
+  transition: 0.1s all ease-in;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+  /* Remove scrollbar space */
+  background: #f9fcff00;
+  /* Optional: just make scrollbar invisible */
+}
+
+/* Optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+  width: 0;
+  background: #f9fcff00;
+}
+
+[data-theme="dark"] {
+  --bg-color-main: #262729;
+}
+
+.overflow-auto {
+  overflow: auto;
+}
+
+body {
+  background-color: var(--bg-color-main);
+  overflow: hidden;
+}
+
+.main {
+  background-color: var(--bg-color-main-col);
+  height: 86vh;
+  margin: 10px 20px 5px 20px;
+  width: 60vw;
+  border-radius: 0.75rem;
+}
+
+.col.align-center .avatar_image {
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+}
+
+.col.align-center.avatar {
+  justify-content: flex-end;
+  margin: 0 20px;
+  font-size: 1rem;
+}
+
+.col.align-center.avatar .align-center {
+  padding: 0 30px;
+  border-radius: 1.5rem;
+  cursor: pointer;
+}
+
+.col.align-center.avatar .align-center:hover {
+  background-color: grey;
+}
+
+.col.align-center span {
+  font-family: "Open Sans", sans-serif;
+}
+
+.player-down {
+  background-color: var(--bg-color-main-col);
+  min-height: 10vh;
+  margin: 10px 30px;
+  border-radius: 1rem;
+  min-width: 97.5%;
+}
+
+.row.slider {
+  height: 3px;
+  margin: 0 -5px;
+  width: 30%;
+  border-radius: 1.5em 0em 0 0;
+  background-color: var(--option);
+}
+
+.col.col-1.currently_playing {
+  border-radius: 0.5rem;
+  background-color: var(--option);
+  width: 7vh;
+  height: 7vh;
+  margin: 1.1vh 15px;
+}
+
+.album_art {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.currently_playing.title.col-4 h3 {
+  font-size: 1.2rem;
+  margin: 0 0 !important;
+}
+
+.currently_playing.title.col-4 p {
+  opacity: 0.7;
+}
+
+.currently_playing.title.col-4 {
+  transform: translateY(20%);
+}
+
+.col.w-4 {
+  width: 40%;
+  flex: 0 0 auto;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.h-100 {
+  height: 100%;
+}
+
+.row.m-1.mt-2 {
+  max-height: 77vh;
+  min-height: 77vh;
+  overflow-y: auto;
+  overflow-x: clip;
+}
+
+.row.m-1.mt-2 * {
+  padding: 4px 10px;
+}
+
+.optionNav {
+  height: 60vh;
+}
+
+.col-1_3 {
+  width: 13%;
+  flex: 0 0 auto;
+}
+
+.col-3-5 {
+  width: 30%;
+  flex: 0 0 auto;
+}
+
+.align-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search.input {
+  outline: none;
+  border: none;
+  margin: 10px 0 0 0;
+  border-radius: 0 0.75rem 0.75rem 0;
+  padding: 0.3rem;
+  color: var(--option);
+}
+
+.row.album-view {
+  max-height: 270px;
+  margin: 10px;
+}
+
+.search {
+  display: flex;
+}
+.search.icon {
+  background-color: var(--pure-white);
+  padding: 10px;
+  border-radius: 0.75rem 0 0 0.75rem;
+  margin: 10px 0 0 0;
+}
+
+.search.icon .icon-in {
+  width: 20px;
+  height: 20px;
+  fill: var(--option);
+}
+
+.heading {
+  margin: 10px 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.sq-8 {
+  width: 250px;
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 1rem;
+}
+
+.music {
+  display: flex;
+  width: 100%;
+}
+
+.music .heart {
+  width: 45px;
+  fill: var(--deselected);
+}
+
+.music * {
+  padding: 10px;
+}
+
+.music .name {
+  width: 100%;
+  display: block;
+}
+
+.music .time {
+  opacity: 0.6;
+}
+
+.music .name .song-name {
+  font-size: 1.1rem;
+}
+
+.music .more_icon {
+  width: 50px;
+  fill: var(--option);
+  margin: 0 10px;
+}
+
+.col-2.more-album {
+  width: 200px;
+  height: 200px;
+}
+
+.albumart.sq-4 {
+  width: 100%;
+  border-radius: 1rem;
+  height: 100%;
+  display: block;
+  background-size: cover;
+  transition: 0.1s all ease-in-out;
+}
+
+.albumart.sq-4:hover {
+  transform: scale(0.95);
+}
+
+.row.more {
+  overflow-y: auto;
+  display: ruby;
+}
+
+.row.album-view .col {
+  max-height: 250px;
+}
+
+.row.player {
+  position: absolute;
+  width: 100%;
+  bottom: 0px;
+}
+
+@keyframes scaleUp {
+  0% {
+    transform: scale(0) translate(50%);
+  }
+  50% {
+    transform: scale(0) translate(50%);
+  }
+}
+
+small {
+  opacity: 0.5;
+  text-align: initial;
+  padding: 50px 50px 0 0;
+  font-family: "Poppins", sans-serif;
+  margin: 20px 0 0 0;
+}
+
+.option.selected {
+  background-color: var(--option-selected);
+  color: var(--font-color-selected);
+}
+
+.option {
+  padding: 7px;
+  margin: 7px;
+  border-radius: 0.6rem;
+  text-align: right;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+}
+
+.options .option:hover {
+  background-color: var(--option-hover);
+}
+
+.options {
+  margin: 10px 0 0 10px;
+}
+
+.more_container.options {
+  position: absolute;
+  width: 800px;
+  background-color: var(--bg-color-main);
+  bottom: -0;
+  left: 50%;
+  transform: translate(-50%);
+  border-radius: 1rem 1rem 0 0;
+  transition: 0.5s all ease-in-out;
+}
+
+.more_container.options.hidden {
+  bottom: -50%;
+}
+
+.container .heading {
+  font-size: 1.7rem;
+  opacity: 0.5;
+}
+
+.container .option {
+  text-align: center;
+  font-size: 1.3rem;
+  cursor: pointer;
+  transition: 0.05s all ease-in-out;
+}
+
+.container .option:hover {
+  background-color: var(--option-hover);
+}
+
+.option.danger {
+  color: var(--pure-red);
+}
+
+.option.danger:hover {
+  background-color: var(--pure-red);
+  color: var(--pure-white);
+}
+
+.body {
+  transition: 0.5s all ease-in-out;
+}
+
+.body.option_active {
+  transform: scale(0.8);
+}
+
+.lyrics {
+  height: 79vh;
+  overflow: auto;
+  margin-right: 10px;
+}
+
+.player-down-opt {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.player-down-opt .activated {
+  background-color: var(--bg-color-main);
+  border-radius: 50%;
+  padding: 7px;
+  outline: 1px var(--option);
+}
+
+.lyrics-tab {
+  transition: 0.5s all ease-in-out;
+}
+
+.lyrics-tab.disabled {
+  width: 0% !important;
+}
+
+.bg-grad {
+  width: 100%;
+  height: 30vh;
+  background-image: var(--bg-grad);
+  background-size: cover;
+  border-radius: 0.75rem;
+}
+
+.bg-grad .child {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.bg-grad .row .col {
+  height: 33vh;
+}
+
+.shuffle {
+  all: unset;
+  background-color: var(--shuffle-btn);
+  height: max-content;
+  padding: 10px 50px !important;
+  text-align: center;
+  font-size: 1.3rem;
+  border-radius: 2rem;
+  padding: 0;
+  margin: 0;
+}
+
+.block {
+  display: block;
+}
+
+.icon-poster {
+  font-size: 3rem;
+}
+
+.h-100 {
+  height: 100%;
+}
+
+.icon-poster.fav {
+  width: 15vh;
+  height: 15vh;
+  padding: 10px !important;
+  margin: 14% 40%;
+  background-size: cover;
+  background-image: var(--fav-grad);
+  border-radius: 0.75rem;
+}
+
+.music.align-center.liked {
+  margin: 10px !important;
+  padding: 0 !important;
+  height: max-content;
+}
+
+.album.liked {
+  width: 58px;
+  height: 49px;
+  background-size: cover;
+  padding: 0 !important;
+  margin: 0;
+  background-size: cover;
+}
+
+.icon-poster {
+  color: var(--font-color);
+  width: auto;
+  height: 15vh;
+}
