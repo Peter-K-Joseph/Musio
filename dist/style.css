@@ -17,9 +17,9 @@
 }
 
 [data-theme="Dark Theme"] {
-  --bg-color-main: rgb(32 32 32);
+  --bg-color-main: rgb(32,32,32);
   --bg-color-main-col: #0c0c0c;
-  --option: #0087ff;
+  --option: #c0c0c0;
   --deselected: rgb(201, 201, 201);
   --option-selected: #dadada;
   --pure-red: rgb(255, 0, 0);
@@ -48,9 +48,9 @@
 }
 
 [data-theme="Blu Sky"] {
-  --bg-color-main: #0035A3;
-  --bg-color-main-col: #1A65FD;
-  --option: #4600c9;
+  --bg-color-main: #002b80;
+  --bg-color-main-col: #004adf;
+  --option: #a5a9b9;
   --deselected: rgb(110, 110, 110);
   --option-selected: #a5afff;
   --pure-red: rgb(255, 0, 0);
@@ -60,7 +60,7 @@
   --font-color-selected: black;
   --bg-grad: url(./resources/light.svg);
   --fav-grad: linear-gradient(-20deg, #a5afff 0%, #21d4fd 100%);
-  --shuffle-btn: #00dbff;
+  --shuffle-btn: #0f0066;
 }
 
 * {
@@ -119,13 +119,13 @@ body {
   font-size: 1rem;
 }
 
-.col.align-center.avatar .align-center {
+.col.align-center.avatar .accounts {
   padding: 0 30px;
   border-radius: 1.5rem;
   cursor: pointer;
 }
 
-.col.align-center.avatar .align-center:hover {
+.col.align-center.avatar .accounts:hover {
   background-color: grey;
 }
 
@@ -427,10 +427,18 @@ small {
   align-items: center;
 }
 
+.player-down-opt *{
+  margin: 10px;
+  font-size: 1.2rem;
+}
+
+.player-down-opt .repeat {
+  font-size: 1.7rem;
+}
+
 .player-down-opt .activated {
   background-color: var(--bg-color-main);
   border-radius: 50%;
-  padding: 7px;
   outline: 1px var(--option);
 }
 
@@ -515,4 +523,63 @@ small {
   color: var(--font-color);
   width: auto;
   height: 15vh;
+}
+
+.num .far.fa-play {
+  font-size: 1.5em;
+}
+
+.align-center .fas {
+  visibility: hidden;
+}
+
+.align-center .fas {
+  font-size: .8rem;
+  background-color: var(--bg-color-main);
+  padding: 10px 8px ;
+  border-radius: 50%;
+}
+
+.align-center .fa-sign-out-alt {
+  padding: 10px 10px ;
+  background-color: rgb(255, 111, 111);
+}
+
+.align-center .fa.fa-cog {
+  padding: 10px;
+}
+
+.align-center:hover .fas {
+  visibility: visible;
+}
+
+#play_music_state {
+  font-size: 2.5rem;
+}
+
+.control_music {
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.control_music *{
+  margin: 10px;
+}
+
+#other-accounts *{
+  animation-name: scaleUp;
+  animation-duration: .5s;
+}
+
+@keyframes scaleUp {
+  0% {transform: scale(0) translateY(-50px);}
+}
+
+.line {
+  width: 5px;
+  height: 30px;
+  border-radius: .75rem;
+  background-color: var(--bg-color-main-col);
+  margin: 10px;
 }

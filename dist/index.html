@@ -12,6 +12,7 @@
 	<link href="./style.css" rel="stylesheet">
 	<script src="./index.js"></script>
 	<script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+	<script src="https://kit.fontawesome.com/8ecf02a7bc.js"></script>
 </head>
 
 <body>
@@ -95,10 +96,17 @@
 					</div>
 				</div>
 				<div class="col align-center avatar">
-					<div class="align-center">
-						<ion-icon name="people-circle-outline other-user" style="font-size: 2rem"></ion-icon>
-						<div class="avatar_image"></div>
-						<span>Hello, <span class="first_name">{name}</span></span>
+					<div class="accounts" id="all_accounts">
+						<div class="align-center">
+							<div class="align-center" id="other-accounts"></div>
+							<i class="fas fa-user-friends" id="alt_user"></i>
+							<div class="line"></div>
+							<i class="fas fa-sign-out-alt"></i>
+							&nbsp;&nbsp;
+							<i class="fas fa-cog"></i>
+							<div class="avatar_image"></div>
+							<span>Hello, <span class="first_name">{name}</span></span>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -235,7 +243,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="w-100 h-100 align-center">
+				<!-- <div class="w-100 h-100 align-center">
 					<div>
 						<center><svg xmlns="http://www.w3.org/2000/svg" class="icon-poster" width="16" height="16" fill="currentColor"
 						class="bi bi-inbox-fill" viewBox="0 0 16 16">
@@ -244,8 +252,9 @@
 					</svg>
 					<h3>Empty Folder</h3></center>
 					</div>
-				</div>
-				<!-- <div class="music align-center liked">
+				</div> -->
+				<div class="music align-center liked">
+					<div class="num"><i class="fas fa-play"></i></div>
 					<div class="album liked" style="background-image: url(./resources/cheapthrills.jpg);"></div>
 					<div class="name"><span class="song-name">Cheap Thrills</span><br><span class="artist">Sia</span>
 					</div>
@@ -253,27 +262,28 @@
 					<div class="time">2:46</div>
 				</div>
 				<div class="music align-center liked">
+					<div class="num"><i class="fas fa-play"></i></div>
 					<div class="album liked" style="background-image: url(./resources/3.jpg);"></div>
 					<div class="name"><span class="song-name">Daddy</span><br><span class="artist">Coldplay</span></div>
 					<div class="more_icon"></div>
 					<div class="time">2:46</div>
 				</div>
 				<div class="music align-center liked">
+					<div class="num"><i class="fas fa-play"></i></div>
 					<div class="album liked" style="background-image: url(./resources/3.jpg);"></div>
 					<div class="name"><span class="song-name">Daddy</span><br><span class="artist">Coldplay</span></div>
 					<div class="more_icon"></div>
 					<div class="time">2:46</div>
 				</div>
 				<div class="music align-center liked">
+					<div class="num"><i class="fas fa-play"></i></div>
 					<div class="album liked" style="background-image: url(./resources/3.jpg);"></div>
 					<div class="name"><span class="song-name">Daddy</span><br><span class="artist">Coldplay</span></div>
 					<div class="more_icon"></div>
 					<div class="time">2:46</div>
-				</div> -->
+				</div>
 			</div>
-			<div class="row m-1 mt-2" id="info-by-album">
-
-			</div>
+			<div class="row m-1 mt-2" id="info-by-album"></div>
 		</div>
 		<div class="col-2 lyrics-tab">
 			<h3 class="heading">Lyrics</h3>
@@ -303,19 +313,15 @@
 					<p>Sia</p>
 				</div>
 				<div class="col align-center">
-					<div>
-						<svg id="play_music_state" width="60" height="60" viewBox="0 0 60 60" fill="none"
-							xmlns="http://www.w3.org/2000/svg">
-							<path
-								d="M50 30C50 41.0457 41.0457 50 30 50C18.9543 50 10 41.0457 10 30C10 18.9543 18.9543 10 30 10C41.0457 10 50 18.9543 50 30ZM11 30C11 40.4934 19.5066 49 30 49C40.4934 49 49 40.4934 49 30C49 19.5066 40.4934 11 30 11C19.5066 11 11 19.5066 11 30Z"
-								fill="#C7B1F0" />
-							<path
-								d="M40.6012 28.2076C42.0848 28.942 42.0848 31.058 40.6012 31.7924L24.8872 39.5708C23.5579 40.2288 22 39.2617 22 37.7784V22.2216C22 20.7383 23.5579 19.7712 24.8872 20.4292L40.6012 28.2076Z"
-								fill="#C7B1F0" />
-						</svg>
+					<div class="control_music">
+						<i class="fas fa-step-backward control_music"></i>
+						<i class="far fa-play-circle" id="play_music_state"></i>
+						<i class="fas fa-step-forward control_music"></i>
 					</div>
 				</div>
 				<div class="col w-4 player-down-opt">
+					<ion-icon name="repeat-outline" class="repeat"></ion-icon>
+					<i class="fas fa-random"></i>
 					<div class="activated" id="show_lyrics">
 						<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor"
 							class="bi bi-music-note-list" viewBox="0 0 16 16">

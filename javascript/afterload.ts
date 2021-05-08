@@ -71,3 +71,14 @@ $("#btn-to-liked").on("click", ()=>{
     $(".selected").removeClass("selected");
     $(`#btn-to-liked`).addClass("selected");
 })
+
+$("#alt_user").on("mouseover", ()=>{
+    let otherUser = "";
+    for (let i = 0; i < Object.values(accounts).length; i ++) {
+        otherUser = otherUser + `<div class="avatar_image" style="background-image: url('${Object.values(accounts)[i].profile}')"></div>`;
+    }
+    $("#other-accounts").html(otherUser);
+})
+$(".accounts").on("mouseleave", ()=>{
+    $("#other-accounts").html("");
+})
