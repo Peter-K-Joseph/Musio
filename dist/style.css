@@ -529,27 +529,28 @@ small {
   font-size: 1.5em;
 }
 
-.align-center .fas {
+.accounts .align-center .fas {
   visibility: hidden;
 }
 
-.align-center .fas {
+.accounts .align-center .fas {
   font-size: .8rem;
   background-color: var(--bg-color-main);
   padding: 10px 8px ;
   border-radius: 50%;
 }
 
-.align-center .fa-sign-out-alt {
+.accounts .align-center .fa-sign-out-alt {
   padding: 10px 10px ;
   background-color: rgb(255, 111, 111);
 }
 
-.align-center .fa.fa-cog {
+.accounts .align-center .fa-cog {
   padding: 10px;
+  background-color: #5e5e5e;
 }
 
-.align-center:hover .fas {
+.accounts .align-center:hover .fas {
   visibility: visible;
 }
 
@@ -573,7 +574,7 @@ small {
 }
 
 @keyframes scaleUp {
-  0% {transform: scale(0) translateY(-50px);}
+  0% {transform: scale(0);}
 }
 
 .line {
