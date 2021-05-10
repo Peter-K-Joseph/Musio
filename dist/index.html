@@ -11,6 +11,7 @@
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet">
 	<link href="./style.css" rel="stylesheet">
 	<script src="./index.js"></script>
+	<script async src="./navigation.js"></script>
 	<script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
 	<script src="https://kit.fontawesome.com/8ecf02a7bc.js"></script>
 </head>
@@ -18,61 +19,27 @@
 <body>
 	<div class="row" id="body" class="body">
 		<div class="col-1_3 text-center">
-			<svg width="100" height="146" viewBox="0 0 152 146" fill="none" xmlns="http://www.w3.org/2000/svg">
-				<g id="Group 1">
-					<g id="Polygon-2" filter="url(#filter0_d)">
-						<path
-							d="M10 93.1577C6 90.8483 4 89.6936 4 87.9615C4 86.2295 6 85.0748 10 82.7654L82 41.1962C86 38.8868 88 37.7321 89.5 38.5981C91 39.4641 91 41.7735 91 46.3923V129.531C91 134.15 91 136.459 89.5 137.325C88 138.191 86 137.036 82 134.727L10 93.1577Z" />
-					</g>
-					<g id="Polygon-1" filter="url(#filter1_d)">
-						<path
-							d="M146.5 57.4019C148.5 58.5566 148.5 61.4434 146.5 62.5981L65.5 109.363C63.5 110.518 61 109.075 61 106.765V13.2346C61 10.9252 63.5 9.48185 65.5 10.6366L146.5 57.4019Z" />
-					</g>
-				</g>
-				<defs>
-					<filter id="filter0_d" x="0" y="38.3105" width="95" height="107.302" filterUnits="userSpaceOnUse"
-						color-interpolation-filters="sRGB">
-						<feFlood flood-opacity="0" result="BackgroundImageFix" />
-						<feColorMatrix in="SourceAlpha" type="matrix"
-							values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
-						<feOffset dy="4" />
-						<feGaussianBlur stdDeviation="2" />
-						<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
-						<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow" />
-						<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
-					</filter>
-					<filter id="filter1_d" x="57" y="10.2302" width="95" height="107.54" filterUnits="userSpaceOnUse"
-						color-interpolation-filters="sRGB">
-						<feFlood flood-opacity="0" result="BackgroundImageFix" />
-						<feColorMatrix in="SourceAlpha" type="matrix"
-							values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
-						<feOffset dy="4" />
-						<feGaussianBlur stdDeviation="2" />
-						<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
-						<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow" />
-						<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
-					</filter>
-				</defs>
-			</svg>
-			<br>
 			<div class="overflow-auto optionNav">
+				<img src="./resources/musio_logo.png" class="logo" width="80%" alt="" srcset="">
 				<div class="options">
 					<small>Recomend</small>
-					<div class="option">For You</div>
-					<div class="option">Radio Station</div>
-					<div class="option">Music Video</div>
-				</div>
+					<button class="option selected">For You</button>
+					<button class="option">Radio Station</button>
+					<button class="option" id="btn-to-music-video" onclick="navigate('music-video', 'btn-to-music-video')">StreamLinked<sup>+</sup></button>
+				</div><br>
 				<div class="options">
 					<small>My Music</small>
-					<div class="option" id="btn-to-liked">Songs</div>
-					<div class="option selected">Albums</div>
-					<div class="option">Artists</div>
-					<div class="option">Recent</div>
-				</div>
+					<button class="option" id="btn-to-liked" onclick="navigate('liked-songs-section' ,'btn-to-liked')">
+						Songs</button>
+					<button class="option" id="btn-to-album" onclick="navigate('info-by-album' ,'btn-to-album')">Albums
+					</button>
+					<button class="option">Artists</button>
+					<button class="option">Recent</button>
+				</div><br>
 				<div class="options">
 					<small>Choices</small>
-					<div class="option themeSelector">{theme}</div>
-					<div class="option">Private Mode</div>
+					<button class="option themeSelector">{theme}</button>
+					<button class="option">Private Mode</button>
 				</div>
 			</div>
 		</div>
@@ -110,7 +77,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="row m-1 mt-2" id="info-by-album">
+			<div class="row m-1 mt-2 section" id="search-by-album">
 				<h3 class="heading">Everyday Life</h3>
 				<div class="row album-view">
 					<div class="col col-3-5 album">
@@ -131,7 +98,7 @@
 								</svg></div>
 							<div class="name"><span class="song-name">Sunrise</span><br><span
 									class="artist">Coldplay</span></div>
-							<div class="more_icon"></div>
+							<button class="more_icon"></button>
 							<div class="time">2:46</div>
 						</div>
 						<div class="music align-center">
@@ -148,7 +115,7 @@
 								</svg></div>
 							<div class="name"><span class="song-name">Church</span><br><span
 									class="artist">Coldplay</span></div>
-							<div class="more_icon"></div>
+							<button class="more_icon"></button>
 							<div class="time">2:46</div>
 						</div>
 						<div class="music align-center">
@@ -166,7 +133,7 @@
 							<div class="name"><span class="song-name">Trouble In Town</span><br><span
 									class="artist">Coldplay</span>
 							</div>
-							<div class="more_icon"></div>
+							<button class="more_icon"></button>
 							<div class="time">2:46</div>
 						</div>
 						<div class="music align-center">
@@ -183,7 +150,7 @@
 								</svg></div>
 							<div class="name"><span class="song-name">BrokEn</span><br><span
 									class="artist">Coldplay</span></div>
-							<div class="more_icon"></div>
+							<button class="more_icon"></button>
 							<div class="time">2:46</div>
 						</div>
 						<div class="music align-center">
@@ -200,7 +167,7 @@
 								</svg></div>
 							<div class="name"><span class="song-name">Daddy</span><br><span
 									class="artist">Coldplay</span></div>
-							<div class="more_icon"></div>
+							<button class="more_icon"></button>
 							<div class="time">2:46</div>
 						</div>
 					</div>
@@ -227,7 +194,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="row m-1 mt-2 d-none" id="liked-songs-section">
+			<div class="row m-1 mt-2 section d-none" id="liked-songs-section">
 				<div class="bg-grad">
 					<div class="row">
 						<div class="col">
@@ -243,47 +210,62 @@
 						</div>
 					</div>
 				</div>
-				<!-- <div class="w-100 h-100 align-center">
+				<div class="w-100 h-100 align-center">
 					<div>
-						<center><svg xmlns="http://www.w3.org/2000/svg" class="icon-poster" width="16" height="16" fill="currentColor"
-						class="bi bi-inbox-fill" viewBox="0 0 16 16">
-						<path
-							d="M4.98 4a.5.5 0 0 0-.39.188L1.54 8H6a.5.5 0 0 1 .5.5 1.5 1.5 0 1 0 3 0A.5.5 0 0 1 10 8h4.46l-3.05-3.812A.5.5 0 0 0 11.02 4H4.98zm-1.17-.437A1.5 1.5 0 0 1 4.98 3h6.04a1.5 1.5 0 0 1 1.17.563l3.7 4.625a.5.5 0 0 1 .106.374l-.39 3.124A1.5 1.5 0 0 1 14.117 13H1.883a1.5 1.5 0 0 1-1.489-1.314l-.39-3.124a.5.5 0 0 1 .106-.374l3.7-4.625z" />
-					</svg>
-					<h3>Empty Folder</h3></center>
+						<center><svg xmlns="http://www.w3.org/2000/svg" class="icon-poster" width="16" height="16"
+								fill="currentColor" class="bi bi-inbox-fill" viewBox="0 0 16 16">
+								<path
+									d="M4.98 4a.5.5 0 0 0-.39.188L1.54 8H6a.5.5 0 0 1 .5.5 1.5 1.5 0 1 0 3 0A.5.5 0 0 1 10 8h4.46l-3.05-3.812A.5.5 0 0 0 11.02 4H4.98zm-1.17-.437A1.5 1.5 0 0 1 4.98 3h6.04a1.5 1.5 0 0 1 1.17.563l3.7 4.625a.5.5 0 0 1 .106.374l-.39 3.124A1.5 1.5 0 0 1 14.117 13H1.883a1.5 1.5 0 0 1-1.489-1.314l-.39-3.124a.5.5 0 0 1 .106-.374l3.7-4.625z" />
+							</svg>
+							<h3>Empty Folder</h3>
+						</center>
 					</div>
-				</div> -->
-				<div class="music align-center liked">
+				</div>
+				<!-- <div class="music align-center liked">
 					<div class="num"><i class="fas fa-play"></i></div>
 					<div class="album liked" style="background-image: url(./resources/cheapthrills.jpg);"></div>
 					<div class="name"><span class="song-name">Cheap Thrills</span><br><span class="artist">Sia</span>
 					</div>
-					<div class="more_icon"></div>
+					<button class="more_icon"></button>
 					<div class="time">2:46</div>
 				</div>
 				<div class="music align-center liked">
 					<div class="num"><i class="fas fa-play"></i></div>
 					<div class="album liked" style="background-image: url(./resources/3.jpg);"></div>
 					<div class="name"><span class="song-name">Daddy</span><br><span class="artist">Coldplay</span></div>
-					<div class="more_icon"></div>
+					<button class="more_icon"></button>
 					<div class="time">2:46</div>
 				</div>
 				<div class="music align-center liked">
 					<div class="num"><i class="fas fa-play"></i></div>
 					<div class="album liked" style="background-image: url(./resources/3.jpg);"></div>
 					<div class="name"><span class="song-name">Daddy</span><br><span class="artist">Coldplay</span></div>
-					<div class="more_icon"></div>
+					<button class="more_icon"></button>
 					<div class="time">2:46</div>
 				</div>
 				<div class="music align-center liked">
 					<div class="num"><i class="fas fa-play"></i></div>
 					<div class="album liked" style="background-image: url(./resources/3.jpg);"></div>
 					<div class="name"><span class="song-name">Daddy</span><br><span class="artist">Coldplay</span></div>
-					<div class="more_icon"></div>
+					<button class="more_icon"></button>
 					<div class="time">2:46</div>
+				</div> -->
+			</div>
+			<div class="row m-1 mt-2 section d-none" id="music-video">
+				<div class="bg-grad">
+					<div class="row">
+						<div class="col">
+							<h1 class="heading">StreamLinked<sup>+</sup></h1>
+							<p>Stream music from the Internet</p>
+						</div>
+						<div class="col"></div>
+						<div class="col">
+							<p class="icon-poster fav" style="font-size: 1rem;">StreamLinked<sup>+</sup></p>
+						</div>
+					</div>
 				</div>
 			</div>
-			<div class="row m-1 mt-2" id="info-by-album">
+			<div class="row m-1 mt-2 section d-none" id="info-by-album">
 				<div class="bg-grad">
 					<div class="row">
 						<div class="col">
@@ -292,13 +274,28 @@
 						<div class="col">
 						</div>
 						<div class="col">
-							<ion-icon class="icon-poster fav" name="musical-note-outline">...</ion-icon>
+							<svg version="1.1" id="Layer_1" class="icon-poster fav" xmlns="http://www.w3.org/2000/svg"
+								xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 520 520"
+								xml:space="preserve">
+								<g>
+									<g>
+										<g>
+											<path
+												d="M0,42.667v426.667c0,11.776,9.536,21.333,21.333,21.333h64V21.333h-64C9.536,21.333,0,30.891,0,42.667z" />
+											<path
+												d="M234.667,363.855c0,11.115,9.557,20.139,21.333,20.139c11.563,0,21.333-9.771,21.333-21.333v-21.333H256     C244.843,341.327,234.667,352.058,234.667,363.855z" />
+											<path
+												d="M490.662,21.329H127.996v469.333h362.667c11.797,0,21.333-9.557,21.333-21.333V42.662     C511.996,30.886,502.46,21.329,490.662,21.329z M400.188,250.428l-6.379,20.16c-2.88,9.088-11.264,14.912-20.331,14.912     c-2.133,0-4.288-0.32-6.443-1.003c-11.221-3.541-17.451-15.531-13.888-26.773l6.485-20.48     c6.357-19.157,2.347-40.107-10.432-55.253l-29.205-26.816v164.821v42.667c0,35.307-28.693,64-64,64     c-35.285,0-64-28.181-64-62.805c0-35.328,29.312-65.195,64-65.195h21.333v-192c0-1.067,0.469-1.984,0.619-3.008     c0.213-1.6,0.341-3.179,0.939-4.693c0.576-1.493,1.536-2.709,2.411-4.011c0.597-0.875,0.896-1.899,1.643-2.709     c0.107-0.107,0.256-0.149,0.363-0.256c1.109-1.152,2.496-1.92,3.84-2.795c1.003-0.683,1.899-1.557,2.987-2.027     c0.896-0.384,1.92-0.427,2.88-0.683c1.728-0.491,3.456-1.024,5.248-1.067c0.149,0,0.256-0.085,0.405-0.085     c1.024,0,1.92,0.448,2.901,0.597c1.643,0.213,3.243,0.363,4.8,0.96c1.536,0.597,2.773,1.579,4.117,2.475     c0.853,0.597,1.813,0.875,2.603,1.579l65.899,60.459c0.576,0.512,1.131,1.088,1.643,1.664     C403.878,179.644,411.366,216.934,400.188,250.428z" />
+										</g>
+									</g>
+								</g>
+							</svg>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		<div class="col-2 lyrics-tab">
+		<div class="col-2 lyrics-tab disabled">
 			<h3 class="heading">Lyrics</h3>
 			<div class="lyrics">Come on, come on, turn the radio on<br><br>
 				It's Friday night, and it won't be long<br><br>
@@ -328,7 +325,7 @@
 				<div class="col align-center">
 					<div class="control_music">
 						<i class="fas fa-step-backward control_music"></i>
-						<i class="far fa-play-circle" id="play_music_state"></i>
+						<i class="fas fa-play" id="play_music_state"></i>
 						<i class="fas fa-step-forward control_music"></i>
 					</div>
 				</div>

@@ -1,9 +1,10 @@
-$("body").on("click", () => {
-    if (document.getElementById("options").innerHTML != "") {
+document.addEventListener("click", (data) => {
+    if (data.target.nodeName != "svg" && data.target.nodeName != "BUTTON") {
         $("#options").addClass("hidden");
         $("#body").removeClass("option_active");
         setTimeout(() => { $("#options").html(""); }, 500);
     }
+    console.log(data);
 });
 function displayOptions(options, danger) {
     let inner_option = "";
@@ -23,6 +24,7 @@ function displayOptions(options, danger) {
         $("#body").addClass("option_active");
     }
 }
+// More Icon
 $(".more_icon")
     .on("click", () => {
     let options = [
@@ -37,7 +39,6 @@ $(".more_icon")
 //Init Load;
 $(".avatar_image").css("background-image", `url(${user["profile"]})`);
 $(".first_name").html(user["name"]["first"]);
-// $(".themeSelector").on("click", themeChange);
 $(".themeSelector").on("click", () => {
     let inner_option = "";
     let availibleThemes = [["Dark Theme", "themeChange('Dark Theme')"], ["Light Theme", "themeChange('Light Theme')"], ["Red Berry", "themeChange('Red Berry')"], ["Blu Sky", "themeChange('Blu Sky')"]];
@@ -49,6 +50,7 @@ function themeChange(selected) {
     user["isLightTheme"] = selected;
 }
 themeChange(user["Theme"]);
+// Show/Hide Lyrics
 $("#show_lyrics").on("click", () => {
     if ($(".lyrics-tab").hasClass("disabled")) {
         $(".lyrics-tab").removeClass("disabled");
@@ -58,13 +60,6 @@ $("#show_lyrics").on("click", () => {
         $(".lyrics-tab").addClass("disabled");
         $("#show_lyrics").removeClass("activated");
     }
-});
-$("#btn-to-liked").on("click", () => {
-    console.log(`${this.id}`);
-    $("#info-by-album").addClass("d-none");
-    $("#liked-songs-section").removeClass("d-none");
-    $(".selected").removeClass("selected");
-    $(`#btn-to-liked`).addClass("selected");
 });
 // Show Logged in Users to switch
 $("#alt_user").on("mouseover", () => {

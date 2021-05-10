@@ -1,35 +1,37 @@
-$("body").on("click", () => {
-    if (document.getElementById("options").innerHTML != "") {
+document.addEventListener("click", (data) => {
+    if (data.target.nodeName != "svg" && data.target.nodeName != "BUTTON") {
         $("#options").addClass("hidden");
         $("#body").removeClass("option_active");
         setTimeout(() => { $("#options").html(""); }, 500)
     }
+    console.log(data)
 })
 
-function displayOptions(options, danger){
-    let inner_option:string = "";
+function displayOptions(options, danger) {
+    let inner_option: string = "";
     for (let i = 0; i < options.length; i++)
-            inner_option = inner_option + `<div class="option" onclick="${options[i][1]}">${options[i][0]}</div>`; 
-        if (document.getElementById("options").innerHTML != "") {
-            $("#options").addClass("hidden");
-            $("#body").removeClass("option_active");
-            setTimeout(() => { $("#options").html(""); }, 500)
-            setTimeout(() => {
-                $("#options").append(`<div class="container"><div class="heading">Options</div>${inner_option}<div class="option danger">${danger}</div></div>`).removeClass("hidden");
-                $("#body").addClass("option_active");
-            }, 550)
-        } else {
+        inner_option = inner_option + `<div class="option" onclick="${options[i][1]}">${options[i][0]}</div>`;
+    if (document.getElementById("options").innerHTML != "") {
+        $("#options").addClass("hidden");
+        $("#body").removeClass("option_active");
+        setTimeout(() => { $("#options").html(""); }, 500)
+        setTimeout(() => {
             $("#options").append(`<div class="container"><div class="heading">Options</div>${inner_option}<div class="option danger">${danger}</div></div>`).removeClass("hidden");
             $("#body").addClass("option_active");
-        }
+        }, 550)
+    } else {
+        $("#options").append(`<div class="container"><div class="heading">Options</div>${inner_option}<div class="option danger">${danger}</div></div>`).removeClass("hidden");
+        $("#body").addClass("option_active");
+    }
 }
 
+// More Icon
 $(".more_icon")
     .on("click", () => {
         let options = [
-            ["Play", `play{${this}}`], 
-            ["Download", `download(${this})`], 
-            ["Add to Favourite", `add_to_fav(${this})`], 
+            ["Play", `play{${this}}`],
+            ["Download", `download(${this})`],
+            ["Add to Favourite", `add_to_fav(${this})`],
             ["Add to Playlist", `add_to_playlist(${this})`]
         ];
         displayOptions(options, "Delete");
@@ -39,14 +41,13 @@ $(".more_icon")
 //Init Load;
 $(".avatar_image").css("background-image", `url(${user["profile"]})`);
 $(".first_name").html(user["name"]["first"]);
-// $(".themeSelector").on("click", themeChange);
-$(".themeSelector").on("click", ()=>{
+$(".themeSelector").on("click", () => {
     let inner_option = "";
     let availibleThemes = [["Dark Theme", "themeChange('Dark Theme')"], ["Light Theme", "themeChange('Light Theme')"], ["Red Berry", "themeChange('Red Berry')"], ["Blu Sky", "themeChange('Blu Sky')"]];
     displayOptions(availibleThemes, "Close");
 });
 
-function themeChange(selected) {  
+function themeChange(selected) {
     document.documentElement.setAttribute('data-theme', selected);
     $(".themeSelector").html(selected);
     user["isLightTheme"] = selected;
@@ -54,35 +55,28 @@ function themeChange(selected) {
 
 themeChange(user["Theme"])
 
-$("#show_lyrics").on("click", ()=>{
-    if ($(".lyrics-tab").hasClass("disabled")){
+// Show/Hide Lyrics
+$("#show_lyrics").on("click", () => {
+    if ($(".lyrics-tab").hasClass("disabled")) {
         $(".lyrics-tab").removeClass("disabled");
-        $("#show_lyrics").addClass("activated");  
+        $("#show_lyrics").addClass("activated");
     } else {
         $(".lyrics-tab").addClass("disabled");
-        $("#show_lyrics").removeClass("activated");  
+        $("#show_lyrics").removeClass("activated");
     }
 })
 
-$("#btn-to-liked").on("click", ()=>{
-    console.log(`${this.id}`);
-    $("#info-by-album").addClass("d-none");
-    $("#liked-songs-section").removeClass("d-none");
-    $(".selected").removeClass("selected");
-    $(`#btn-to-liked`).addClass("selected");
-})
-
 // Show Logged in Users to switch
-$("#alt_user").on("mouseover", ()=>{
+$("#alt_user").on("mouseover", () => {
     let otherUser = "";
     $("#alt_user").css("display", "none");
-    for (let i = 0; i < Object.values(accounts).length; i ++) {
+    for (let i = 0; i < Object.values(accounts).length; i++) {
         otherUser = otherUser + `<div class="avatar_image" style="background-image: url('${Object.values(accounts)[i].profile}')"></div>`;
     }
     $("#other-accounts").html(otherUser);
 })
 
-$(".accounts").on("mouseleave", ()=>{
+$(".accounts").on("mouseleave", () => {
     $("#other-accounts").html("");
     $("#alt_user").css("display", "initial");
 })
