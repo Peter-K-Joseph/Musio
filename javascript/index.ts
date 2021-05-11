@@ -13,18 +13,16 @@ const accounts = {
             "first": "Peter",
             "last": "K Joseph"
         },
-        "id": "65esds-d546sa-df455s",
         "Theme": "Dark Theme",
-        "profile": "./resources/profile3.jpeg"
+        "profile": "./resources/profile1.jpeg"
     },
     1: {
         "name": {
             "first": "Anagh",
             "last": "N Manoj"
         },
-        "id": "65esds-d546sa-df455s",
         "Theme": "Light Theme",
-        "profile": "./resources/profile3.jpeg"
+        "profile": "./resources/profile2.jpeg"
     }
 }
 
