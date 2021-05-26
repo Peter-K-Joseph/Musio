@@ -153,13 +153,14 @@ body {
 .row.slider {
   height: 3px;
   margin: 0 -5px;
-  width: 30%;
+  width: 0%;
   border-radius: 1.5em 0em 0 0;
   background-color: var(--option);
 }
 
 .col.col-1.currently_playing {
   border-radius: 0.5rem;
+  background-position: center;
   background-color: var(--option);
   width: 7vh;
   height: 7vh;
@@ -209,7 +210,7 @@ body {
 }
 
 .optionNav {
-  height: 95%;
+  height: 65vh;
 }
 
 .col-1_3 {
@@ -630,4 +631,58 @@ small {
   grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
   grid-column-gap: 50px;
   overflow: auto;
+}
+
+.grid-2 {
+  padding: 10px !important;
+  width: 400px;
+  height: 230px;
+}
+
+.plyr__video-embed {
+  width: 100% !important;
+  height: 100% !important;
+  padding: 0 !important;
+  border-radius: .75rem;
+  background-size: cover;
+}
+
+.lyrics-tab .plyr {
+  border: 0;
+  width: 90%;
+  height: 20%;
+}
+
+.lyrics-tab.detached {
+  width: 450px !important;
+  height: 200px !important;
+  border-radius: .5rem;
+  text-align: center;
+  background-color: #202428;
+  bottom: 30vh;
+  right: 0vw;
+  top: 80vh;
+  transition: 0s all ease-in;
+  position: absolute;
+  transform: translateY(-75%) translateX(-3%);
+  padding: 0;
+}
+
+.lyrics-tab.detached.hide {
+  transform: scale(0);
+  transition: .5s all ease-in-out;
+}
+
+.lyrics-tab.detached * {
+  fill: white;
+}
+
+.lyrics-tab.detached .plyr {
+  width: 100%;
+  height: 100%;
+  border-radius: .35rem;
+}
+
+.plyr__menu__container {
+  background-color: var(--bg-color-main) !important;
 }

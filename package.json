@@ -9,7 +9,14 @@
   "author": "Peter K Joseph",
   "license": "MIT",
   "dependencies": {
-    "@types/jquery": "^3.5.5",
-    "jquery": "^3.6.0"
-  }
+    "@types/jquery": "^3.5.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peter-K-Joseph/Musio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Peter-K-Joseph/Musio/issues"
+  },
+  "homepage": "https://github.com/Peter-K-Joseph/Musio#readme"
 }

@@ -1,19 +1,9 @@
-const user = {
-    "name": {
-        "first": "Arohi",
-        "last": "Varshney"
-    },
-    "profile": "./resources/profile3.jpeg",
-    "Theme": "Dark Theme"
-}
-
 const accounts = {
     0: {
         "name": {
             "first": "Peter",
             "last": "K Joseph"
         },
-        "Theme": "Dark Theme",
         "profile": "./resources/profile1.jpeg"
     },
     1: {
@@ -21,8 +11,26 @@ const accounts = {
             "first": "Anagh",
             "last": "N Manoj"
         },
-        "Theme": "Light Theme",
         "profile": "./resources/profile2.jpeg"
+    },
+    2: {
+        "name": {
+            "first": "Arohi",
+            "last": "Varshney"
+        },
+        "profile": "./resources/profile3.jpeg"
+    }
+}
+
+const youtube_music = {
+    1: {
+        "link": "yO28Z5_Eyls"
+    },
+    2: {
+        "link": "gFeZrkdfKZk"
+    },
+    3: {
+        "link": "MJyKN-8UncM"
     }
 }
 
