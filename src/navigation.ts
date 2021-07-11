@@ -1,4 +1,4 @@
-function navigate(id, btn_Id){
+const navigate = (id, btn_Id) => {
     $(".section").addClass("d-none")
     $(`#${id}`).removeClass("d-none")
     $(".selected").removeClass("selected")
@@ -6,7 +6,7 @@ function navigate(id, btn_Id){
 }
 
 // Show Logged in Users to switch
-function userList(){
+const userList = () => {
     let otherUser = "";
     $("#alt_user").css("display", "none");
     for (let i = 0; i < Object.values(accounts).length; i++) {
@@ -22,7 +22,7 @@ $(".accounts").on("mouseleave", () => {
     $("#alt_user").css("display", "initial");
 })
 
-function changeAuth(authID){
+const changeAuth = (authID) => {
     sessionStorage.setItem("activeUser", `{
         "name": { 
             "first": "${Object.values(accounts)[authID].name.first}",

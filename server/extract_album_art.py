@@ -16,7 +16,7 @@ def music_update_services():
             else:
                 if (prev_directory != root):
                     os.system('cls' if os.name == 'nt' else 'clear')
-                    print("Scanning " + root)
+                    print("[NOTIFY] System Scan in Progress...\n[SYSTEM SCAN] >> Scanning " + root)
                     prev_directory = root
                 ext = os.path.splitext(file)[-1].lower()
                 if (ext == ".mp3" or ext == ".aac" or ext == ".flac" or ext == ".m4a" or ext == ".ogg" or ext == ".opus" or ext == ".wav"):

@@ -4,7 +4,8 @@
   "description": "A Beautiful Music Player",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "typescript": "tsc",
+    "sass-compile-autorun": "sass --watch src:dist/css"
   },
   "author": "Peter K Joseph",
   "license": "MIT",
