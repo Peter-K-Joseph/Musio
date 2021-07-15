@@ -71,6 +71,8 @@
   scrollbar-width: none;
   color: var(--font-color);
   transition: 0.1s all ease-in;
+  user-select: none;
+  user-zoom: none;
 }
 
 ::-webkit-scrollbar {
@@ -171,9 +173,20 @@ body {
   width: 7vh;
   height: 7vh;
   margin: 1.1vh 15px;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
-.album_art {
+.album_art_parent div h3 {
+  font-size: 1.2rem;
+  padding-bottom: 0 !important;
+  margin: 0;
+}
+.album_art_parent div p {
+  padding-bottom: 0 !important;
+  margin: 0;
+}
+.album_art_parent .album_art {
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -287,10 +300,46 @@ body {
   display: flex;
   width: 100%;
 }
+.music:hover {
+  background-color: var(--bg-color-main);
+  border-radius: 5px;
+}
+.music:active {
+  transform: scale(0.99);
+}
 
 .music .heart {
   width: 45px;
   fill: var(--deselected);
+}
+
+@keyframes modal_show {
+  0% {
+    transform: scale(1.2);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+.notiflix-confirm-content, .notiflix-report-content {
+  background-color: var(--bg-color-main) !important;
+  animation: modal_show 0.3s !important;
+}
+.notiflix-confirm-content *, .notiflix-report-content * {
+  color: var(--font-color) !important;
+}
+.notiflix-confirm-content div *, .notiflix-report-content div * {
+  text-align: center;
+}
+.notiflix-confirm-content .swal-button.swal-button--cancel, .notiflix-confirm-content .confirm-button-ok, .notiflix-report-content .swal-button.swal-button--cancel, .notiflix-report-content .confirm-button-ok {
+  background-color: var(--pure-red) !important;
+  text-decoration: none !important;
+}
+.notiflix-confirm-content .swal-button.swal-button--confirm, .notiflix-confirm-content #NXConfirmButtonCancel, .notiflix-report-content .swal-button.swal-button--confirm, .notiflix-report-content #NXConfirmButtonCancel {
+  color: black !important;
+  background-color: whitesmoke !important;
 }
 
 .music * {

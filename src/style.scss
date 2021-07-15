@@ -72,6 +72,8 @@
   scrollbar-width: none;
   color: var(--font-color);
   transition: 0.1s all ease-in;
+  user-select: none;
+  user-zoom: none;
 }
 
 ::-webkit-scrollbar {
@@ -172,11 +174,30 @@ body {
   width: 7vh;
   height: 7vh;
   margin: 1.1vh 15px;
+  background-size:cover;
+  background-repeat: no-repeat;
 }
 
-.album_art {
-  background-repeat: no-repeat;
-  background-size: cover;
+
+.album_art_parent {
+    div {
+        h3 {
+            font-size: 1.2rem;
+            padding-bottom: 0 !important;
+            margin: 0;
+        }
+
+        p {
+            padding-bottom: 0 !important;
+            margin: 0;
+        }
+    }
+
+    .album_art {
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+
 }
 
 .currently_playing.title.col-4 h3 {
@@ -286,11 +307,48 @@ body {
 .music {
   display: flex;
   width: 100%;
+
+  &:hover {
+    background-color: var(--bg-color-main);
+    border-radius: 5px;
+  }
+
+  &:active{
+    transform: scale(.99);
+  }
+
 }
 
 .music .heart {
   width: 45px;
   fill: var(--deselected);
+}
+
+@keyframes modal_show {
+    0%{transform: scale(1.2); opacity: 0;}
+    100%{transform: scale(1); opacity: 1;}
+}
+
+.notiflix-confirm-content, .notiflix-report-content {
+  background-color: var(--bg-color-main) !important; 
+  animation: modal_show .3s !important;
+  
+
+  * {
+    color: var(--font-color) !important;
+  }
+  div * {
+    text-align: center;
+  }
+
+  .swal-button.swal-button--cancel, .confirm-button-ok {
+    background-color: var(--pure-red) !important;
+    text-decoration: none !important;
+  }
+  .swal-button.swal-button--confirm, #NXConfirmButtonCancel{
+    color: black !important;
+    background-color: whitesmoke !important;
+  }
 }
 
 .music * {

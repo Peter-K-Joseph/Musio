@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "typescript": "tsc",
-    "sass-compile-autorun": "sass --watch src:dist/css"
+    "sass-compile-autorun": "sass --watch src:dist/css",
+    "php-server": "php -S localhost:8000"
   },
   "author": "Peter K Joseph",
   "license": "MIT",
