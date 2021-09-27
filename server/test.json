@@ -6,51 +6,6 @@
         "album": "Ae Dil Hai Mushkil (Deluxe Edition) [Original Motion Picture Soundtrack]"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.Y4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.Y4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.Y4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/01. Here We Go Around Again (1990).mp3",
         "name": "Here We Go Around Again (1990)",
@@ -58,51 +13,6 @@
         "genre": "Pop",
         "album": "The Rarities"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/01. Sunrise.mp3",
@@ -124,50 +34,11 @@
         "album": "Ae Dil Hai Mushkil (Deluxe Edition) [Original Motion Picture Soundtrack]"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.J4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
+    
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.J4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
+    
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.J4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
+    
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/02. Can You Hear Me (1991).mp3",
@@ -176,51 +47,6 @@
         "genre": "Pop",
         "album": "The Rarities"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/02. Church.mp3",
@@ -242,51 +68,6 @@
         "album": "Ae Dil Hai Mushkil (Deluxe Edition) [Original Motion Picture Soundtrack]"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.K4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.K4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.K4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/03. Do You Think of Me (1993).mp3",
         "name": "Do You Think of Me (1993)",
@@ -294,51 +75,6 @@
         "genre": "Pop",
         "album": "The Rarities"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/03. Trouble In Town.mp3",
@@ -354,51 +90,6 @@
         "album": ""
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/04. BrokEn.mp3",
         "name": "BrokEn",
@@ -407,51 +98,6 @@
         "album": "Everyday Life"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.>4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.>4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.>4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/04. Everything Fades Away (1993).mp3",
         "name": "Everything Fades Away (1993)",
@@ -459,51 +105,6 @@
         "genre": "Pop",
         "album": "The Rarities"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.K4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.K4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.K4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/04. Forever (Live at the Tokyo Dome).mp3",
@@ -525,51 +126,6 @@
         "album": "Ae Dil Hai Mushkil (Deluxe Edition) [Original Motion Picture Soundtrack]"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.I4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.I4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.I4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/05. All I Live For (1993).mp3",
         "name": "All I Live For (1993)",
@@ -577,51 +133,6 @@
         "genre": "Pop",
         "album": "The Rarities"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/05. Daddy.mp3",
@@ -643,51 +154,6 @@
         "album": "Ae Dil Hai Mushkil (Deluxe Edition) [Original Motion Picture Soundtrack]"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.W4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.W4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.W4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/06. One Night (1995).mp3",
         "name": "One Night (1995)",
@@ -695,51 +161,6 @@
         "genre": "Pop",
         "album": "The Rarities"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/06. WOTWPOTP.mp3",
@@ -761,51 +182,6 @@
         "album": "Ae Dil Hai Mushkil (Deluxe Edition) [Original Motion Picture Soundtrack]"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.G4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.G4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.G4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/07. Always Be My Baby (Live at the Tokyo Dome).mp3",
         "name": "Always Be My Baby (Live at the Tokyo Dome)",
@@ -814,51 +190,6 @@
         "album": "The Rarities"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/07. Arabesque.mp3",
         "name": "Arabesque",
@@ -866,51 +197,6 @@
         "genre": "Alternative",
         "album": "Everyday Life"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.X4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.X4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.X4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/07. Slipping Away (1996).mp3",
@@ -932,51 +218,6 @@
         "album": "Ae Dil Hai Mushkil (Deluxe Edition) [Original Motion Picture Soundtrack]"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.94" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.94" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.94" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/08. Out Here On My Own (2000).mp3",
         "name": "Out Here On My Own (2000)",
@@ -984,51 +225,6 @@
         "genre": "Pop",
         "album": "The Rarities"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/08. When I Need A Friend.mp3",
@@ -1050,51 +246,6 @@
         "album": "Ae Dil Hai Mushkil (Deluxe Edition) [Original Motion Picture Soundtrack]"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.U4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.U4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.U4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/09. Loverboy (Firecracker - Original Version, 2001).mp3",
         "name": "Loverboy (Firecracker - Original Version, 2001)",
@@ -1102,51 +253,6 @@
         "genre": "Pop",
         "album": "The Rarities"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/09. SunriseSunset Interlude #1.mp3",
@@ -1168,51 +274,6 @@
         "album": "Ae Dil Hai Mushkil (Deluxe Edition) [Original Motion Picture Soundtrack]"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.C4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.C4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.C4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/10. I Pray (2005).mp3",
         "name": "I Pray (2005)",
@@ -1220,51 +281,6 @@
         "genre": "Pop",
         "album": "The Rarities"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/10. SunriseSunset Interlude #2.mp3",
@@ -1280,51 +296,6 @@
         "album": ""
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.E4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.E4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.E4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/11. Cool On You (2007).mp3",
         "name": "Cool On You (2007)",
@@ -1333,51 +304,6 @@
         "album": "The Rarities"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.X4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.X4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.X4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/11. Make It Happen (Live at the Tokyo Dome).mp3",
         "name": "Make It Happen (Live at the Tokyo Dome)",
@@ -1385,51 +311,6 @@
         "genre": "Pop",
         "album": "The Rarities"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/11. SunriseSunset Interlude #3.mp3",
@@ -1445,51 +326,6 @@
         "album": ""
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.R4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.R4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.R4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/12. Just Be Good To Me (Live at the Tokyo Dome).mp3",
         "name": "Just Be Good To Me (Live at the Tokyo Dome)",
@@ -1498,51 +334,6 @@
         "album": "The Rarities"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.>4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.>4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.>4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/12. Mesmerized (2012).mp3",
         "name": "Mesmerized (2012)",
@@ -1550,51 +341,6 @@
         "genre": "Pop",
         "album": "The Rarities"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/12. SunriseSunset Interlude #4.mp3",
@@ -1610,51 +356,6 @@
         "album": ""
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.<4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.<4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.<4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/13. Lullaby of Birdland (Live, 2014).mp3",
         "name": "Lullaby of Birdland (Live, 2014)",
@@ -1662,51 +363,6 @@
         "genre": "Pop",
         "album": "The Rarities"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/13. SunriseSunset Interlude #5.mp3",
@@ -1722,51 +378,6 @@
         "album": ""
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.L4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.L4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.L4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/14. Save The Day (2020).mp3",
         "name": "Save The Day (2020)",
@@ -1774,51 +385,6 @@
         "genre": "Pop",
         "album": "The Rarities"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/14. SunriseSunset Interlude #6.mp3",
@@ -1834,51 +400,6 @@
         "album": ""
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.44" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.44" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.44" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/15. Close My Eyes (Acoustic, 2020).mp3",
         "name": "Close My Eyes (Acoustic, 2020)",
@@ -1886,51 +407,6 @@
         "genre": "Pop",
         "album": "The Rarities"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/15. Guns.mp3",
@@ -1946,51 +422,6 @@
         "album": ""
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/16. Orphans.mp3",
         "name": "Orphans",
@@ -2004,51 +435,6 @@
         "genre": "",
         "album": ""
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/17. Eko.mp3",
@@ -2064,51 +450,6 @@
         "album": ""
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/18. Cry Cry Cry.mp3",
         "name": "Cry Cry Cry",
@@ -2122,51 +463,6 @@
         "genre": "",
         "album": ""
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/19. Old Friends.mp3",
@@ -2182,51 +478,6 @@
         "album": ""
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/20. Bani Adam.mp3",
         "name": "Bani Adam",
@@ -2241,51 +492,6 @@
         "album": ""
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/21. Champion Of The World.mp3",
         "name": "Champion Of The World",
@@ -2299,51 +505,6 @@
         "genre": "",
         "album": ""
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/22. Everyday Life.mp3",
@@ -2401,51 +562,6 @@
         "album": "Sounds Good Feels Good (Deluxe)"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/5 Seconds of Summer - She Looks So Perfect.mp3",
         "name": "She Looks So Perfect",
@@ -2490,51 +606,6 @@
         "album": "Skyfall - Single"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.%4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.%4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.%4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Aerocity - Escapism - EP - 01 Love Lost.mp3",
         "name": "Love Lost",
@@ -2543,51 +614,6 @@
         "album": "Escapism - EP"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Aerocity - Escapism - EP - 02 Fever Dream.mp3",
         "name": "Fever Dream",
@@ -2595,51 +621,6 @@
         "genre": "Electronic",
         "album": "Escapism - EP"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.	4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.	4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.	4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Aerocity - Escapism - EP - 04 Interlude #2.mp3",
@@ -2673,50 +654,11 @@
         "album": "The Click (Deluxe Edition)"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.J4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
+    
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.J4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
+    
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.J4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
+    
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Alessia Cara - How Far I'll Go.mp3",
@@ -2725,51 +667,6 @@
         "genre": "Soundtrack",
         "album": "Moana (Original Motion Picture Soundtrack)"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª.P" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª.P" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª.P" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Alessia Cara - Scars To Your Beautiful.mp3",
@@ -2796,51 +693,6 @@
         "genre": "R&BSoul",
         "album": "All of Me"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª.2" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª.2" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª.2" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/AmaLee - Monsters (feat. VOXEL).mp3",
@@ -2922,51 +774,6 @@
         "album": "You Are the Reason (Duet Version) - Single"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Calvin Harris - I Need Your Love Ft. Ellie Goulding.mp3",
         "name": "I Need Your Love (feat. Ellie Goulding)",
@@ -2980,51 +787,6 @@
         "genre": "Pop",
         "album": "Camila"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Capital Cities - One Minute More.mp3",
@@ -3051,51 +813,6 @@
         "genre": "Bollywood",
         "album": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack)"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª.C" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª.C" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª.C" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Charlie Puth - We Donât Talk Anymore (feat. Selena Gomez).mp3",
@@ -3129,51 +846,6 @@
         "album": "Head or Heart"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98r¹4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98r¹4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98r¹4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Christina Perri - Jars Of Heart.mp3",
         "name": "Jar of Hearts",
@@ -3187,51 +859,6 @@
         "genre": "Pop",
         "album": "Head or Heart"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Christina Perri - Sad Song.mp3",
@@ -3247,51 +874,6 @@
         "album": "The Twilight Saga: Breaking Dawn - Pt. 1 (Original Motion Picture Soundtrack)"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Ciara - Paint It, Black.mp3",
         "name": "Paint It, Black",
@@ -3306,51 +888,6 @@
         "album": "Circus and Churches - Single"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 Í4" ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 Í4" ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 Í4" ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Coldplay - Cemeteries Of London.mp3",
         "name": "Cemeteries of London",
@@ -3358,54 +895,6 @@
         "genre": "Alternative",
         "album": "Viva La Vida or Death and All His Friends"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.90.¾4" ["short_version"] =>
-        string(9)
-        "LAME3.90." ["numeric_version"] =>
-        string(5)
-        "3.90." ["integer_version"] =>
-        array(3) {
-            [0] =>
-            int(3)[1] =>
-                int(90)[2] =>
-                int(0)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.90.¾4" ["short_version"] =>
-        string(9)
-        "LAME3.90." ["numeric_version"] =>
-        string(5)
-        "3.90." ["integer_version"] =>
-        array(3) {
-            [0] =>
-            int(3)[1] =>
-                int(90)[2] =>
-                int(0)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.90.¾4" ["short_version"] =>
-        string(9)
-        "LAME3.90." ["numeric_version"] =>
-        string(5)
-        "3.90." ["integer_version"] =>
-        array(3) {
-            [0] =>
-            int(3)[1] =>
-                int(90)[2] =>
-                int(0)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Coldplay - Fix You.mp3",
@@ -3432,51 +921,6 @@
         "genre": "Alternative",
         "album": "Ghost Stories"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 º.M4" ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 º.M4" ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 º.M4" ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Coldplay - Life In Technicolor II.mp3",
@@ -3546,51 +990,6 @@
         "album": "A Head Full of Dreams"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 Í4" ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 Í4" ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 Í4" ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Coldplay - Violet Hill.mp3",
         "name": "Violet Hill",
@@ -3617,51 +1016,6 @@
         "album": "Who You Say I Am"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 ª.." ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 ª.." ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 ª.." ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Counting Crows - A Long December.mp3",
         "name": "A Long December",
@@ -3682,51 +1036,6 @@
         "album": "Dura - Single"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ.v4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ.v4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ.v4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/David Guetta - Titanium (feat- Sia).mp3",
         "name": "Titanium (feat. Sia)",
@@ -3746,54 +1055,6 @@
         "genre": "SingerSongwriter",
         "album": "A Place We Knew"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.90.Ä2" ["short_version"] =>
-        string(9)
-        "LAME3.90." ["numeric_version"] =>
-        string(5)
-        "3.90." ["integer_version"] =>
-        array(3) {
-            [0] =>
-            int(3)[1] =>
-                int(90)[2] =>
-                int(0)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.90.Ä2" ["short_version"] =>
-        string(9)
-        "LAME3.90." ["numeric_version"] =>
-        string(5)
-        "3.90." ["integer_version"] =>
-        array(3) {
-            [0] =>
-            int(3)[1] =>
-                int(90)[2] =>
-                int(0)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.90.Ä2" ["short_version"] =>
-        string(9)
-        "LAME3.90." ["numeric_version"] =>
-        string(5)
-        "3.90." ["integer_version"] =>
-        array(3) {
-            [0] =>
-            int(3)[1] =>
-                int(90)[2] =>
-                int(0)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Death Cab For Cutie - Brothers On A Hotel Bed.mp3",
@@ -3820,51 +1081,6 @@
         "genre": "Indie Rock",
         "album": "Devil - Single"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Don't you worry child.mp3",
@@ -3898,51 +1114,6 @@
         "album": "÷ (Deluxe)"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª.8" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª.8" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª.8" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Ed Sheeran - Sing .mp3",
         "name": "Sing",
@@ -3963,51 +1134,6 @@
         "album": "Sky High - Single"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ._4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ._4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ._4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Ellie Goulding - Hate Me.mp3",
         "name": "Hate Me",
@@ -4015,51 +1141,6 @@
         "genre": "Pop",
         "album": "Hate Me - Single"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 º.T4" ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 º.T4" ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 º.T4" ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Eminem - Going Through Changes.mp3",
@@ -4087,51 +1168,6 @@
         "album": "Like a G6 - Single"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98 º4" ["short_version"] =>
-        string(8)
-        "LAME3.98" ["numeric_version"] =>
-        string(4)
-        "3.98" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98 º4" ["short_version"] =>
-        string(8)
-        "LAME3.98" ["numeric_version"] =>
-        string(4)
-        "3.98" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98 º4" ["short_version"] =>
-        string(8)
-        "LAME3.98" ["numeric_version"] =>
-        string(4)
-        "3.98" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Far From Love.mp3",
         "name": "Far from love",
@@ -4145,51 +1181,6 @@
         "genre": "Christian & Gospel",
         "album": "Fearless - Single"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.92 »" ["short_version"] =>
-        string(8)
-        "LAME3.92" ["numeric_version"] =>
-        string(4)
-        "3.92" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(92)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.92 »" ["short_version"] =>
-        string(8)
-        "LAME3.92" ["numeric_version"] =>
-        string(4)
-        "3.92" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(92)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.92 »" ["short_version"] =>
-        string(8)
-        "LAME3.92" ["numeric_version"] =>
-        string(4)
-        "3.92" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(92)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Fiona Fung - Proud Of You.mp3",
@@ -4210,51 +1201,6 @@
         "genre": "Hip-HopRap",
         "album": "Royal Flush"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Florence + the Machine - Stand By Me.mp3",
@@ -4336,51 +1282,6 @@
         "album": "Breathe In"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Gym Class Heroes - Stereo Hearts (SebassDuck Remix).mp3",
         "name": "Stereo Hearts (Dillon Francis Extended Mix)",
@@ -4389,57 +1290,11 @@
         "album": "Stereo Hearts (Remixes) [feat. Adam Levine] - EP"
     }, {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Hallelujah.mp3",
-        "name": "Hallelujah (From "
-        Shrek ")",
+        "name": "Hallelujah (From \"Shrek \")",
         "artist": "L.A Band",
         "genre": "Soundtrack",
         "album": "The Ogre Hit List"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rº.W4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rº.W4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rº.W4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Halo.mp3",
@@ -4461,50 +1316,11 @@
         "album": "The Essential Michael Jackson"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.J4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
+    
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.J4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
+    
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.J4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
+    
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Hedegaard & Broiler & Lukas Graham - Happy Home (broiler Remix).mp3",
@@ -4513,51 +1329,6 @@
         "genre": "Electronic",
         "album": "Happy Home (feat. Lukas Graham) [Sam Feldt Remix] - Single"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rº.O4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rº.O4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rº.O4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Hold on.mp3",
@@ -4621,51 +1392,6 @@
         "album": "I'm Already There"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Idina Menzel- Let It Go.mp3",
         "name": "Let It Go",
@@ -4674,51 +1400,6 @@
         "album": "Frozen (Deluxe Edition) [Original Motion Picture Soundtrack]"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Imagine Dragons - I Bet My Life.mp3",
         "name": "I Bet My Life",
@@ -4726,51 +1407,6 @@
         "genre": "Alternative",
         "album": "Smoke + Mirrors"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Imagine Dragons - Working Man.mp3",
@@ -4804,51 +1440,6 @@
         "album": "Sweet Dreams & Starlight"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª.@" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª.@" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª.@" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Jesus Really Loves Me.mp3",
         "name": "The Jesus Medley: Jesus Loves the Little Children / Jesus Loves Me / I Have Decided to Follow Jesus / When I Get to Heaven",
@@ -4869,51 +1460,6 @@
         "album": "Growth"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Jonas Blue - Mama (feat. William Singe).mp3",
         "name": "Mama (feat. William Singe)",
@@ -4928,51 +1474,6 @@
         "album": "Closer"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rº.N4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rº.N4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rº.N4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/JP Cooper - September Song.mp3",
         "name": "September Song",
@@ -4980,51 +1481,6 @@
         "genre": "SingerSongwriter",
         "album": "Raised Under Grey Skies (Deluxe)"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Jp Saxe - If The World Was Ending (feat. Julia Michaels).mp3",
@@ -5190,51 +1646,6 @@
         "album": "It's Christmas Time (feat. Dan Caplen) - Single"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rª.I" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rª.I" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rª.I" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Margaret - Thank You Very Much.mp3",
         "name": "Thank You Very Much (DJ Tr-Meet Remix)",
@@ -5248,51 +1659,6 @@
         "genre": "Pop",
         "album": "Explicit"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.W4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.W4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.W4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Marshmello & Bastille - Happier.mp3",
@@ -5332,51 +1698,6 @@
         "album": "Take Yours, I'll Take Mine (Jury Chamber Mix) - Single"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/My Story.mp3",
         "name": "My Story",
@@ -5415,51 +1736,6 @@
         "album": "Party Rock Mansion"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.R4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.R4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.R4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/NF - Lie.mp3",
         "name": "Lie",
@@ -5480,54 +1756,6 @@
         "album": "The Christmas Sessions"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.90.¾4" ["short_version"] =>
-        string(9)
-        "LAME3.90." ["numeric_version"] =>
-        string(5)
-        "3.90." ["integer_version"] =>
-        array(3) {
-            [0] =>
-            int(3)[1] =>
-                int(90)[2] =>
-                int(0)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.90.¾4" ["short_version"] =>
-        string(9)
-        "LAME3.90." ["numeric_version"] =>
-        string(5)
-        "3.90." ["integer_version"] =>
-        array(3) {
-            [0] =>
-            int(3)[1] =>
-                int(90)[2] =>
-                int(0)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.90.¾4" ["short_version"] =>
-        string(9)
-        "LAME3.90." ["numeric_version"] =>
-        string(5)
-        "3.90." ["integer_version"] =>
-        array(3) {
-            [0] =>
-            int(3)[1] =>
-                int(90)[2] =>
-                int(0)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/O Holy Night .mp3",
         "name": "O Holy Night",
@@ -5535,51 +1763,6 @@
         "genre": "Holiday",
         "album": "Noël (Deluxe Edition)"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99Íy.64" ["short_version"] =>
-        string(8)
-        "LAME3.99" ["numeric_version"] =>
-        string(4)
-        "3.99" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99Íy.64" ["short_version"] =>
-        string(8)
-        "LAME3.99" ["numeric_version"] =>
-        string(4)
-        "3.99" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99Íy.64" ["short_version"] =>
-        string(8)
-        "LAME3.99" ["numeric_version"] =>
-        string(4)
-        "3.99" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/O Holy Night.mp3",
@@ -5631,51 +1814,6 @@
         "album": "Midnight Memories (Deluxe Edition)"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.100Í4" ["short_version"] =>
-        string(9)
-        "LAME3.100" ["numeric_version"] =>
-        string(5)
-        "3.100" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(100)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.100Í4" ["short_version"] =>
-        string(9)
-        "LAME3.100" ["numeric_version"] =>
-        string(5)
-        "3.100" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(100)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.100Í4" ["short_version"] =>
-        string(9)
-        "LAME3.100" ["numeric_version"] =>
-        string(5)
-        "3.100" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(100)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/One Woman Man - Fifty Shades Darker Original Motion Picture Soundtrack.mp3",
         "name": "One Woman Man",
@@ -5695,51 +1833,6 @@
         "genre": "Pop",
         "album": "Connection - Single"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 º.O4" ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 º.O4" ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 º.O4" ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/OneRepublic - Good Life Waking Up (Deluxe Edition).mp3",
@@ -5767,51 +1860,6 @@
         "album": "Brand Music"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª.=" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª.=" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª.=" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Passenger - Let Her Go .mp3",
         "name": "Let Her Go",
@@ -5826,12 +1874,10 @@
         "album": "Pearl - Single"
     }, {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Phir Na Milen Kabhi.mp3",
-        "name": "Phir Na Milen Kabhi (From "
-        Malang - Unleash the Madness ")",
+        "name": "Phir Na Milen Kabhi (From \"Malang - Unleash the Madness \")",
         "artist": "Ankit Tiwari",
         "genre": "Bollywood",
-        "album": "Phir Na Milen Kabhi (From "
-        Malang - Unleash the Madness ") - Single"
+        "album": "Phir Na Milen Kabhi (From \"Malang - Unleash the Madness \") - Single"
     }, {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Photograph - Ed Sheeran.mp3",
         "name": "Photograph",
@@ -5839,51 +1885,6 @@
         "genre": "Pop",
         "album": "x"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Pool Mashup Just the Way You Are Just a Dream - Pitch Perfect.mp3",
@@ -5917,51 +1918,6 @@
         "album": "Beautiful"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÃ4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÃ4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÃ4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Rachel Platten - Little Light.mp3",
         "name": "Little Light",
@@ -5970,51 +1926,6 @@
         "album": "Be Here"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.96 Í.^4" ["short_version"] =>
-        string(8)
-        "LAME3.96" ["numeric_version"] =>
-        string(4)
-        "3.96" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(96)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.96 Í.^4" ["short_version"] =>
-        string(8)
-        "LAME3.96" ["numeric_version"] =>
-        string(4)
-        "3.96" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(96)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.96 Í.^4" ["short_version"] =>
-        string(8)
-        "LAME3.96" ["numeric_version"] =>
-        string(4)
-        "3.96" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(96)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Right Round - Pitch Perfect.mp3",
         "name": "Right Round (feat. My Name Is Kay)",
@@ -6022,51 +1933,6 @@
         "genre": "Soundtrack",
         "album": "Pitch Perfect (Original Motion Picture Soundtrack)"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÃ.X4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÃ.X4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÃ.X4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Rihanna - Diamonds.mp3",
@@ -6094,51 +1960,6 @@
         "album": "Oblivion (ft. Lily Potter)"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ.W4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ.W4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÍ.W4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Safe And Sound.mp3",
         "name": "Safe and Sound",
@@ -6146,51 +1967,6 @@
         "genre": "",
         "album": "Capital Cities"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÝ5" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÝ5" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÝ5" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Samantha Jade & Cyrus - Hurt Anymore.mp3",
@@ -6205,51 +1981,6 @@
         "genre": "Downtempo",
         "album": "Falling (feat. Esoreni) - Single"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª." ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª." ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rª." ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Scorpions - Sent Me An Angel.mp3",
@@ -6313,54 +2044,6 @@
         "album": "Starving (feat. Zedd) - Single"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rº,
-        4 " ["short_version"] =>
-            string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rº,
-        4 " ["short_version"] =>
-            string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rº,
-        4 " ["short_version"] =>
-            string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Steelheart - She's Gone.mp3",
         "name": "She's Gone",
@@ -6368,51 +2051,6 @@
         "genre": "Rock",
         "album": "Steelheart"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rª.c" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rª.c" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rª.c" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Stereo hearts.mp3",
@@ -6422,51 +2060,6 @@
         "album": "The Papercut Chronicles II"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98bÍ.\4" ["short_version"] =>
-        string(9)
-        "LAME3.98b" ["numeric_version"] =>
-        string(5)
-        "3.98b" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98bÍ.\4" ["short_version"] =>
-        string(9)
-        "LAME3.98b" ["numeric_version"] =>
-        string(5)
-        "3.98b" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98bÍ.\4" ["short_version"] =>
-        string(9)
-        "LAME3.98b" ["numeric_version"] =>
-        string(5)
-        "3.98b" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Stranger Things (feat. OneRepublic).mp3",
         "name": "Stranger Things (feat. OneRepublic)",
@@ -6474,51 +2067,6 @@
         "genre": "Dance",
         "album": "Stranger Things (feat. OneRepublic) - Single"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98 º4" ["short_version"] =>
-        string(8)
-        "LAME3.98" ["numeric_version"] =>
-        string(4)
-        "3.98" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98 º4" ["short_version"] =>
-        string(8)
-        "LAME3.98" ["numeric_version"] =>
-        string(4)
-        "3.98" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98 º4" ["short_version"] =>
-        string(8)
-        "LAME3.98" ["numeric_version"] =>
-        string(4)
-        "3.98" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Stuck at home.mp3",
@@ -6570,51 +2118,6 @@
         "album": "Bouquet - EP"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98bÍ.K4" ["short_version"] =>
-        string(9)
-        "LAME3.98b" ["numeric_version"] =>
-        string(5)
-        "3.98b" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98bÍ.K4" ["short_version"] =>
-        string(9)
-        "LAME3.98b" ["numeric_version"] =>
-        string(5)
-        "3.98b" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98bÍ.K4" ["short_version"] =>
-        string(9)
-        "LAME3.98b" ["numeric_version"] =>
-        string(5)
-        "3.98b" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/The Chainsmokers - Paris.mp3",
         "name": "Paris",
@@ -6622,51 +2125,6 @@
         "genre": "Dance",
         "album": "Memories...Do Not Open"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98bÍ.M4" ["short_version"] =>
-        string(9)
-        "LAME3.98b" ["numeric_version"] =>
-        string(5)
-        "3.98b" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98bÍ.M4" ["short_version"] =>
-        string(9)
-        "LAME3.98b" ["numeric_version"] =>
-        string(5)
-        "3.98b" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98bÍ.M4" ["short_version"] =>
-        string(9)
-        "LAME3.98b" ["numeric_version"] =>
-        string(5)
-        "3.98b" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/The Chainsmokers - Something Just Like This.mp3",
@@ -6688,51 +2146,6 @@
         "album": "A Feeling You Can't Get Back"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98aÃ4" ["short_version"] =>
-        string(9)
-        "LAME3.98a" ["numeric_version"] =>
-        string(5)
-        "3.98a" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98aÃ4" ["short_version"] =>
-        string(9)
-        "LAME3.98a" ["numeric_version"] =>
-        string(5)
-        "3.98a" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98aÃ4" ["short_version"] =>
-        string(9)
-        "LAME3.98a" ["numeric_version"] =>
-        string(5)
-        "3.98a" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/The Lord's Prayer.mp3",
         "name": "The Lord's Prayer",
@@ -6746,51 +2159,6 @@
         "genre": "Holiday",
         "album": "The Night Before Christmas - Single"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.100Í4" ["short_version"] =>
-        string(9)
-        "LAME3.100" ["numeric_version"] =>
-        string(5)
-        "3.100" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(100)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.100Í4" ["short_version"] =>
-        string(9)
-        "LAME3.100" ["numeric_version"] =>
-        string(5)
-        "3.100" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(100)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.100Í4" ["short_version"] =>
-        string(9)
-        "LAME3.100" ["numeric_version"] =>
-        string(5)
-        "3.100" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(100)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/The Scientist - Fifty Shades Darker Original Motion Picture Soundtrack.mp3",
@@ -6806,51 +2174,6 @@
         "album": "The Spectre - Single"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98 Í.e4" ["short_version"] =>
-        string(8)
-        "LAME3.98" ["numeric_version"] =>
-        string(4)
-        "3.98" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98 Í.e4" ["short_version"] =>
-        string(8)
-        "LAME3.98" ["numeric_version"] =>
-        string(4)
-        "3.98" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98 Í.e4" ["short_version"] =>
-        string(8)
-        "LAME3.98" ["numeric_version"] =>
-        string(4)
-        "3.98" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/The Weeknd - Call Out My Name.mp3",
         "name": "Call Out My Name",
@@ -6859,55 +2182,9 @@
         "album": "My Dear Melancholy,"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98r.-" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98r.-" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98r.-" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Think of Me.mp3",
-        "name": "Think of Me (From "
-        The Phantom of the Opera ")",
+        "name": "Think of Me (From \"The Phantom of the Opera \")",
         "artist": "Jackie Evancho",
         "genre": "Classical",
         "album": "Awakening"
@@ -6919,12 +2196,10 @@
         "album": "Mobile Orchestra"
     }, {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Thodi Jagah.mp3",
-        "name": "Thodi Jagah (From "
-        Marjaavaan ")",
+        "name": "Thodi Jagah (From \"Marjaavaan \")",
         "artist": "Arijit Singh & Tanishk Bagchi",
         "genre": "Bollywood",
-        "album": "Thodi Jagah (From "
-        Marjaavaan ") - Single"
+        "album": "Thodi Jagah (From \"Marjaavaan \") - Single"
     }, {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Thunder.mp3",
         "name": "Thunder",
@@ -6951,51 +2226,6 @@
         "album": "What a Time To Be Alive"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.g4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.g4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ.g4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Tom Walker - Leave a Light On.mp3",
         "name": "Leave a Light On (feat. Tom Walker)",
@@ -7003,51 +2233,6 @@
         "genre": "SingerSongwriter",
         "album": "Leave a Light On (feat. Tom Walker) - Single"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.99rÍ4" ["short_version"] =>
-        string(9)
-        "LAME3.99r" ["numeric_version"] =>
-        string(5)
-        "3.99r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(99)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Tones and I - Dance Monkey.mp3",
@@ -7080,51 +2265,6 @@
         "genre": "Country",
         "album": "Red"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 ª.0" ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 ª.0" ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 ª.0" ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Twilight Piano.mp3",
@@ -7188,51 +2328,6 @@
         "album": "What Lovers Do (feat. SZA) - Single"
     },
 
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rª.h" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rª.h" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rª.h" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/What Makes You Beautiful.mp3",
         "name": "What Makes You Beautiful",
@@ -7240,51 +2335,6 @@
         "genre": "Pop",
         "album": "Up All Night (Deluxe Version)"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÅ4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÅ4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.98rÅ4" ["short_version"] =>
-        string(9)
-        "LAME3.98r" ["numeric_version"] =>
-        string(5)
-        "3.98r" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(98)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Where are you Christmas.mp3",
@@ -7323,51 +2373,6 @@
         "genre": "Pop",
         "album": "Wolves - Single"
     },
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 ª." ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 ª." ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
-
-    array(4) {
-        ["long_version"] =>
-        string(20)
-        "LAME3.97 ª." ["short_version"] =>
-        string(8)
-        "LAME3.97" ["numeric_version"] =>
-        string(4)
-        "3.97" ["integer_version"] =>
-        array(2) {
-            [0] =>
-            int(3)[1] =>
-                int(97)
-        }
-    }
 
     {
         "link": "C:/Users/peter/Desktop/Rubbish V2/Musio/server/music/Yazoo - Only You.mp3",
