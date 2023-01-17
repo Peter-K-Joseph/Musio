@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Nuvie Music</title>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"
+		integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet">
+	<link href="./css/style.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.plyr.io/3.6.8/plyr.css" />
+	<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+	<script src="./js/index.js"></script>
+	<script async src="./js/navigation.js"></script>
+	<script src="./js/notiflix-2.7.0.min.js"></script>
+	<link rel="stylesheet" href="./css/notiflix-2.7.0.min.css">
+	<script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+	<script src="https://kit.fontawesome.com/8ecf02a7bc.js"></script>
+	<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+</head>
+
+<body>
+	<div class="row" id="body" class="body">
+		<div class="col-1_3 text-center">
+			<img src="./resources/musio_logo.png" class="logo" width="80%" alt="" srcset="">
+			<div class="overflow-auto optionNav">
+				<div class="options">
+					<small>Recommend</small>
+					<button class="option selected" id="btn-to-home" onclick="navigate('home-page', 'btn-to-home')">For You</button>
+					<button class="option">Discover<sup>+</sup></button>
+					<button class="option" id="btn-to-music-video" onclick="navigate('music-video', 'btn-to-music-video')">StreamLinked<sup>+</sup></button>
+				</div><br>
+				<div class="options">
+					<small>My Music</small>
+					<button class="option" id="btn-to-liked" onclick="navigate('liked-songs-section' ,'btn-to-liked')">
+						Songs</button>
+					<button class="option" id="btn-to-album" onclick="navigate('info-by-album' ,'btn-to-album')">Albums
+					</button>
+					<button class="option">Artists</button>
+					<button class="option">Recent</button>
+				</div><br>
+				<div class="options">
+					<small>Choices</small>
+					<button class="option themeSelector">{theme}</button>
+					<button class="option">Private Mode</button>
+				</div>
+			</div>
+		</div>
+		<div class="col main">
+			<div class="row mt-1">
+				<div class="col">
+					<div class="search">
+						<div class="search icon align-center">
+							<svg version="1.1" class="icon-in" id="Capa_1" xmlns="http://www.w3.org/2000/svg"
+								xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 487.95 487.95"
+								xml:space="preserve">
+								<g>
+									<g>
+										<path
+											d="M481.8,453l-140-140.1c27.6-33.1,44.2-75.4,44.2-121.6C386,85.9,299.5,0.2,193.1,0.2S0,86,0,191.4s86.5,191.1,192.9,191.1    c45.2,0,86.8-15.5,119.8-41.4l140.5,140.5c8.2,8.2,20.4,8.2,28.6,0C490,473.4,490,461.2,481.8,453z M41,191.4    c0-82.8,68.2-150.1,151.9-150.1s151.9,67.3,151.9,150.1s-68.2,150.1-151.9,150.1S41,274.1,41,191.4z" />
+									</g>
+								</g>
+							</svg>
+						</div>
+						<input type="text" name="" class="search input" placeholder="Search" id="">
+					</div>
+				</div>
+				<div class="col align-center avatar">
+					<div class="accounts" id="all_accounts">
+						<div class="align-center">
+							<div class="align-center" id="other-accounts"></div>
+							<i class="fas fa-user-friends" onclick="userList()" id="alt_user"></i>
+							<div class="line"></div>
+							<i class="fas fa-sign-out-alt"></i>
+							&nbsp;&nbsp;
+							<i class="fas fa-cog" id="show_settings"></i>
+							<div class="avatar_image"></div>
+							<span>Hello, <span class="first_name">{name}</span></span>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row m-1 mt-2 section d-none" id="home-page">
+				<div class="home">
+					<h1 class="heading intro-text">Hello,<span class="first_name">{name}</span></h1>
+					<h2 class="heading">Discover Music</h2>
+					<div class="container">
+						<div class="music_glace">
+							<div class="album_art_parent">
+								<div class="album_art" style="background-image: url('./resources/cheapthrills.jpg')">
+								</div>
+								<div>
+									<h3>{song_name}</h3>
+									<p>{artist}</p>
+								</div>
+							</div> 
+							<div class="album_art_parent">
+								<div class="album_art" style="background-image: url('./resources/cheapthrills.jpg')">
+								</div>
+								<div>
+									<h3>{song_name}</h3>
+									<p>{artist}</p>
+								</div>
+							</div>
+							<div class="album_art_parent">
+								<div class="album_art" style="background-image: url('./resources/cheapthrills.jpg')">
+								</div>
+								<div>
+									<h3>{song_name}</h3>
+									<p>{artist}</p>
+								</div>
+							</div>
+							<div class="album_art_parent">
+								<div class="album_art" style="background-image: url('./resources/cheapthrills.jpg')">
+								</div>
+								<div>
+									<h3>{song_name}</h3>
+									<p>{artist}</p>
+								</div>
+							</div>
+							<div class="album_art_parent">
+								<div class="album_art" style="background-image: url('./resources/cheapthrills.jpg')">
+								</div>
+								<div>
+									<h3>{song_name}</h3>
+									<p>{artist}</p>
+								</div>
+							</div>
+							<div class="album_art_parent">
+								<div class="album_art" style="background-image: url('./resources/cheapthrills.jpg')">
+								</div>
+								<div>
+									<h3>{song_name}</h3>
+									<p>{artist}</p>
+								</div>
+							</div>
+							<div class="album_art_parent">
+								<div class="album_art" style="background-image: url('./resources/cheapthrills.jpg')">
+								</div>
+								<div>
+									<h3>{song_name}</h3>
+									<p>{artist}</p>
+								</div>
+							</div>
+							<div class="album_art_parent">
+								<div class="album_art" style="background-image: url('./resources/cheapthrills.jpg')">
+								</div>
+								<div>
+									<h3>{song_name}</h3>
+									<p>{artist}</p>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+					<h2 class="heading">From Youtube</h2>
+					<div class="container" >
+						<div class="grid get-youtube"></div>
+					</div>
+				</div>
+			</div>
+			<div class="row m-1 mt-2 section" id="search-by-album">
+				<h3 class="heading">Everyday Life</h3>
+				<div class="row album-view">
+					<div class="col col-3-5 album">
+						<div class="album_art sq-8" style="background-image: url('./resources/3.jpg')"></div>
+					</div>
+					<div class="col overflow-auto">
+						<div class="music align-center">
+							<div class="num">1</div>
+							<div isFav="false" onclick="add_to_fav(1)" class="heart" id="favourite_1"><svg version="1.1"
+									id="Capa_1" xmlns="http://www.w3.org/2000/svg"
+									xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+									viewBox="0 0 471.701 471.701" style="enable-background:new 0 0 471.701 471.701;"
+									xml:space="preserve">
+									<g>
+										<path
+											d="M433.601,67.001c-24.7-24.7-57.4-38.2-92.3-38.2s-67.7,13.6-92.4,38.3l-12.9,12.9l-13.1-13.1   c-24.7-24.7-57.6-38.4-92.5-38.4c-34.8,0-67.6,13.6-92.2,38.2c-24.7,24.7-38.3,57.5-38.2,92.4c0,34.9,13.7,67.6,38.4,92.3   l187.8,187.8c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-3.9l188.2-187.5c24.7-24.7,38.3-57.5,38.3-92.4   C471.801,124.501,458.301,91.701,433.601,67.001z M414.401,232.701l-178.7,178l-178.3-178.3c-19.6-19.6-30.4-45.6-30.4-73.3   s10.7-53.7,30.3-73.2c19.5-19.5,45.5-30.3,73.1-30.3c27.7,0,53.8,10.8,73.4,30.4l22.6,22.6c5.3,5.3,13.8,5.3,19.1,0l22.4-22.4   c19.6-19.6,45.7-30.4,73.3-30.4c27.6,0,53.6,10.8,73.2,30.3c19.6,19.6,30.3,45.6,30.3,73.3   C444.801,187.101,434.001,213.101,414.401,232.701z" />
+									</g>
+								</svg></div>
+							<div class="name"><span class="song-name">Sunrise</span><br><span
+									class="artist">Coldplay</span></div>
+							<button class="more_icon"></button>
+							<div class="time">2:46</div>
+						</div>
+						<div class="music align-center">
+							<div class="num">2</div>
+							<div isFav="false" onclick="add_to_fav(2)" class="heart" id="favourite_2"><svg version="1.1"
+									id="Capa_1" xmlns="http://www.w3.org/2000/svg"
+									xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+									viewBox="0 0 471.701 471.701" style="enable-background:new 0 0 471.701 471.701;"
+									xml:space="preserve">
+									<g>
+										<path
+											d="M433.601,67.001c-24.7-24.7-57.4-38.2-92.3-38.2s-67.7,13.6-92.4,38.3l-12.9,12.9l-13.1-13.1   c-24.7-24.7-57.6-38.4-92.5-38.4c-34.8,0-67.6,13.6-92.2,38.2c-24.7,24.7-38.3,57.5-38.2,92.4c0,34.9,13.7,67.6,38.4,92.3   l187.8,187.8c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-3.9l188.2-187.5c24.7-24.7,38.3-57.5,38.3-92.4   C471.801,124.501,458.301,91.701,433.601,67.001z M414.401,232.701l-178.7,178l-178.3-178.3c-19.6-19.6-30.4-45.6-30.4-73.3   s10.7-53.7,30.3-73.2c19.5-19.5,45.5-30.3,73.1-30.3c27.7,0,53.8,10.8,73.4,30.4l22.6,22.6c5.3,5.3,13.8,5.3,19.1,0l22.4-22.4   c19.6-19.6,45.7-30.4,73.3-30.4c27.6,0,53.6,10.8,73.2,30.3c19.6,19.6,30.3,45.6,30.3,73.3   C444.801,187.101,434.001,213.101,414.401,232.701z" />
+									</g>
+								</svg></div>
+							<div class="name"><span class="song-name">Church</span><br><span
+									class="artist">Coldplay</span></div>
+							<button class="more_icon"></button>
+							<div class="time">2:46</div>
+						</div>
+						<div class="music align-center">
+							<div class="num">3</div>
+							<div isFav="false" onclick="add_to_fav(3)" class="heart" id="favourite_3"><svg version="1.1"
+									id="Capa_1" xmlns="http://www.w3.org/2000/svg"
+									xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+									viewBox="0 0 471.701 471.701" style="enable-background:new 0 0 471.701 471.701;"
+									xml:space="preserve">
+									<g>
+										<path
+											d="M433.601,67.001c-24.7-24.7-57.4-38.2-92.3-38.2s-67.7,13.6-92.4,38.3l-12.9,12.9l-13.1-13.1   c-24.7-24.7-57.6-38.4-92.5-38.4c-34.8,0-67.6,13.6-92.2,38.2c-24.7,24.7-38.3,57.5-38.2,92.4c0,34.9,13.7,67.6,38.4,92.3   l187.8,187.8c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-3.9l188.2-187.5c24.7-24.7,38.3-57.5,38.3-92.4   C471.801,124.501,458.301,91.701,433.601,67.001z M414.401,232.701l-178.7,178l-178.3-178.3c-19.6-19.6-30.4-45.6-30.4-73.3   s10.7-53.7,30.3-73.2c19.5-19.5,45.5-30.3,73.1-30.3c27.7,0,53.8,10.8,73.4,30.4l22.6,22.6c5.3,5.3,13.8,5.3,19.1,0l22.4-22.4   c19.6-19.6,45.7-30.4,73.3-30.4c27.6,0,53.6,10.8,73.2,30.3c19.6,19.6,30.3,45.6,30.3,73.3   C444.801,187.101,434.001,213.101,414.401,232.701z" />
+									</g>
+								</svg></div>
+							<div class="name"><span class="song-name">Trouble In Town</span><br><span
+									class="artist">Coldplay</span>
+							</div>
+							<button class="more_icon"></button>
+							<div class="time">2:46</div>
+						</div>
+						<div class="music align-center">
+							<div class="num">4</div>
+							<div isFav="false" onclick="add_to_fav(4)" class="heart" id="favourite_4"><svg version="1.1"
+									id="Capa_1" xmlns="http://www.w3.org/2000/svg"
+									xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+									viewBox="0 0 471.701 471.701" style="enable-background:new 0 0 471.701 471.701;"
+									xml:space="preserve">
+									<g>
+										<path
+											d="M433.601,67.001c-24.7-24.7-57.4-38.2-92.3-38.2s-67.7,13.6-92.4,38.3l-12.9,12.9l-13.1-13.1   c-24.7-24.7-57.6-38.4-92.5-38.4c-34.8,0-67.6,13.6-92.2,38.2c-24.7,24.7-38.3,57.5-38.2,92.4c0,34.9,13.7,67.6,38.4,92.3   l187.8,187.8c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-3.9l188.2-187.5c24.7-24.7,38.3-57.5,38.3-92.4   C471.801,124.501,458.301,91.701,433.601,67.001z M414.401,232.701l-178.7,178l-178.3-178.3c-19.6-19.6-30.4-45.6-30.4-73.3   s10.7-53.7,30.3-73.2c19.5-19.5,45.5-30.3,73.1-30.3c27.7,0,53.8,10.8,73.4,30.4l22.6,22.6c5.3,5.3,13.8,5.3,19.1,0l22.4-22.4   c19.6-19.6,45.7-30.4,73.3-30.4c27.6,0,53.6,10.8,73.2,30.3c19.6,19.6,30.3,45.6,30.3,73.3   C444.801,187.101,434.001,213.101,414.401,232.701z" />
+									</g>
+								</svg></div>
+							<div class="name"><span class="song-name">BrokEn</span><br><span
+									class="artist">Coldplay</span></div>
+							<button class="more_icon"></button>
+							<div class="time">2:46</div>
+						</div>
+						<div class="music align-center">
+							<div class="num">5</div>
+							<div isFav="false" onclick="add_to_fav(5)" class="heart" id="favourite_5"><svg version="1.1"
+									id="Capa_1" xmlns="http://www.w3.org/2000/svg"
+									xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+									viewBox="0 0 471.701 471.701" style="enable-background:new 0 0 471.701 471.701;"
+									xml:space="preserve">
+									<g>
+										<path
+											d="M433.601,67.001c-24.7-24.7-57.4-38.2-92.3-38.2s-67.7,13.6-92.4,38.3l-12.9,12.9l-13.1-13.1   c-24.7-24.7-57.6-38.4-92.5-38.4c-34.8,0-67.6,13.6-92.2,38.2c-24.7,24.7-38.3,57.5-38.2,92.4c0,34.9,13.7,67.6,38.4,92.3   l187.8,187.8c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-3.9l188.2-187.5c24.7-24.7,38.3-57.5,38.3-92.4   C471.801,124.501,458.301,91.701,433.601,67.001z M414.401,232.701l-178.7,178l-178.3-178.3c-19.6-19.6-30.4-45.6-30.4-73.3   s10.7-53.7,30.3-73.2c19.5-19.5,45.5-30.3,73.1-30.3c27.7,0,53.8,10.8,73.4,30.4l22.6,22.6c5.3,5.3,13.8,5.3,19.1,0l22.4-22.4   c19.6-19.6,45.7-30.4,73.3-30.4c27.6,0,53.6,10.8,73.2,30.3c19.6,19.6,30.3,45.6,30.3,73.3   C444.801,187.101,434.001,213.101,414.401,232.701z" />
+									</g>
+								</svg></div>
+							<div class="name"><span class="song-name">Daddy</span><br><span
+									class="artist">Coldplay</span></div>
+							<button class="more_icon"></button>
+							<div class="time">2:46</div>
+						</div>
+					</div>
+				</div>
+				<h4 class="heading">More by Coldplay</h4>
+				<div class="row more">
+					<div class="col-2 more-album">
+						<span class="albumart sq-4" style="background-image: url(./resources/1.jpg);"></span>
+					</div>
+					<div class="col-2 more-album">
+						<span class="albumart sq-4" style="background-image: url(./resources/2.jpg);"></span>
+					</div>
+					<div class="col-2 more-album">
+						<span class="albumart sq-4" style="background-image: url(./resources/3.jpg);"></span>
+					</div>
+					<div class="col-2 more-album">
+						<span class="albumart sq-4" style="background-image: url(./resources/1.jpg);"></span>
+					</div>
+					<div class="col-2 more-album">
+						<span class="albumart sq-4" style="background-image: url(./resources/1.jpg);"></span>
+					</div>
+					<div class="col-2 more-album">
+						<span class="albumart sq-4" style="background-image: url(./resources/1.jpg);"></span>
+					</div>
+				</div>
+			</div>
+			<div class="row m-1 mt-2 section d-none" id="liked-songs-section">
+				<div class="bg-grad">
+					<div class="row">
+						<div class="col">
+							<h1 class="heading">All Songs</h1>
+						</div>
+						<div class="col">
+							<div class="child">
+								<button class="shuffle">Shuffle Play</button>
+							</div>
+						</div>
+						<div class="col">
+							<ion-icon class="icon-poster fav" name="musical-note-outline">...</ion-icon>
+						</div>
+					</div>
+				</div>
+				<div style="margin-top: 20px" id="song_list">
+				</div>
+			</div>
+			<div class="row m-1 mt-2 section d-none" id="music-video">
+				<div class="bg-grad">
+					<div class="row">
+						<div class="col">
+							<h1 class="heading">StreamLinked<sup>+</sup></h1>
+							<p>Stream music from the Internet</p>
+						</div>
+					</div>
+				</div>
+				<h2 class="heading">From Youtube</h2>
+					<div class="container" >
+						<div class="grid get-youtube"></div>
+					</div>
+			</div>
+			<div class="row m-1 mt-2 section d-none" id="info-by-album">
+				<div class="bg-grad">
+					<div class="row">
+						<div class="col">
+							<h1 class="heading">All Albums</h1>
+						</div>
+						<div class="col">
+						</div>
+						<div class="col">
+							<svg version="1.1" id="Layer_1" class="icon-poster fav" xmlns="http://www.w3.org/2000/svg"
+								xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 520 520"
+								xml:space="preserve">
+								<g>
+									<g>
+										<g>
+											<path
+												d="M0,42.667v426.667c0,11.776,9.536,21.333,21.333,21.333h64V21.333h-64C9.536,21.333,0,30.891,0,42.667z" />
+											<path
+												d="M234.667,363.855c0,11.115,9.557,20.139,21.333,20.139c11.563,0,21.333-9.771,21.333-21.333v-21.333H256     C244.843,341.327,234.667,352.058,234.667,363.855z" />
+											<path
+												d="M490.662,21.329H127.996v469.333h362.667c11.797,0,21.333-9.557,21.333-21.333V42.662     C511.996,30.886,502.46,21.329,490.662,21.329z M400.188,250.428l-6.379,20.16c-2.88,9.088-11.264,14.912-20.331,14.912     c-2.133,0-4.288-0.32-6.443-1.003c-11.221-3.541-17.451-15.531-13.888-26.773l6.485-20.48     c6.357-19.157,2.347-40.107-10.432-55.253l-29.205-26.816v164.821v42.667c0,35.307-28.693,64-64,64     c-35.285,0-64-28.181-64-62.805c0-35.328,29.312-65.195,64-65.195h21.333v-192c0-1.067,0.469-1.984,0.619-3.008     c0.213-1.6,0.341-3.179,0.939-4.693c0.576-1.493,1.536-2.709,2.411-4.011c0.597-0.875,0.896-1.899,1.643-2.709     c0.107-0.107,0.256-0.149,0.363-0.256c1.109-1.152,2.496-1.92,3.84-2.795c1.003-0.683,1.899-1.557,2.987-2.027     c0.896-0.384,1.92-0.427,2.88-0.683c1.728-0.491,3.456-1.024,5.248-1.067c0.149,0,0.256-0.085,0.405-0.085     c1.024,0,1.92,0.448,2.901,0.597c1.643,0.213,3.243,0.363,4.8,0.96c1.536,0.597,2.773,1.579,4.117,2.475     c0.853,0.597,1.813,0.875,2.603,1.579l65.899,60.459c0.576,0.512,1.131,1.088,1.643,1.664     C403.878,179.644,411.366,216.934,400.188,250.428z" />
+										</g>
+									</g>
+								</g>
+							</svg>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-2 lyrics-tab disabled">
+			<h3 class="heading">Lyrics</h3>
+			<i class="fas fa-expand"></i>
+			<div class="lyrics">Come on, come on, turn the radio on<br><br>
+				It's Friday night, and it won't be long<br><br>
+				Gotta do my hair, put my make-up on<br><br>
+				It's Friday night, and it won't be long<br><br>
+				Till I hit the dance floor, hit the dance floor<br><br>
+				I got all I need<br><br>
+				No, I ain't got cash, I ain't got cash<br><br>
+				But I got you, baby<br><br>
+				Baby, I don't need dollar bills to have fun tonight<br><br>
+				I love cheap thrills!<br><br>
+				Baby, I don't need dollar bills to have fun tonight<br><br>
+				I love cheap thrills!</div>
+		</div>
+	</div>
+	<div class="row player">
+		<div class="col container player-down">
+			<div id="music-slider" class="row slider"></div>
+			<input type="range" min="1" max="100" value="0" class="slider_hider" id="track_player">
+			<div class="row">
+				<div class="col col-1 album_art currently_playing" id="currently_playing_art">
+				</div>
+				<div class="currently_playing title col-4">
+					<h3 id="currently_playing_name" class="text-truncate">Starting Services</h3>
+					<p id="currently_playing_artist" class="text-truncate">nuvie is loading playback scripts</p>
+				</div>
+				<div class="col align-center">
+					<div class="control_music">
+						<i class="fas fa-step-backward control_music"></i>
+						<span id="play_music_state"><i class="fas fa-play"></i></span>
+						<i class="fas fa-step-forward control_music"></i>
+					</div>
+				</div>
+				<div class="col w-4 player-down-opt">
+					<ion-icon name="repeat-outline" class="repeat"></ion-icon>
+					<i class="fas fa-random"></i>
+					<div class="activated" id="show_lyrics">
+						<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor"
+							class="bi bi-music-note-list" viewBox="0 0 16 16">
+							<path d="M12 13c0 1.105-1.12 2-2.5 2S7 14.105 7 13s1.12-2 2.5-2 2.5.895 2.5 2z" />
+							<path fill-rule="evenodd" d="M12 3v10h-1V3h1z" />
+							<path d="M11 2.82a1 1 0 0 1 .804-.98l3-.6A1 1 0 0 1 16 2.22V4l-5 1V2.82z" />
+							<path fill-rule="evenodd"
+								d="M0 11.5a.5.5 0 0 1 .5-.5H4a.5.5 0 0 1 0 1H.5a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 .5 7H8a.5.5 0 0 1 0 1H.5a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 .5 3H8a.5.5 0 0 1 0 1H.5a.5.5 0 0 1-.5-.5z" />
+						</svg>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="more_container options hidden" id="options"></div>
+</body>
+<!-- <script src="https://connect.soundcloud.com/sdk/sdk-3.3.2.js"></script> -->
+<script src="./js/player.js"></script>
+<script src="./js/afterload.js"></script>
+<script src="https://cdn.plyr.io/3.6.8/plyr.polyfilled.js"></script>
+
+</html>

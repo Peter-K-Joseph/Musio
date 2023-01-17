@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nuvie Music</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"> -->
+    <link rel="stylesheet" href="./css/update.css">
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.6.8/plyr.css" />
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="./js/new/base.js"></script>
+    <script src="./js/notiflix-2.7.0.min.js"></script>
+    <link rel="stylesheet" href="./css/notiflix-2.7.0.min.css">
+    <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+    <script src="https://kit.fontawesome.com/8ecf02a7bc.js"></script>
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+</head>
+
+<body>
+    <div class="viewport">
+        <div id="main" class="flex-row h-80 main">
+            <%- include('nav.ejs') %>
+            <div id="interactive_viewport">
+            </div>
+        </div> 
+        <div class="player">
+            <div class="col container player_down">
+                <div id="music-slider" class="row slider"></div>
+                <input type="range" min="1" max="100" value="0" id="track_player">
+                <div class="internal_controls">
+                    <div class="player_details">
+                        <div class="album_art" id="album_art"></div>
+                        <div class="player_state">
+                            <h3 id="player_title" class="text-truncate">Starting Services</h3>
+                            <p id="player_subtitle" class="text-truncate">nuvie is loading playback scripts</p>
+                        </div>
+                    </div>
+                    <div class="control_music">
+                            <i class="fas fa-step-backward seek"></i>
+                            <i class="fas fa-play play"></i>
+                            <i class="fas fa-step-forward seek"></i>
+                    </div>
+                    <div class="player-down-opt">
+                        <i class="fa-solid fa-repeat"></i>
+                        <i class="fas fa-random"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="mainpage options hidden" id="options"></div>
+</body>
+<script src="./js/new/index.js"></script>
+<script src="./js/new/player.js"></script>
+<script src="./js/new/navigator.js"></script>
+<script src="https://cdn.plyr.io/3.6.8/plyr.polyfilled.js"></script>
+
+</html>

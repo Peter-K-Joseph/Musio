@@ -1,0 +1,29 @@
+{
+    "app": "N-Hear Musio",
+    "modules": {
+        "system": {
+            "enable": true
+        },
+        "youtube": {
+            "enable": false
+        }
+    },
+    "users": [
+        {
+            "user": "Peter K Joseph",
+            "email": "peterkjoseph02@gmail.com",
+            "image": "profile1.jpeg"
+        }, 
+        {
+            "user": "Anagh N Manoj",
+            "email": "peterkjoseph02@gmail.com",
+            "image": "profile2.jpeg"
+        },
+        {
+            "user": "Arohi Varshney",
+            "email": "peterkjoseph02@gmail.com",
+            "image": "profile3.jpeg"
+        }
+    ],
+    "files": [".mp3", ".flac",".aac",".wav", ".ogg"]
+}

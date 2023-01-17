@@ -1,0 +1,1693 @@
+2023-01-16T06:00:42.404Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:00:42.412Z [info]: Connected to database
+2023-01-16T06:00:50.538Z [info]: Attempting to fetch music data
+2023-01-16T06:00:50.625Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:00:50.627Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-16T06:00:58.502Z [info]: Attempting to fetch music data for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-16T06:00:58.552Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-16T06:06:19.551Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:06:19.558Z [info]: Connected to database
+2023-01-16T06:06:20.938Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:06:20.951Z [info]: Connected to database
+2023-01-16T06:06:26.133Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:06:26.140Z [info]: Connected to database
+2023-01-16T06:06:28.030Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:06:28.035Z [info]: Connected to database
+2023-01-16T06:06:29.000Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:06:29.005Z [info]: Connected to database
+2023-01-16T06:06:30.551Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:06:30.557Z [info]: Connected to database
+2023-01-16T06:06:35.540Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:06:35.546Z [info]: Connected to database
+2023-01-16T06:06:40.554Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:06:40.559Z [info]: Connected to database
+2023-01-16T06:11:08.959Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:11:08.967Z [info]: Connected to database
+2023-01-16T06:11:14.366Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:11:14.373Z [info]: Connected to database
+2023-01-16T06:11:21.652Z [info]: http connection established by HOST:127.0.0.1
+2023-01-16T06:11:25.545Z [info]: Attempting to fetch music data
+2023-01-16T06:11:25.756Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:11:25.765Z [info]: Attempting to fetch album art for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-16T06:11:25.766Z [info]: Attempting to fetch album art for ID:0cbd33a03a70590ee851452af82394e12d65be6db850c597f7ce99b3fbc069f1
+2023-01-16T06:11:25.768Z [info]: Attempting to fetch album art for ID:712772908981e0bc0fb15a70b0660f94aa7c6035b86f827f6e82a81136dcfdb0
+2023-01-16T06:11:25.769Z [info]: Attempting to fetch album art for ID:822bac9eaa2cd1f73e89eacece9f560bea38506c61864626e004700466e6952c
+2023-01-16T06:11:25.772Z [info]: Attempting to fetch album art for ID:9e45181100598d84e4629ac01236029dd519e562b0a6e4286c1bb3316eb2cff8
+2023-01-16T06:11:45.950Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:11:45.956Z [info]: Connected to database
+2023-01-16T06:11:48.984Z [info]: http connection established by HOST:127.0.0.1
+2023-01-16T06:11:51.649Z [info]: Attempting to fetch music data
+2023-01-16T06:11:51.894Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:11:51.902Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-16T06:11:51.906Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-16T06:12:39.636Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:12:39.644Z [info]: Connected to database
+2023-01-16T06:12:39.665Z [info]: Attempting to fetch album art for ID:c1d0f0b9c3ec05d6c4d7019a75ed7a7fd14a235f52243a72c376e89b1ea91ac1
+2023-01-16T06:12:39.676Z [info]: Attempting to fetch album art for ID:1e7c86c77caabba0e64467acefacd87eaabb47adcace62c8721ac585e423a817
+2023-01-16T06:12:39.677Z [info]: Attempting to fetch album art for ID:8f9bc5f7acdb7a6f6d02b1df9c38edcdb4783ab46760083f2eebf18df3259701
+2023-01-16T06:12:39.679Z [info]: Attempting to fetch album art for ID:d38eca1c13eb42fbe46c38f7c613611cff70fbd71010ce986b6c39e9cf1cd841
+2023-01-16T06:12:39.680Z [info]: Attempting to fetch album art for ID:313bd194caa79af11cee42154e46bf412224b85c938a39f8388ead82fc4c1708
+2023-01-16T06:12:39.680Z [info]: Attempting to fetch album art for ID:04c187eb08c8dfe8067b855774b329b0cdfed765a4f6fe6abcc0860d52f87850
+2023-01-16T06:12:39.795Z [info]: Attempting to fetch album art for ID:a2bba1b02ebb992cbbbb3d825a18d20e66255783502965942dedec8c285e3649
+2023-01-16T06:12:39.797Z [info]: Attempting to fetch album art for ID:8e8af9a07bcf57174fa9d47d2a6f7b592d9e80ab356c555a5b0a045cce8f31a1
+2023-01-16T06:12:39.803Z [info]: Attempting to fetch album art for ID:f9d68a1890f9f924d13b9137c8096f40bd76e0e950824dd75f023307c45e5b64
+2023-01-16T06:12:39.804Z [info]: Attempting to fetch album art for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-16T06:12:39.805Z [info]: Attempting to fetch album art for ID:0cbd33a03a70590ee851452af82394e12d65be6db850c597f7ce99b3fbc069f1
+2023-01-16T06:12:39.807Z [info]: Attempting to fetch album art for ID:712772908981e0bc0fb15a70b0660f94aa7c6035b86f827f6e82a81136dcfdb0
+2023-01-16T06:12:39.874Z [info]: Attempting to fetch album art for ID:822bac9eaa2cd1f73e89eacece9f560bea38506c61864626e004700466e6952c
+2023-01-16T06:12:39.876Z [info]: Attempting to fetch album art for ID:9e45181100598d84e4629ac01236029dd519e562b0a6e4286c1bb3316eb2cff8
+2023-01-16T06:12:39.881Z [info]: Attempting to fetch album art for ID:4aa331c8741c46f29baeeafeb6e103304a9a4951a9ca565f9e4cafad7097b171
+2023-01-16T06:12:39.883Z [info]: Attempting to fetch album art for ID:eea41c542ec575917eacc46355865cd1122136c50207cc7ba057c29c34c316db
+2023-01-16T06:12:39.884Z [info]: Attempting to fetch album art for ID:16f1b89f9d5eaf3bb1fabf41b99ce9c1dcdb18cfd957485ff5d3bd1f47e2902c
+2023-01-16T06:12:39.887Z [info]: Attempting to fetch album art for ID:3457b66bc49139a38c5350d10331123836847f251d1ae8b816fd7db99a39b3c2
+2023-01-16T06:12:39.958Z [info]: Attempting to fetch album art for ID:1139f2167200c19aad73175eb397820f0b11235b742e6208e76eba6b8a03dbee
+2023-01-16T06:12:39.959Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-16T06:12:39.963Z [info]: Attempting to fetch album art for ID:b10aaaed617ce9a8acc2c52773fe7faa58e77e544cf49ea62c58ee349940e3b9
+2023-01-16T06:12:39.964Z [info]: Attempting to fetch album art for ID:960100e7b509fdefb5d5ec874b53ae1062388e86bc20c0094fbde2994e2ddc8f
+2023-01-16T06:12:39.969Z [info]: Attempting to fetch album art for ID:4e7b949688a7904fa03d3ac29e8fa300da238e55083bd5d1870ef325aa761763
+2023-01-16T06:12:40.012Z [info]: Attempting to fetch album art for ID:0f05afa4422a1b8f4849b6fb27e826c722a1e17d0bc337de083c499b0fa55d4a
+2023-01-16T06:12:40.032Z [info]: Attempting to fetch album art for ID:ff62767e06275a5c029ecb585124b5e2d3ce8db2bad0e9dab711bb11d0d6793f
+2023-01-16T06:12:40.036Z [info]: Attempting to fetch album art for ID:2a9c7d197f6044b9076c33abeb4492935b713a8e93dce1f6d23e215aa3b1a8c6
+2023-01-16T06:12:40.037Z [info]: Attempting to fetch album art for ID:f4e4b61294d192025ab2af82bc788dda08552954fe0c91a6386748b27ea56dad
+2023-01-16T06:12:40.057Z [info]: Attempting to fetch album art for ID:5e2a364588766c9b6848137a01cf128d9011f06a0088c4ac3bf8af2b882c3fc6
+2023-01-16T06:12:40.088Z [info]: Attempting to fetch album art for ID:2ee5ed9a54da699ac8e88c95efcdf7dfbdaa2be01bb4ad95c9c86cd5038d0ba9
+2023-01-16T06:12:40.092Z [info]: Attempting to fetch album art for ID:d7d956511b7b5a6260e8573ca42b67d698b3fa27be0a0e2bff94b46f15245798
+2023-01-16T06:12:40.106Z [info]: Attempting to fetch album art for ID:de2a2988b1074c72eddac1c2ed63b84acf6a1d7edaf7212ae9b7cf7b8725fed7
+2023-01-16T06:12:40.128Z [info]: Attempting to fetch album art for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-16T06:12:40.129Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-16T06:12:40.130Z [info]: Attempting to fetch album art for ID:2671e4d36e9c64bee2aaa02e0143b99978aaafd6a363ad2501ada53ceefc8ec0
+2023-01-16T06:12:40.135Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:12:40.276Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-16T06:13:01.345Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:13:01.351Z [info]: Connected to database
+2023-01-16T06:13:15.734Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:13:15.741Z [info]: Connected to database
+2023-01-16T06:13:24.827Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:13:24.833Z [info]: Connected to database
+2023-01-16T06:13:45.144Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:13:45.149Z [info]: Connected to database
+2023-01-16T06:13:50.675Z [info]: Attempting to fetch music data for ID:d7d956511b7b5a6260e8573ca42b67d698b3fa27be0a0e2bff94b46f15245798
+2023-01-16T06:13:51.730Z [info]: http connection established by HOST:127.0.0.1
+2023-01-16T06:13:54.773Z [info]: Attempting to fetch music data
+2023-01-16T06:13:55.065Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:13:55.073Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-16T06:13:55.078Z [info]: Attempting to fetch album art for ID:8e8af9a07bcf57174fa9d47d2a6f7b592d9e80ab356c555a5b0a045cce8f31a1
+2023-01-16T06:13:55.079Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-16T06:13:55.080Z [info]: Attempting to fetch album art for ID:f9d68a1890f9f924d13b9137c8096f40bd76e0e950824dd75f023307c45e5b64
+2023-01-16T06:13:55.081Z [info]: Attempting to fetch album art for ID:51e0c3a88648f50182d91f4c70d593e6af834bfd0f5279e49576369014bf40c2
+2023-01-16T06:13:55.193Z [info]: Attempting to fetch album art for ID:657c2c56596e46d7fe3721c8017637f488905b2a7cc122559fa2eb0ea652802f
+2023-01-16T06:13:55.195Z [info]: Attempting to fetch album art for ID:b3623e883c34fb316598a1d394038f3f8cfc5731617c1502eb145f4e3ba4309a
+2023-01-16T06:13:55.246Z [info]: Attempting to fetch album art for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-16T06:13:55.264Z [info]: Attempting to fetch album art for ID:0cbd33a03a70590ee851452af82394e12d65be6db850c597f7ce99b3fbc069f1
+2023-01-16T06:13:55.277Z [info]: Attempting to fetch album art for ID:712772908981e0bc0fb15a70b0660f94aa7c6035b86f827f6e82a81136dcfdb0
+2023-01-16T06:13:55.286Z [info]: Attempting to fetch album art for ID:822bac9eaa2cd1f73e89eacece9f560bea38506c61864626e004700466e6952c
+2023-01-16T06:13:55.301Z [info]: Attempting to fetch album art for ID:9e45181100598d84e4629ac01236029dd519e562b0a6e4286c1bb3316eb2cff8
+2023-01-16T06:13:55.312Z [info]: Attempting to fetch album art for ID:4aa331c8741c46f29baeeafeb6e103304a9a4951a9ca565f9e4cafad7097b171
+2023-01-16T06:13:55.324Z [info]: Attempting to fetch album art for ID:de2a2988b1074c72eddac1c2ed63b84acf6a1d7edaf7212ae9b7cf7b8725fed7
+2023-01-16T06:13:55.325Z [info]: Attempting to fetch album art for ID:eea41c542ec575917eacc46355865cd1122136c50207cc7ba057c29c34c316db
+2023-01-16T06:13:55.468Z [info]: Attempting to fetch album art for ID:16f1b89f9d5eaf3bb1fabf41b99ce9c1dcdb18cfd957485ff5d3bd1f47e2902c
+2023-01-16T06:13:55.470Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-16T06:13:55.473Z [info]: Attempting to fetch album art for ID:2671e4d36e9c64bee2aaa02e0143b99978aaafd6a363ad2501ada53ceefc8ec0
+2023-01-16T06:13:55.475Z [info]: Attempting to fetch album art for ID:3457b66bc49139a38c5350d10331123836847f251d1ae8b816fd7db99a39b3c2
+2023-01-16T06:13:55.478Z [info]: Attempting to fetch album art for ID:1139f2167200c19aad73175eb397820f0b11235b742e6208e76eba6b8a03dbee
+2023-01-16T06:13:55.668Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-16T06:13:55.672Z [info]: Attempting to fetch album art for ID:b10aaaed617ce9a8acc2c52773fe7faa58e77e544cf49ea62c58ee349940e3b9
+2023-01-16T06:13:55.675Z [info]: Attempting to fetch album art for ID:960100e7b509fdefb5d5ec874b53ae1062388e86bc20c0094fbde2994e2ddc8f
+2023-01-16T06:13:55.678Z [info]: Attempting to fetch album art for ID:4e7b949688a7904fa03d3ac29e8fa300da238e55083bd5d1870ef325aa761763
+2023-01-16T06:13:55.680Z [info]: Attempting to fetch album art for ID:0f05afa4422a1b8f4849b6fb27e826c722a1e17d0bc337de083c499b0fa55d4a
+2023-01-16T06:13:55.700Z [info]: Attempting to fetch album art for ID:ff62767e06275a5c029ecb585124b5e2d3ce8db2bad0e9dab711bb11d0d6793f
+2023-01-16T06:13:55.742Z [info]: Attempting to fetch album art for ID:2a9c7d197f6044b9076c33abeb4492935b713a8e93dce1f6d23e215aa3b1a8c6
+2023-01-16T06:13:55.744Z [info]: Attempting to fetch album art for ID:f4e4b61294d192025ab2af82bc788dda08552954fe0c91a6386748b27ea56dad
+2023-01-16T06:13:55.747Z [info]: Attempting to fetch album art for ID:5e2a364588766c9b6848137a01cf128d9011f06a0088c4ac3bf8af2b882c3fc6
+2023-01-16T06:13:55.754Z [info]: Attempting to fetch album art for ID:2ee5ed9a54da699ac8e88c95efcdf7dfbdaa2be01bb4ad95c9c86cd5038d0ba9
+2023-01-16T06:13:55.765Z [info]: Attempting to fetch album art for ID:d7d956511b7b5a6260e8573ca42b67d698b3fa27be0a0e2bff94b46f15245798
+2023-01-16T06:13:55.778Z [info]: Attempting to fetch album art for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-16T06:13:55.788Z [info]: Attempting to fetch album art for ID:d38eca1c13eb42fbe46c38f7c613611cff70fbd71010ce986b6c39e9cf1cd841
+2023-01-16T06:13:55.809Z [info]: Attempting to fetch album art for ID:1e7c86c77caabba0e64467acefacd87eaabb47adcace62c8721ac585e423a817
+2023-01-16T06:13:55.866Z [info]: Attempting to fetch album art for ID:8f9bc5f7acdb7a6f6d02b1df9c38edcdb4783ab46760083f2eebf18df3259701
+2023-01-16T06:13:55.868Z [info]: Attempting to fetch album art for ID:04c187eb08c8dfe8067b855774b329b0cdfed765a4f6fe6abcc0860d52f87850
+2023-01-16T06:13:55.887Z [info]: Attempting to fetch album art for ID:313bd194caa79af11cee42154e46bf412224b85c938a39f8388ead82fc4c1708
+2023-01-16T06:13:55.917Z [info]: Attempting to fetch album art for ID:c1d0f0b9c3ec05d6c4d7019a75ed7a7fd14a235f52243a72c376e89b1ea91ac1
+2023-01-16T06:13:55.918Z [info]: Attempting to fetch album art for ID:a2bba1b02ebb992cbbbb3d825a18d20e66255783502965942dedec8c285e3649
+2023-01-16T06:14:07.196Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:14:11.642Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:14:14.458Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:15:20.240Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:15:20.246Z [info]: Connected to database
+2023-01-16T06:15:39.971Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:16:13.367Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:16:13.374Z [info]: Connected to database
+2023-01-16T06:16:17.513Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:16:17.519Z [info]: Connected to database
+2023-01-16T06:16:38.512Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:16:38.519Z [info]: Connected to database
+2023-01-16T06:16:59.826Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:16:59.832Z [info]: Connected to database
+2023-01-16T06:17:01.077Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:17:01.083Z [info]: Connected to database
+2023-01-16T06:17:03.560Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:17:03.566Z [info]: Connected to database
+2023-01-16T06:17:45.670Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:17:45.676Z [info]: Connected to database
+2023-01-16T06:17:46.661Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:17:46.667Z [info]: Connected to database
+2023-01-16T06:17:50.617Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:17:50.622Z [info]: Connected to database
+2023-01-16T06:17:54.467Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:18:04.533Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:18:04.541Z [info]: Connected to database
+2023-01-16T06:18:04.658Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:18:08.404Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:18:08.409Z [info]: Connected to database
+2023-01-16T06:18:08.595Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:18:21.326Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:18:51.056Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:18:51.063Z [info]: Connected to database
+2023-01-16T06:18:55.391Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:18:55.398Z [info]: Connected to database
+2023-01-16T06:18:57.331Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:19:03.988Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:19:03.996Z [info]: Connected to database
+2023-01-16T06:19:04.289Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:19:12.837Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:19:12.841Z [info]: Connected to database
+2023-01-16T06:19:13.546Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:19:16.834Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:19:16.840Z [info]: Connected to database
+2023-01-16T06:19:17.038Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:19:19.960Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T06:19:19.965Z [info]: Connected to database
+2023-01-16T06:19:20.619Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:19:21.353Z [error]: Access requested denied due to Error 404 to /favicon.ico
+2023-01-16T06:19:23.782Z [info]: http connection established by HOST:127.0.0.1
+2023-01-16T06:19:27.136Z [info]: Attempting to fetch music data
+2023-01-16T06:19:27.400Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T06:19:27.401Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-16T06:19:27.402Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-16T06:19:27.403Z [info]: Attempting to fetch album art for ID:51e0c3a88648f50182d91f4c70d593e6af834bfd0f5279e49576369014bf40c2
+2023-01-16T06:19:27.406Z [info]: Attempting to fetch album art for ID:657c2c56596e46d7fe3721c8017637f488905b2a7cc122559fa2eb0ea652802f
+2023-01-16T06:19:27.410Z [info]: Attempting to fetch album art for ID:b3623e883c34fb316598a1d394038f3f8cfc5731617c1502eb145f4e3ba4309a
+2023-01-16T06:19:27.538Z [info]: Attempting to fetch album art for ID:c1d0f0b9c3ec05d6c4d7019a75ed7a7fd14a235f52243a72c376e89b1ea91ac1
+2023-01-16T06:19:27.544Z [info]: Attempting to fetch album art for ID:a2bba1b02ebb992cbbbb3d825a18d20e66255783502965942dedec8c285e3649
+2023-01-16T06:19:27.550Z [info]: Attempting to fetch album art for ID:d38eca1c13eb42fbe46c38f7c613611cff70fbd71010ce986b6c39e9cf1cd841
+2023-01-16T06:19:27.627Z [info]: Attempting to fetch album art for ID:8e8af9a07bcf57174fa9d47d2a6f7b592d9e80ab356c555a5b0a045cce8f31a1
+2023-01-16T06:19:27.663Z [info]: Attempting to fetch album art for ID:f9d68a1890f9f924d13b9137c8096f40bd76e0e950824dd75f023307c45e5b64
+2023-01-16T06:19:27.678Z [info]: Attempting to fetch album art for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-16T06:19:27.682Z [info]: Attempting to fetch album art for ID:0cbd33a03a70590ee851452af82394e12d65be6db850c597f7ce99b3fbc069f1
+2023-01-16T06:19:27.695Z [info]: Attempting to fetch album art for ID:712772908981e0bc0fb15a70b0660f94aa7c6035b86f827f6e82a81136dcfdb0
+2023-01-16T06:19:27.709Z [info]: Attempting to fetch album art for ID:1e7c86c77caabba0e64467acefacd87eaabb47adcace62c8721ac585e423a817
+2023-01-16T06:19:27.719Z [info]: Attempting to fetch album art for ID:822bac9eaa2cd1f73e89eacece9f560bea38506c61864626e004700466e6952c
+2023-01-16T06:19:27.733Z [info]: Attempting to fetch album art for ID:9e45181100598d84e4629ac01236029dd519e562b0a6e4286c1bb3316eb2cff8
+2023-01-16T06:19:27.744Z [info]: Attempting to fetch album art for ID:4aa331c8741c46f29baeeafeb6e103304a9a4951a9ca565f9e4cafad7097b171
+2023-01-16T06:19:27.758Z [info]: Attempting to fetch album art for ID:eea41c542ec575917eacc46355865cd1122136c50207cc7ba057c29c34c316db
+2023-01-16T06:19:27.774Z [info]: Attempting to fetch album art for ID:16f1b89f9d5eaf3bb1fabf41b99ce9c1dcdb18cfd957485ff5d3bd1f47e2902c
+2023-01-16T06:19:27.804Z [info]: Attempting to fetch album art for ID:3457b66bc49139a38c5350d10331123836847f251d1ae8b816fd7db99a39b3c2
+2023-01-16T06:19:27.812Z [info]: Attempting to fetch album art for ID:1139f2167200c19aad73175eb397820f0b11235b742e6208e76eba6b8a03dbee
+2023-01-16T06:19:27.827Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-16T06:19:27.828Z [info]: Attempting to fetch album art for ID:b10aaaed617ce9a8acc2c52773fe7faa58e77e544cf49ea62c58ee349940e3b9
+2023-01-16T06:19:27.842Z [info]: Attempting to fetch album art for ID:8f9bc5f7acdb7a6f6d02b1df9c38edcdb4783ab46760083f2eebf18df3259701
+2023-01-16T06:19:27.868Z [info]: Attempting to fetch album art for ID:960100e7b509fdefb5d5ec874b53ae1062388e86bc20c0094fbde2994e2ddc8f
+2023-01-16T06:19:27.898Z [info]: Attempting to fetch album art for ID:4e7b949688a7904fa03d3ac29e8fa300da238e55083bd5d1870ef325aa761763
+2023-01-16T06:19:27.903Z [info]: Attempting to fetch album art for ID:0f05afa4422a1b8f4849b6fb27e826c722a1e17d0bc337de083c499b0fa55d4a
+2023-01-16T06:19:27.912Z [info]: Attempting to fetch album art for ID:ff62767e06275a5c029ecb585124b5e2d3ce8db2bad0e9dab711bb11d0d6793f
+2023-01-16T06:19:27.915Z [info]: Attempting to fetch album art for ID:2a9c7d197f6044b9076c33abeb4492935b713a8e93dce1f6d23e215aa3b1a8c6
+2023-01-16T06:19:27.944Z [info]: Attempting to fetch album art for ID:f4e4b61294d192025ab2af82bc788dda08552954fe0c91a6386748b27ea56dad
+2023-01-16T06:19:27.986Z [info]: Attempting to fetch album art for ID:5e2a364588766c9b6848137a01cf128d9011f06a0088c4ac3bf8af2b882c3fc6
+2023-01-16T06:19:27.987Z [info]: Attempting to fetch album art for ID:2ee5ed9a54da699ac8e88c95efcdf7dfbdaa2be01bb4ad95c9c86cd5038d0ba9
+2023-01-16T06:19:27.987Z [info]: Attempting to fetch album art for ID:d7d956511b7b5a6260e8573ca42b67d698b3fa27be0a0e2bff94b46f15245798
+2023-01-16T06:19:27.988Z [info]: Attempting to fetch album art for ID:de2a2988b1074c72eddac1c2ed63b84acf6a1d7edaf7212ae9b7cf7b8725fed7
+2023-01-16T06:19:27.994Z [info]: Attempting to fetch album art for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-16T06:19:28.186Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-16T06:19:28.187Z [info]: Attempting to fetch album art for ID:2671e4d36e9c64bee2aaa02e0143b99978aaafd6a363ad2501ada53ceefc8ec0
+2023-01-16T06:19:28.187Z [info]: Attempting to fetch album art for ID:04c187eb08c8dfe8067b855774b329b0cdfed765a4f6fe6abcc0860d52f87850
+2023-01-16T06:19:28.189Z [info]: Attempting to fetch album art for ID:313bd194caa79af11cee42154e46bf412224b85c938a39f8388ead82fc4c1708
+2023-01-16T06:19:31.343Z [info]: Attempting to fetch music data for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T07:44:44.688Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T07:44:55.508Z [info]: Attempting to fetch music data for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-16T07:45:39.590Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:45:39.594Z [info]: Connected to database
+2023-01-16T07:45:58.809Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:45:58.814Z [info]: Connected to database
+2023-01-16T07:46:05.531Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:46:05.536Z [info]: Connected to database
+2023-01-16T07:46:09.314Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:46:09.318Z [info]: Connected to database
+2023-01-16T07:46:34.031Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:46:34.035Z [info]: Connected to database
+2023-01-16T07:46:52.006Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:46:52.016Z [info]: Connected to database
+2023-01-16T07:46:57.078Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:46:57.084Z [info]: Connected to database
+2023-01-16T07:46:58.956Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:46:58.961Z [info]: Connected to database
+2023-01-16T07:47:01.648Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:47:01.653Z [info]: Connected to database
+2023-01-16T07:47:07.243Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:47:07.249Z [info]: Connected to database
+2023-01-16T07:47:08.881Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:47:08.886Z [info]: Connected to database
+2023-01-16T07:47:10.283Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:47:10.287Z [info]: Connected to database
+2023-01-16T07:47:12.342Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:47:12.346Z [info]: Connected to database
+2023-01-16T07:47:33.175Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:47:33.179Z [info]: Connected to database
+2023-01-16T07:47:41.558Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:47:41.563Z [info]: Connected to database
+2023-01-16T07:47:42.300Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:47:42.306Z [info]: Connected to database
+2023-01-16T07:47:54.662Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:47:54.677Z [info]: Connected to database
+2023-01-16T07:47:56.510Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:47:56.516Z [info]: Connected to database
+2023-01-16T07:47:58.029Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:47:58.037Z [info]: Connected to database
+2023-01-16T07:48:12.194Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:48:12.200Z [info]: Connected to database
+2023-01-16T07:48:14.358Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:48:14.363Z [info]: Connected to database
+2023-01-16T07:48:16.000Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:48:16.005Z [info]: Connected to database
+2023-01-16T07:48:21.277Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:48:21.282Z [info]: Connected to database
+2023-01-16T07:48:23.192Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:48:23.198Z [info]: Connected to database
+2023-01-16T07:48:25.174Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:48:25.179Z [info]: Connected to database
+2023-01-16T07:48:37.989Z [error]: Access requested denied due to Error 404 to /api/album
+2023-01-16T07:48:48.524Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:48:48.532Z [info]: Connected to database
+2023-01-16T07:48:50.868Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:48:50.875Z [info]: Connected to database
+2023-01-16T07:48:56.928Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:48:56.936Z [info]: Connected to database
+2023-01-16T07:48:58.469Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:48:58.479Z [info]: Connected to database
+2023-01-16T07:49:03.745Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:49:03.751Z [info]: Connected to database
+2023-01-16T07:49:14.619Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:49:14.626Z [info]: Connected to database
+2023-01-16T07:49:37.283Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:49:37.288Z [info]: Connected to database
+2023-01-16T07:49:43.781Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:49:43.787Z [info]: Connected to database
+2023-01-16T07:49:46.850Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:49:46.861Z [info]: Connected to database
+2023-01-16T07:49:50.147Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:49:50.154Z [info]: Connected to database
+2023-01-16T07:50:08.070Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:50:08.077Z [info]: Connected to database
+2023-01-16T07:50:11.532Z [info]: Attempting to fetch album data
+2023-01-16T07:50:18.345Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:50:18.351Z [info]: Connected to database
+2023-01-16T07:50:19.788Z [info]: Attempting to fetch album data
+2023-01-16T07:50:40.076Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:50:40.083Z [info]: Connected to database
+2023-01-16T07:50:41.482Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:50:41.488Z [info]: Connected to database
+2023-01-16T07:50:44.390Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:50:44.394Z [info]: Connected to database
+2023-01-16T07:50:52.254Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:50:52.258Z [info]: Connected to database
+2023-01-16T07:50:53.876Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:50:53.880Z [info]: Connected to database
+2023-01-16T07:50:55.264Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:50:55.267Z [info]: Connected to database
+2023-01-16T07:50:55.816Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:50:55.820Z [info]: Connected to database
+2023-01-16T07:51:39.422Z [info]: Attempting to fetch album data
+2023-01-16T07:51:48.984Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:51:48.989Z [info]: Connected to database
+2023-01-16T07:51:53.622Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:51:53.627Z [info]: Connected to database
+2023-01-16T07:51:58.465Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:51:58.470Z [info]: Connected to database
+2023-01-16T07:52:32.628Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:52:32.633Z [info]: Connected to database
+2023-01-16T07:52:35.925Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:52:35.929Z [info]: Connected to database
+2023-01-16T07:52:39.932Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:52:39.938Z [info]: Connected to database
+2023-01-16T07:52:42.940Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:52:42.943Z [info]: Connected to database
+2023-01-16T07:52:46.254Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:52:46.258Z [info]: Connected to database
+2023-01-16T07:52:48.639Z [info]: Attempting to fetch album data
+2023-01-16T07:52:58.129Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:52:58.136Z [info]: Connected to database
+2023-01-16T07:52:59.004Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:52:59.009Z [info]: Connected to database
+2023-01-16T07:53:01.041Z [info]: Attempting to fetch album data
+2023-01-16T07:53:09.381Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:53:09.389Z [info]: Connected to database
+2023-01-16T07:53:16.798Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:53:16.803Z [info]: Connected to database
+2023-01-16T07:53:22.651Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:53:22.655Z [info]: Connected to database
+2023-01-16T07:53:24.953Z [info]: Attempting to fetch album data
+2023-01-16T07:53:24.955Z [error]: An internal error occurred with the database. Further Investigation Required. Traceback at getAlbumData on {"errno":1,"code":"SQLITE_ERROR"}
+2023-01-16T07:53:56.370Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:53:56.377Z [info]: Connected to database
+2023-01-16T07:53:58.292Z [info]: Attempting to fetch album data
+2023-01-16T07:54:09.925Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-16T07:54:21.617Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:54:21.621Z [info]: Connected to database
+2023-01-16T07:54:24.846Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:54:24.853Z [info]: Connected to database
+2023-01-16T07:54:26.417Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:54:26.425Z [info]: Connected to database
+2023-01-16T07:54:29.902Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:54:29.915Z [info]: Connected to database
+2023-01-16T07:54:32.669Z [info]: Attempting to fetch album data
+2023-01-16T07:54:38.964Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:54:38.985Z [info]: Connected to database
+2023-01-16T07:54:39.660Z [info]: Attempting to fetch album data
+2023-01-16T07:54:55.850Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:54:55.856Z [info]: Connected to database
+2023-01-16T07:54:56.837Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:54:56.844Z [info]: Connected to database
+2023-01-16T07:55:00.710Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:55:00.716Z [info]: Connected to database
+2023-01-16T07:55:00.873Z [info]: Attempting to fetch album data
+2023-01-16T07:55:20.197Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:55:20.204Z [info]: Connected to database
+2023-01-16T07:55:20.552Z [info]: Attempting to fetch album data
+2023-01-16T07:55:23.302Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-16T07:55:23.307Z [info]: Connected to database
+2023-01-16T08:30:47.420Z [info]: Attempting to fetch music data
+2023-01-16T08:30:50.901Z [info]: Attempting to fetch music data for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-16T08:31:04.562Z [info]: Attempting to fetch music data for ID:4e7b949688a7904fa03d3ac29e8fa300da238e55083bd5d1870ef325aa761763
+2023-01-16T09:47:53.044Z [info]: http connection established by HOST:localhost
+2023-01-16T09:47:56.362Z [error]: Access requested denied due to Error 404
+2023-01-16T09:47:56.479Z [info]: http connection established by HOST:localhost
+2023-01-16T09:47:59.037Z [error]: Access requested denied due to Error 404 to /favicon.ico
+2023-01-17T09:57:40.862Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T09:57:40.867Z [info]: Connected to database
+2023-01-17T09:57:45.223Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T09:57:45.230Z [info]: Connected to database
+2023-01-17T09:57:58.622Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T09:58:01.450Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T09:58:16.623Z [error]: Access requested denied due to Error 404 to /favicon.ico
+2023-01-17T09:58:21.368Z [info]: Attempting to fetch music data
+2023-01-17T09:58:21.857Z [info]: Attempting to fetch album art for ID:3457b66bc49139a38c5350d10331123836847f251d1ae8b816fd7db99a39b3c2
+2023-01-17T09:58:21.859Z [info]: Attempting to fetch album art for ID:1139f2167200c19aad73175eb397820f0b11235b742e6208e76eba6b8a03dbee
+2023-01-17T09:58:21.862Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T09:58:21.864Z [info]: Attempting to fetch album art for ID:b10aaaed617ce9a8acc2c52773fe7faa58e77e544cf49ea62c58ee349940e3b9
+2023-01-17T09:58:21.866Z [info]: Attempting to fetch album art for ID:960100e7b509fdefb5d5ec874b53ae1062388e86bc20c0094fbde2994e2ddc8f
+2023-01-17T09:58:21.867Z [info]: Attempting to fetch album art for ID:4e7b949688a7904fa03d3ac29e8fa300da238e55083bd5d1870ef325aa761763
+2023-01-17T09:58:21.932Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T09:58:21.934Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T09:58:21.935Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T09:58:21.936Z [info]: Attempting to fetch album art for ID:51e0c3a88648f50182d91f4c70d593e6af834bfd0f5279e49576369014bf40c2
+2023-01-17T09:58:21.940Z [info]: Attempting to fetch album art for ID:657c2c56596e46d7fe3721c8017637f488905b2a7cc122559fa2eb0ea652802f
+2023-01-17T09:58:21.955Z [info]: Attempting to fetch album art for ID:b3623e883c34fb316598a1d394038f3f8cfc5731617c1502eb145f4e3ba4309a
+2023-01-17T09:58:21.978Z [info]: Attempting to fetch album art for ID:d38eca1c13eb42fbe46c38f7c613611cff70fbd71010ce986b6c39e9cf1cd841
+2023-01-17T09:58:21.979Z [info]: Attempting to fetch album art for ID:1e7c86c77caabba0e64467acefacd87eaabb47adcace62c8721ac585e423a817
+2023-01-17T09:58:21.987Z [info]: Attempting to fetch album art for ID:8f9bc5f7acdb7a6f6d02b1df9c38edcdb4783ab46760083f2eebf18df3259701
+2023-01-17T09:58:21.990Z [info]: Attempting to fetch album art for ID:04c187eb08c8dfe8067b855774b329b0cdfed765a4f6fe6abcc0860d52f87850
+2023-01-17T09:58:22.008Z [info]: Attempting to fetch album art for ID:313bd194caa79af11cee42154e46bf412224b85c938a39f8388ead82fc4c1708
+2023-01-17T09:58:22.038Z [info]: Attempting to fetch album art for ID:c1d0f0b9c3ec05d6c4d7019a75ed7a7fd14a235f52243a72c376e89b1ea91ac1
+2023-01-17T09:58:22.039Z [info]: Attempting to fetch album art for ID:a2bba1b02ebb992cbbbb3d825a18d20e66255783502965942dedec8c285e3649
+2023-01-17T09:58:22.049Z [info]: Attempting to fetch album art for ID:8e8af9a07bcf57174fa9d47d2a6f7b592d9e80ab356c555a5b0a045cce8f31a1
+2023-01-17T09:58:22.050Z [info]: Attempting to fetch album art for ID:f9d68a1890f9f924d13b9137c8096f40bd76e0e950824dd75f023307c45e5b64
+2023-01-17T09:58:22.063Z [info]: Attempting to fetch album art for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-17T09:58:22.078Z [info]: Attempting to fetch album art for ID:0f05afa4422a1b8f4849b6fb27e826c722a1e17d0bc337de083c499b0fa55d4a
+2023-01-17T09:58:22.079Z [info]: Attempting to fetch album art for ID:ff62767e06275a5c029ecb585124b5e2d3ce8db2bad0e9dab711bb11d0d6793f
+2023-01-17T09:58:22.089Z [info]: Attempting to fetch album art for ID:2a9c7d197f6044b9076c33abeb4492935b713a8e93dce1f6d23e215aa3b1a8c6
+2023-01-17T09:58:22.098Z [info]: Attempting to fetch album art for ID:f4e4b61294d192025ab2af82bc788dda08552954fe0c91a6386748b27ea56dad
+2023-01-17T09:58:22.100Z [info]: Attempting to fetch album art for ID:5e2a364588766c9b6848137a01cf128d9011f06a0088c4ac3bf8af2b882c3fc6
+2023-01-17T09:58:22.122Z [info]: Attempting to fetch album art for ID:2ee5ed9a54da699ac8e88c95efcdf7dfbdaa2be01bb4ad95c9c86cd5038d0ba9
+2023-01-17T09:58:22.131Z [info]: Attempting to fetch album art for ID:d7d956511b7b5a6260e8573ca42b67d698b3fa27be0a0e2bff94b46f15245798
+2023-01-17T09:58:22.132Z [info]: Attempting to fetch album art for ID:de2a2988b1074c72eddac1c2ed63b84acf6a1d7edaf7212ae9b7cf7b8725fed7
+2023-01-17T09:58:22.132Z [info]: Attempting to fetch album art for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-17T09:58:22.141Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T09:58:22.270Z [info]: Attempting to fetch album art for ID:2671e4d36e9c64bee2aaa02e0143b99978aaafd6a363ad2501ada53ceefc8ec0
+2023-01-17T09:58:22.272Z [info]: Attempting to fetch album art for ID:0cbd33a03a70590ee851452af82394e12d65be6db850c597f7ce99b3fbc069f1
+2023-01-17T09:58:22.313Z [info]: Attempting to fetch album art for ID:712772908981e0bc0fb15a70b0660f94aa7c6035b86f827f6e82a81136dcfdb0
+2023-01-17T09:58:22.313Z [info]: Attempting to fetch album art for ID:822bac9eaa2cd1f73e89eacece9f560bea38506c61864626e004700466e6952c
+2023-01-17T09:58:22.347Z [info]: Attempting to fetch album art for ID:9e45181100598d84e4629ac01236029dd519e562b0a6e4286c1bb3316eb2cff8
+2023-01-17T09:58:22.354Z [info]: Attempting to fetch album art for ID:4aa331c8741c46f29baeeafeb6e103304a9a4951a9ca565f9e4cafad7097b171
+2023-01-17T09:58:22.376Z [info]: Attempting to fetch album art for ID:eea41c542ec575917eacc46355865cd1122136c50207cc7ba057c29c34c316db
+2023-01-17T09:58:22.377Z [info]: Attempting to fetch album art for ID:16f1b89f9d5eaf3bb1fabf41b99ce9c1dcdb18cfd957485ff5d3bd1f47e2902c
+2023-01-17T09:58:26.656Z [info]: Attempting to fetch music data for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T09:58:31.947Z [info]: Attempting to fetch music data for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-17T09:58:32.940Z [info]: Attempting to fetch music data for ID:de2a2988b1074c72eddac1c2ed63b84acf6a1d7edaf7212ae9b7cf7b8725fed7
+2023-01-17T09:58:53.933Z [info]: Attempting to fetch music data for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T09:59:06.159Z [error]: Access requested denied due to Error 404 to /api/albums
+2023-01-17T09:59:06.179Z [info]: Attempting to sync music data from local system
+2023-01-17T09:59:06.181Z [info]: Detected OS: Windows
+2023-01-17T09:59:06.184Z [error]: Unexpected Error Occurred. Possibly Permission Denied for S-1-5-18
+2023-01-17T09:59:06.328Z [info]: Found Music File: 01 Amnesia.m4a
+2023-01-17T09:59:06.329Z [info]: Found Music File: 02 Daylight.m4a
+2023-01-17T09:59:06.330Z [info]: Found Music File: 03 American Idiot.m4a
+2023-01-17T09:59:06.332Z [info]: Found Music File: 04 Amnesia (Live At Wembley).m4a
+2023-01-17T09:59:06.335Z [info]: Found Music File: A1 - Running Up That Hill (A Deal With God).mp3
+2023-01-17T09:59:06.340Z [info]: Found Music File: A2 - Hounds of Love.flac
+2023-01-17T09:59:06.342Z [info]: Found Music File: 01. Sunrise.mp3
+2023-01-17T09:59:06.343Z [info]: Found Music File: 02. Church.mp3
+2023-01-17T09:59:06.345Z [info]: Found Music File: 03. Trouble In Town.mp3
+2023-01-17T09:59:06.347Z [info]: Found Music File: 04. BrokEn.mp3
+2023-01-17T09:59:06.347Z [info]: Found Music File: 05. Daddy.mp3
+2023-01-17T09:59:06.348Z [info]: Found Music File: 06. WOTWPOTP.mp3
+2023-01-17T09:59:06.350Z [info]: Found Music File: 07. Arabesque.mp3
+2023-01-17T09:59:06.351Z [info]: Found Music File: 08. When I Need A Friend.mp3
+2023-01-17T09:59:06.352Z [info]: Found Music File: 09. SunriseSunset Interlude #1.mp3
+2023-01-17T09:59:06.353Z [info]: Found Music File: 10. SunriseSunset Interlude #2.mp3
+2023-01-17T09:59:06.355Z [info]: Found Music File: 11. SunriseSunset Interlude #3.mp3
+2023-01-17T09:59:06.357Z [info]: Found Music File: 12. SunriseSunset Interlude #4.mp3
+2023-01-17T09:59:06.358Z [info]: Found Music File: 13. SunriseSunset Interlude #5.mp3
+2023-01-17T09:59:06.362Z [info]: Found Music File: 14. SunriseSunset Interlude #6.mp3
+2023-01-17T09:59:06.365Z [info]: Found Music File: 15. Guns.mp3
+2023-01-17T09:59:06.369Z [info]: Found Music File: 16. Orphans.mp3
+2023-01-17T09:59:06.372Z [info]: Found Music File: 17. Eko.mp3
+2023-01-17T09:59:06.374Z [info]: Found Music File: 18. Cry Cry Cry.mp3
+2023-01-17T09:59:06.376Z [info]: Found Music File: 19. Old Friends.mp3
+2023-01-17T09:59:06.378Z [info]: Found Music File: 20. Bani Adam.mp3
+2023-01-17T09:59:06.380Z [info]: Found Music File: 21. Champion Of The World.mp3
+2023-01-17T09:59:06.384Z [info]: Found Music File: 22. Everyday Life.mp3
+2023-01-17T09:59:06.389Z [info]: Found Music File: 01 Always In My Head.mp3
+2023-01-17T09:59:06.390Z [info]: Found Music File: 02 Magic.mp3
+2023-01-17T09:59:06.392Z [info]: Found Music File: 03 Ink.mp3
+2023-01-17T09:59:06.393Z [info]: Found Music File: 04 True Love.mp3
+2023-01-17T09:59:06.394Z [info]: Found Music File: 05 Midnight.mp3
+2023-01-17T09:59:06.395Z [info]: Found Music File: 06 Another's Arms.mp3
+2023-01-17T09:59:06.396Z [info]: Found Music File: 07 Oceans.mp3
+2023-01-17T09:59:06.399Z [info]: Found Music File: 08 A Sky Full Of Stars.mp3
+2023-01-17T09:59:06.401Z [info]: Found Music File: 09 O.mp3
+2023-01-17T09:59:06.402Z [info]: Found Music File: 10 All Your Friends.mp3
+2023-01-17T09:59:06.403Z [info]: Found Music File: 11 Ghost Story.mp3
+2023-01-17T09:59:06.404Z [info]: Found Music File: 12 O (Part 2 - Reprise).mp3
+2023-01-17T09:59:09.225Z [info]: Found Music File: ammathan.mp3
+2023-01-17T09:59:09.226Z [info]: Found Music File: anulak.m4a
+2023-01-17T09:59:09.228Z [info]: Found Music File: merinaMan.mp3
+2023-01-17T09:59:09.435Z [error]: Unexpected Error Occurred. Possibly Permission Denied for System Volume Information
+2023-01-17T09:59:09.511Z [error]: An internal error occurred while getting metadata. Further Investigation Required. Traceback at musicMetaData on {"type":"tagFormat","info":"No suitable tag reader found"}
+2023-01-17T09:59:11.488Z [info]: Attempting to fetch music data
+2023-01-17T09:59:12.258Z [info]: Saved Music File: merinaMan
+2023-01-17T09:59:12.424Z [error]: Access requested denied due to Error 404 to /api/albums
+2023-01-17T09:59:12.445Z [info]: Saved Music File: Running Up That Hill (A Deal With God)
+2023-01-17T09:59:12.453Z [info]: Attempting to sync music data from local system
+2023-01-17T09:59:12.453Z [info]: Detected OS: Windows
+2023-01-17T09:59:12.455Z [error]: Unexpected Error Occurred. Possibly Permission Denied for S-1-5-18
+2023-01-17T09:59:12.482Z [info]: Found Music File: 01 Amnesia.m4a
+2023-01-17T09:59:12.483Z [info]: Found Music File: 02 Daylight.m4a
+2023-01-17T09:59:12.484Z [info]: Found Music File: 03 American Idiot.m4a
+2023-01-17T09:59:12.486Z [info]: Found Music File: 04 Amnesia (Live At Wembley).m4a
+2023-01-17T09:59:12.487Z [info]: Found Music File: A1 - Running Up That Hill (A Deal With God).mp3
+2023-01-17T09:59:12.487Z [info]: Found Music File: A2 - Hounds of Love.flac
+2023-01-17T09:59:12.488Z [info]: Found Music File: 01. Sunrise.mp3
+2023-01-17T09:59:12.489Z [info]: Found Music File: 02. Church.mp3
+2023-01-17T09:59:12.490Z [info]: Found Music File: 03. Trouble In Town.mp3
+2023-01-17T09:59:12.491Z [info]: Found Music File: 04. BrokEn.mp3
+2023-01-17T09:59:12.491Z [info]: Found Music File: 05. Daddy.mp3
+2023-01-17T09:59:12.492Z [info]: Found Music File: 06. WOTWPOTP.mp3
+2023-01-17T09:59:12.492Z [info]: Found Music File: 07. Arabesque.mp3
+2023-01-17T09:59:12.493Z [info]: Found Music File: 08. When I Need A Friend.mp3
+2023-01-17T09:59:12.493Z [info]: Found Music File: 09. SunriseSunset Interlude #1.mp3
+2023-01-17T09:59:12.494Z [info]: Found Music File: 10. SunriseSunset Interlude #2.mp3
+2023-01-17T09:59:12.495Z [info]: Found Music File: 11. SunriseSunset Interlude #3.mp3
+2023-01-17T09:59:12.495Z [info]: Found Music File: 12. SunriseSunset Interlude #4.mp3
+2023-01-17T09:59:12.496Z [info]: Found Music File: 13. SunriseSunset Interlude #5.mp3
+2023-01-17T09:59:12.496Z [info]: Found Music File: 14. SunriseSunset Interlude #6.mp3
+2023-01-17T09:59:12.497Z [info]: Found Music File: 15. Guns.mp3
+2023-01-17T09:59:12.498Z [info]: Found Music File: 16. Orphans.mp3
+2023-01-17T09:59:12.498Z [info]: Found Music File: 17. Eko.mp3
+2023-01-17T09:59:12.499Z [info]: Found Music File: 18. Cry Cry Cry.mp3
+2023-01-17T09:59:12.500Z [info]: Found Music File: 19. Old Friends.mp3
+2023-01-17T09:59:12.501Z [info]: Found Music File: 20. Bani Adam.mp3
+2023-01-17T09:59:12.501Z [info]: Found Music File: 21. Champion Of The World.mp3
+2023-01-17T09:59:12.502Z [info]: Found Music File: 22. Everyday Life.mp3
+2023-01-17T09:59:12.503Z [info]: Found Music File: 01 Always In My Head.mp3
+2023-01-17T09:59:12.504Z [info]: Found Music File: 02 Magic.mp3
+2023-01-17T09:59:12.504Z [info]: Found Music File: 03 Ink.mp3
+2023-01-17T09:59:12.505Z [info]: Found Music File: 04 True Love.mp3
+2023-01-17T09:59:12.505Z [info]: Found Music File: 05 Midnight.mp3
+2023-01-17T09:59:12.506Z [info]: Found Music File: 06 Another's Arms.mp3
+2023-01-17T09:59:12.507Z [info]: Found Music File: 07 Oceans.mp3
+2023-01-17T09:59:12.508Z [info]: Found Music File: 08 A Sky Full Of Stars.mp3
+2023-01-17T09:59:12.509Z [info]: Found Music File: 09 O.mp3
+2023-01-17T09:59:12.509Z [info]: Found Music File: 10 All Your Friends.mp3
+2023-01-17T09:59:12.510Z [info]: Found Music File: 11 Ghost Story.mp3
+2023-01-17T09:59:12.511Z [info]: Found Music File: 12 O (Part 2 - Reprise).mp3
+2023-01-17T09:59:13.027Z [info]: Found Music File: ammathan.mp3
+2023-01-17T09:59:13.027Z [info]: Found Music File: anulak.m4a
+2023-01-17T09:59:13.028Z [info]: Found Music File: merinaMan.mp3
+2023-01-17T09:59:13.046Z [error]: Unexpected Error Occurred. Possibly Permission Denied for System Volume Information
+2023-01-17T09:59:13.048Z [info]: Saved Music File: Church
+2023-01-17T09:59:13.080Z [error]: An internal error occurred while getting metadata. Further Investigation Required. Traceback at musicMetaData on {"type":"tagFormat","info":"No suitable tag reader found"}
+2023-01-17T09:59:13.083Z [info]: An internal error occurred with the database. Further Investigation Required. Traceback on saveMusicMetaData on \Music\Coldplay - Everyday Life (2019) Mp3 (320kbps) [Hunter]\01. Sunrise.mp3 at {"errno":1,"code":"SQLITE_ERROR"}
+2023-01-17T09:59:14.148Z [info]: An internal error occurred with the database. Further Investigation Required. Traceback on saveMusicMetaData on \Music\Coldplay - Everyday Life (2019) Mp3 (320kbps) [Hunter]\03. Trouble In Town.mp3 at {"errno":1,"code":"SQLITE_ERROR"}
+2023-01-17T09:59:14.409Z [info]: An internal error occurred with the database. Further Investigation Required. Traceback on saveMusicMetaData on \Music\Coldplay - Everyday Life (2019) Mp3 (320kbps) [Hunter]\05. Daddy.mp3 at {"errno":1,"code":"SQLITE_ERROR"}
+2023-01-17T09:59:14.463Z [info]: Saved Music File: merinaMan
+2023-01-17T09:59:14.470Z [info]: Saved Music File: WOTW/POTP
+2023-01-17T09:59:14.774Z [info]: Saved Music File: Arabesque
+2023-01-17T09:59:14.781Z [info]: Saved Music File: Running Up That Hill (A Deal With God)
+2023-01-17T09:59:15.120Z [info]: Saved Music File: Church
+2023-01-17T09:59:15.126Z [info]: Saved Music File: BrokEn
+2023-01-17T09:59:15.164Z [info]: Saved Music File: When I Need A Friend
+2023-01-17T09:59:15.182Z [info]: Saved Music File: Sunrise/Sunset Interlude #1
+2023-01-17T09:59:15.209Z [info]: Saved Music File: Sunrise/Sunset Interlude #4
+2023-01-17T09:59:15.226Z [info]: Saved Music File: Trouble In Town
+2023-01-17T09:59:15.242Z [info]: Saved Music File: Sunrise/Sunset Interlude #2
+2023-01-17T09:59:15.254Z [info]: Saved Music File: WOTW/POTP
+2023-01-17T09:59:15.279Z [info]: Saved Music File: Sunrise/Sunset Interlude #3
+2023-01-17T09:59:15.313Z [info]: Saved Music File: Sunrise/Sunset Interlude #5
+2023-01-17T09:59:15.342Z [info]: Saved Music File: Sunrise
+2023-01-17T09:59:15.369Z [info]: Saved Music File: Sunrise/Sunset Interlude #6
+2023-01-17T09:59:15.390Z [info]: Saved Music File: Guns
+2023-01-17T09:59:15.402Z [info]: Saved Music File: BrokEn
+2023-01-17T09:59:15.431Z [info]: Saved Music File: Daddy
+2023-01-17T09:59:15.461Z [info]: Saved Music File: Eko
+2023-01-17T09:59:15.478Z [info]: Saved Music File: Arabesque
+2023-01-17T09:59:15.550Z [info]: Saved Music File: Orphans
+2023-01-17T09:59:15.655Z [info]: Saved Music File: When I Need A Friend
+2023-01-17T09:59:15.721Z [info]: Saved Music File: Old Friends
+2023-01-17T09:59:15.733Z [info]: Saved Music File: Sunrise/Sunset Interlude #1
+2023-01-17T09:59:15.752Z [info]: Saved Music File: Bani Adam
+2023-01-17T09:59:15.762Z [info]: Saved Music File: Sunrise/Sunset Interlude #2
+2023-01-17T09:59:15.795Z [info]: Saved Music File: Cry Cry Cry
+2023-01-17T09:59:15.807Z [info]: Saved Music File: Sunrise/Sunset Interlude #3
+2023-01-17T09:59:15.879Z [info]: Saved Music File: Champion Of The World
+2023-01-17T09:59:15.892Z [info]: Saved Music File: Sunrise/Sunset Interlude #6
+2023-01-17T09:59:15.965Z [info]: Saved Music File: Always In My Head
+2023-01-17T09:59:15.992Z [info]: Saved Music File: Sunrise/Sunset Interlude #5
+2023-01-17T09:59:16.113Z [info]: Saved Music File: Everyday Life
+2023-01-17T09:59:16.209Z [info]: Saved Music File: Sunrise/Sunset Interlude #4
+2023-01-17T09:59:16.315Z [info]: Saved Music File: Magic
+2023-01-17T09:59:16.345Z [info]: Saved Music File: Orphans
+2023-01-17T09:59:16.389Z [info]: Saved Music File: Ink
+2023-01-17T09:59:16.409Z [info]: Saved Music File: Guns
+2023-01-17T09:59:16.432Z [info]: Saved Music File: True Love
+2023-01-17T09:59:16.462Z [info]: Saved Music File: Cry Cry Cry
+2023-01-17T09:59:16.575Z [info]: Saved Music File: Old Friends
+2023-01-17T09:59:16.706Z [info]: Saved Music File: Midnight
+2023-01-17T09:59:16.734Z [info]: Saved Music File: Eko
+2023-01-17T09:59:16.823Z [info]: Saved Music File: Another's Arms
+2023-01-17T09:59:16.849Z [info]: Saved Music File: Bani Adam
+2023-01-17T09:59:16.902Z [info]: Saved Music File: Oceans
+2023-01-17T09:59:16.929Z [info]: Saved Music File: A Sky Full of Stars
+2023-01-17T09:59:16.986Z [info]: Saved Music File: Champion Of The World
+2023-01-17T09:59:17.044Z [info]: Saved Music File: O
+2023-01-17T09:59:17.059Z [info]: Saved Music File: Everyday Life
+2023-01-17T09:59:17.072Z [info]: Saved Music File: Always In My Head
+2023-01-17T09:59:17.122Z [info]: Saved Music File: All Your Friends
+2023-01-17T09:59:17.143Z [info]: Saved Music File: Magic
+2023-01-17T09:59:17.163Z [info]: Saved Music File: Ghost Story
+2023-01-17T09:59:17.235Z [info]: Saved Music File: True Love
+2023-01-17T09:59:17.293Z [info]: Saved Music File: null
+2023-01-17T09:59:17.347Z [info]: Saved Music File: Midnight
+2023-01-17T09:59:17.428Z [info]: Saved Music File: O (Part 2/Reprise)
+2023-01-17T09:59:17.438Z [info]: Saved Music File: Ink
+2023-01-17T09:59:17.477Z [info]: Saved Music File: Amnesia
+2023-01-17T09:59:17.510Z [info]: Saved Music File: Another's Arms
+2023-01-17T09:59:17.593Z [info]: Saved Music File: Oceans
+2023-01-17T09:59:17.647Z [info]: Saved Music File: Hounds of Love
+2023-01-17T09:59:17.659Z [info]: Saved Music File: A Sky Full of Stars
+2023-01-17T09:59:17.797Z [info]: Saved Music File: O
+2023-01-17T09:59:17.915Z [info]: Saved Music File: Daylight
+2023-01-17T09:59:17.928Z [info]: Saved Music File: All Your Friends
+2023-01-17T09:59:18.046Z [info]: Saved Music File: American Idiot
+2023-01-17T09:59:18.059Z [info]: Saved Music File: O (Part 2/Reprise)
+2023-01-17T09:59:18.218Z [info]: Saved Music File: Amnesia (Live At Wembley)
+2023-01-17T09:59:18.245Z [info]: Saved Music File: Ghost Story
+2023-01-17T09:59:18.336Z [info]: Saved Music File: null
+2023-01-17T09:59:18.349Z [info]: Saved Music File: null
+2023-01-17T09:59:18.818Z [info]: Saved Music File: Hounds of Love
+2023-01-17T09:59:18.905Z [info]: Saved Music File: American Idiot
+2023-01-17T09:59:18.916Z [info]: Saved Music File: Daylight
+2023-01-17T09:59:18.954Z [info]: Deleted all music files except for 43 
+2023-01-17T09:59:18.955Z [info]: Music Sync Completed
+2023-01-17T09:59:19.002Z [info]: Saved Music File: Amnesia (Live At Wembley)
+2023-01-17T09:59:19.014Z [info]: Saved Music File: Amnesia
+2023-01-17T09:59:19.030Z [info]: Saved Music File: null
+2023-01-17T09:59:19.090Z [info]: An internal error occurred with the database. Further Investigation Required. Traceback on getSongDuration at {"errno":21,"code":"SQLITE_MISUSE"}
+2023-01-17T09:59:19.232Z [info]: An internal error occurred with the database. Further Investigation Required. Traceback on getSongDuration at {"errno":21,"code":"SQLITE_MISUSE"}
+2023-01-17T09:59:19.338Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T09:59:19.348Z [info]: Deleted all music files except for 43 
+2023-01-17T09:59:19.348Z [info]: Music Sync Completed
+2023-01-17T09:59:19.358Z [info]: Attempting to fetch music data
+2023-01-17T09:59:19.379Z [info]: Attempting to fetch music data
+2023-01-17T09:59:28.147Z [info]: Attempting to fetch music data for ID:8f9bc5f7acdb7a6f6d02b1df9c38edcdb4783ab46760083f2eebf18df3259701
+2023-01-17T09:59:31.571Z [error]: Access requested denied due to Error 404 to /api/albums
+2023-01-17T09:59:31.584Z [info]: Attempting to sync music data from local system
+2023-01-17T09:59:31.585Z [info]: Detected OS: Windows
+2023-01-17T09:59:31.586Z [error]: Unexpected Error Occurred. Possibly Permission Denied for S-1-5-18
+2023-01-17T09:59:31.597Z [info]: Found Music File: 01 Amnesia.m4a
+2023-01-17T09:59:31.598Z [info]: Found Music File: 02 Daylight.m4a
+2023-01-17T09:59:31.598Z [info]: Found Music File: 03 American Idiot.m4a
+2023-01-17T09:59:31.599Z [info]: Found Music File: 04 Amnesia (Live At Wembley).m4a
+2023-01-17T09:59:31.599Z [info]: Found Music File: A1 - Running Up That Hill (A Deal With God).mp3
+2023-01-17T09:59:31.600Z [info]: Found Music File: A2 - Hounds of Love.flac
+2023-01-17T09:59:31.600Z [info]: Found Music File: 01. Sunrise.mp3
+2023-01-17T09:59:31.601Z [info]: Found Music File: 02. Church.mp3
+2023-01-17T09:59:31.602Z [info]: Found Music File: 03. Trouble In Town.mp3
+2023-01-17T09:59:31.602Z [info]: Found Music File: 04. BrokEn.mp3
+2023-01-17T09:59:31.603Z [info]: Found Music File: 05. Daddy.mp3
+2023-01-17T09:59:31.604Z [info]: Found Music File: 06. WOTWPOTP.mp3
+2023-01-17T09:59:31.604Z [info]: Found Music File: 07. Arabesque.mp3
+2023-01-17T09:59:31.604Z [info]: Found Music File: 08. When I Need A Friend.mp3
+2023-01-17T09:59:31.605Z [info]: Found Music File: 09. SunriseSunset Interlude #1.mp3
+2023-01-17T09:59:31.606Z [info]: Found Music File: 10. SunriseSunset Interlude #2.mp3
+2023-01-17T09:59:31.606Z [info]: Found Music File: 11. SunriseSunset Interlude #3.mp3
+2023-01-17T09:59:31.607Z [info]: Found Music File: 12. SunriseSunset Interlude #4.mp3
+2023-01-17T09:59:31.607Z [info]: Found Music File: 13. SunriseSunset Interlude #5.mp3
+2023-01-17T09:59:31.608Z [info]: Found Music File: 14. SunriseSunset Interlude #6.mp3
+2023-01-17T09:59:31.608Z [info]: Found Music File: 15. Guns.mp3
+2023-01-17T09:59:31.609Z [info]: Found Music File: 16. Orphans.mp3
+2023-01-17T09:59:31.609Z [info]: Found Music File: 17. Eko.mp3
+2023-01-17T09:59:31.610Z [info]: Found Music File: 18. Cry Cry Cry.mp3
+2023-01-17T09:59:31.610Z [info]: Found Music File: 19. Old Friends.mp3
+2023-01-17T09:59:31.610Z [info]: Found Music File: 20. Bani Adam.mp3
+2023-01-17T09:59:31.611Z [info]: Found Music File: 21. Champion Of The World.mp3
+2023-01-17T09:59:31.611Z [info]: Found Music File: 22. Everyday Life.mp3
+2023-01-17T09:59:31.612Z [info]: Found Music File: 01 Always In My Head.mp3
+2023-01-17T09:59:31.612Z [info]: Found Music File: 02 Magic.mp3
+2023-01-17T09:59:31.612Z [info]: Found Music File: 03 Ink.mp3
+2023-01-17T09:59:31.613Z [info]: Found Music File: 04 True Love.mp3
+2023-01-17T09:59:31.613Z [info]: Found Music File: 05 Midnight.mp3
+2023-01-17T09:59:31.614Z [info]: Found Music File: 06 Another's Arms.mp3
+2023-01-17T09:59:31.614Z [info]: Found Music File: 07 Oceans.mp3
+2023-01-17T09:59:31.614Z [info]: Found Music File: 08 A Sky Full Of Stars.mp3
+2023-01-17T09:59:31.615Z [info]: Found Music File: 09 O.mp3
+2023-01-17T09:59:31.615Z [info]: Found Music File: 10 All Your Friends.mp3
+2023-01-17T09:59:31.616Z [info]: Found Music File: 11 Ghost Story.mp3
+2023-01-17T09:59:31.616Z [info]: Found Music File: 12 O (Part 2 - Reprise).mp3
+2023-01-17T09:59:32.012Z [info]: Found Music File: ammathan.mp3
+2023-01-17T09:59:32.013Z [info]: Found Music File: anulak.m4a
+2023-01-17T09:59:32.013Z [info]: Found Music File: merinaMan.mp3
+2023-01-17T09:59:32.030Z [error]: Unexpected Error Occurred. Possibly Permission Denied for System Volume Information
+2023-01-17T09:59:32.060Z [error]: An internal error occurred while getting metadata. Further Investigation Required. Traceback at musicMetaData on {"type":"tagFormat","info":"No suitable tag reader found"}
+2023-01-17T09:59:33.204Z [info]: Saved Music File: merinaMan
+2023-01-17T09:59:33.373Z [info]: Saved Music File: Running Up That Hill (A Deal With God)
+2023-01-17T09:59:33.500Z [info]: Saved Music File: Church
+2023-01-17T09:59:33.641Z [info]: Saved Music File: Sunrise
+2023-01-17T09:59:33.660Z [info]: Saved Music File: Daddy
+2023-01-17T09:59:33.679Z [info]: Saved Music File: Trouble In Town
+2023-01-17T09:59:33.732Z [info]: Saved Music File: WOTW/POTP
+2023-01-17T09:59:33.777Z [info]: Saved Music File: Arabesque
+2023-01-17T09:59:33.799Z [info]: Saved Music File: BrokEn
+2023-01-17T09:59:33.832Z [info]: Saved Music File: Sunrise/Sunset Interlude #1
+2023-01-17T09:59:33.854Z [info]: Saved Music File: Sunrise/Sunset Interlude #2
+2023-01-17T09:59:33.878Z [info]: Saved Music File: When I Need A Friend
+2023-01-17T09:59:33.905Z [info]: Saved Music File: Sunrise/Sunset Interlude #6
+2023-01-17T09:59:33.927Z [info]: Saved Music File: Sunrise/Sunset Interlude #3
+2023-01-17T09:59:33.954Z [info]: Saved Music File: Sunrise/Sunset Interlude #4
+2023-01-17T09:59:33.982Z [info]: Saved Music File: Sunrise/Sunset Interlude #5
+2023-01-17T09:59:34.005Z [info]: Saved Music File: Guns
+2023-01-17T09:59:34.029Z [info]: Saved Music File: Orphans
+2023-01-17T09:59:34.052Z [info]: Saved Music File: Eko
+2023-01-17T09:59:34.072Z [info]: Saved Music File: Old Friends
+2023-01-17T09:59:34.095Z [info]: Saved Music File: Cry Cry Cry
+2023-01-17T09:59:34.161Z [info]: Saved Music File: Bani Adam
+2023-01-17T09:59:34.193Z [info]: Saved Music File: Champion Of The World
+2023-01-17T09:59:34.215Z [info]: Saved Music File: Always In My Head
+2023-01-17T09:59:34.244Z [info]: Saved Music File: Ink
+2023-01-17T09:59:34.263Z [info]: Saved Music File: Magic
+2023-01-17T09:59:34.286Z [info]: Saved Music File: Midnight
+2023-01-17T09:59:34.306Z [info]: Saved Music File: Everyday Life
+2023-01-17T09:59:34.330Z [info]: Saved Music File: Oceans
+2023-01-17T09:59:34.354Z [info]: Saved Music File: True Love
+2023-01-17T09:59:34.375Z [info]: Saved Music File: Another's Arms
+2023-01-17T09:59:34.394Z [info]: Saved Music File: A Sky Full of Stars
+2023-01-17T09:59:34.424Z [info]: Saved Music File: O
+2023-01-17T09:59:34.443Z [info]: Saved Music File: All Your Friends
+2023-01-17T09:59:34.482Z [info]: Saved Music File: Ghost Story
+2023-01-17T09:59:34.492Z [info]: Saved Music File: null
+2023-01-17T09:59:34.520Z [info]: Saved Music File: O (Part 2/Reprise)
+2023-01-17T09:59:34.602Z [info]: Saved Music File: Hounds of Love
+2023-01-17T09:59:34.668Z [info]: Saved Music File: Amnesia
+2023-01-17T09:59:34.694Z [info]: Saved Music File: American Idiot
+2023-01-17T09:59:34.738Z [info]: Saved Music File: Daylight
+2023-01-17T09:59:34.765Z [info]: Saved Music File: Amnesia (Live At Wembley)
+2023-01-17T09:59:34.810Z [info]: Saved Music File: null
+2023-01-17T09:59:35.243Z [info]: Deleted all music files except for 43 
+2023-01-17T09:59:35.243Z [info]: Music Sync Completed
+2023-01-17T09:59:35.303Z [info]: Attempting to fetch music data
+2023-01-17T10:03:41.412Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:03:59.898Z [error]: Access requested denied due to Error 404 to /api/albums
+2023-01-17T10:03:59.911Z [info]: Attempting to sync music data from local system
+2023-01-17T10:03:59.912Z [info]: Detected OS: Windows
+2023-01-17T10:03:59.913Z [error]: Unexpected Error Occurred. Possibly Permission Denied for S-1-5-18
+2023-01-17T10:03:59.929Z [info]: Found Music File: 01 Amnesia.m4a
+2023-01-17T10:03:59.930Z [info]: Found Music File: 02 Daylight.m4a
+2023-01-17T10:03:59.931Z [info]: Found Music File: 03 American Idiot.m4a
+2023-01-17T10:03:59.931Z [info]: Found Music File: 04 Amnesia (Live At Wembley).m4a
+2023-01-17T10:03:59.932Z [info]: Found Music File: A1 - Running Up That Hill (A Deal With God).mp3
+2023-01-17T10:03:59.932Z [info]: Found Music File: A2 - Hounds of Love.flac
+2023-01-17T10:03:59.933Z [info]: Found Music File: 01. Sunrise.mp3
+2023-01-17T10:03:59.934Z [info]: Found Music File: 02. Church.mp3
+2023-01-17T10:03:59.934Z [info]: Found Music File: 03. Trouble In Town.mp3
+2023-01-17T10:03:59.935Z [info]: Found Music File: 04. BrokEn.mp3
+2023-01-17T10:03:59.935Z [info]: Found Music File: 05. Daddy.mp3
+2023-01-17T10:03:59.936Z [info]: Found Music File: 06. WOTWPOTP.mp3
+2023-01-17T10:03:59.936Z [info]: Found Music File: 07. Arabesque.mp3
+2023-01-17T10:03:59.936Z [info]: Found Music File: 08. When I Need A Friend.mp3
+2023-01-17T10:03:59.937Z [info]: Found Music File: 09. SunriseSunset Interlude #1.mp3
+2023-01-17T10:03:59.937Z [info]: Found Music File: 10. SunriseSunset Interlude #2.mp3
+2023-01-17T10:03:59.938Z [info]: Found Music File: 11. SunriseSunset Interlude #3.mp3
+2023-01-17T10:03:59.938Z [info]: Found Music File: 12. SunriseSunset Interlude #4.mp3
+2023-01-17T10:03:59.938Z [info]: Found Music File: 13. SunriseSunset Interlude #5.mp3
+2023-01-17T10:03:59.939Z [info]: Found Music File: 14. SunriseSunset Interlude #6.mp3
+2023-01-17T10:03:59.939Z [info]: Found Music File: 15. Guns.mp3
+2023-01-17T10:03:59.940Z [info]: Found Music File: 16. Orphans.mp3
+2023-01-17T10:03:59.940Z [info]: Found Music File: 17. Eko.mp3
+2023-01-17T10:03:59.941Z [info]: Found Music File: 18. Cry Cry Cry.mp3
+2023-01-17T10:03:59.942Z [info]: Found Music File: 19. Old Friends.mp3
+2023-01-17T10:03:59.944Z [info]: Found Music File: 20. Bani Adam.mp3
+2023-01-17T10:03:59.945Z [info]: Found Music File: 21. Champion Of The World.mp3
+2023-01-17T10:03:59.945Z [info]: Found Music File: 22. Everyday Life.mp3
+2023-01-17T10:03:59.946Z [info]: Found Music File: 01 Always In My Head.mp3
+2023-01-17T10:03:59.947Z [info]: Found Music File: 02 Magic.mp3
+2023-01-17T10:03:59.947Z [info]: Found Music File: 03 Ink.mp3
+2023-01-17T10:03:59.948Z [info]: Found Music File: 04 True Love.mp3
+2023-01-17T10:03:59.948Z [info]: Found Music File: 05 Midnight.mp3
+2023-01-17T10:03:59.949Z [info]: Found Music File: 06 Another's Arms.mp3
+2023-01-17T10:03:59.949Z [info]: Found Music File: 07 Oceans.mp3
+2023-01-17T10:03:59.950Z [info]: Found Music File: 08 A Sky Full Of Stars.mp3
+2023-01-17T10:03:59.950Z [info]: Found Music File: 09 O.mp3
+2023-01-17T10:03:59.951Z [info]: Found Music File: 10 All Your Friends.mp3
+2023-01-17T10:03:59.951Z [info]: Found Music File: 11 Ghost Story.mp3
+2023-01-17T10:03:59.952Z [info]: Found Music File: 12 O (Part 2 - Reprise).mp3
+2023-01-17T10:04:00.350Z [info]: Found Music File: ammathan.mp3
+2023-01-17T10:04:00.350Z [info]: Found Music File: anulak.m4a
+2023-01-17T10:04:00.351Z [info]: Found Music File: merinaMan.mp3
+2023-01-17T10:04:00.373Z [error]: Unexpected Error Occurred. Possibly Permission Denied for System Volume Information
+2023-01-17T10:04:00.392Z [error]: An internal error occurred while getting metadata. Further Investigation Required. Traceback at musicMetaData on {"type":"tagFormat","info":"No suitable tag reader found"}
+2023-01-17T10:04:01.731Z [info]: Saved Music File: merinaMan
+2023-01-17T10:04:01.985Z [info]: Saved Music File: Running Up That Hill (A Deal With God)
+2023-01-17T10:04:02.006Z [info]: Saved Music File: Sunrise
+2023-01-17T10:04:02.023Z [info]: Saved Music File: Church
+2023-01-17T10:04:02.044Z [info]: Saved Music File: Trouble In Town
+2023-01-17T10:04:02.066Z [info]: Saved Music File: BrokEn
+2023-01-17T10:04:02.086Z [info]: Saved Music File: Daddy
+2023-01-17T10:04:02.103Z [info]: Saved Music File: Arabesque
+2023-01-17T10:04:02.122Z [info]: Saved Music File: WOTW/POTP
+2023-01-17T10:04:02.144Z [info]: Saved Music File: Sunrise/Sunset Interlude #1
+2023-01-17T10:04:02.164Z [info]: Saved Music File: Sunrise/Sunset Interlude #2
+2023-01-17T10:04:02.183Z [info]: Saved Music File: Sunrise/Sunset Interlude #3
+2023-01-17T10:04:02.202Z [info]: Saved Music File: When I Need A Friend
+2023-01-17T10:04:02.223Z [info]: Saved Music File: Sunrise/Sunset Interlude #4
+2023-01-17T10:04:02.240Z [info]: Saved Music File: Sunrise/Sunset Interlude #5
+2023-01-17T10:04:02.275Z [info]: Saved Music File: Sunrise/Sunset Interlude #6
+2023-01-17T10:04:02.309Z [info]: Saved Music File: Guns
+2023-01-17T10:04:02.342Z [info]: Saved Music File: Eko
+2023-01-17T10:04:02.369Z [info]: Saved Music File: Cry Cry Cry
+2023-01-17T10:04:02.388Z [info]: Saved Music File: Old Friends
+2023-01-17T10:04:02.430Z [info]: Saved Music File: Orphans
+2023-01-17T10:04:02.459Z [info]: Saved Music File: Champion Of The World
+2023-01-17T10:04:02.478Z [info]: Saved Music File: Everyday Life
+2023-01-17T10:04:02.498Z [info]: Saved Music File: Always In My Head
+2023-01-17T10:04:02.524Z [info]: Saved Music File: Bani Adam
+2023-01-17T10:04:02.549Z [info]: Saved Music File: Magic
+2023-01-17T10:04:02.571Z [info]: Saved Music File: True Love
+2023-01-17T10:04:02.597Z [info]: Saved Music File: Ink
+2023-01-17T10:04:02.622Z [info]: Saved Music File: Oceans
+2023-01-17T10:04:02.649Z [info]: Saved Music File: Another's Arms
+2023-01-17T10:04:02.670Z [info]: Saved Music File: O
+2023-01-17T10:04:02.691Z [info]: Saved Music File: Midnight
+2023-01-17T10:04:02.707Z [info]: Saved Music File: All Your Friends
+2023-01-17T10:04:02.738Z [info]: Saved Music File: A Sky Full of Stars
+2023-01-17T10:04:02.758Z [info]: Saved Music File: Ghost Story
+2023-01-17T10:04:02.778Z [info]: Saved Music File: O (Part 2/Reprise)
+2023-01-17T10:04:02.785Z [info]: Saved Music File: null
+2023-01-17T10:04:02.851Z [info]: Saved Music File: Hounds of Love
+2023-01-17T10:04:02.884Z [info]: Saved Music File: Amnesia
+2023-01-17T10:04:02.937Z [info]: Saved Music File: Daylight
+2023-01-17T10:04:02.976Z [info]: Saved Music File: American Idiot
+2023-01-17T10:04:03.006Z [info]: Saved Music File: Amnesia (Live At Wembley)
+2023-01-17T10:04:03.018Z [info]: Saved Music File: null
+2023-01-17T10:04:03.539Z [info]: Deleted all music files except for 43 
+2023-01-17T10:04:03.539Z [info]: Music Sync Completed
+2023-01-17T10:04:03.588Z [info]: Attempting to fetch music data
+2023-01-17T10:04:03.732Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T10:04:03.733Z [info]: Attempting to fetch album art for ID:51e0c3a88648f50182d91f4c70d593e6af834bfd0f5279e49576369014bf40c2
+2023-01-17T10:04:03.735Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T10:04:03.736Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T10:04:03.748Z [info]: Attempting to fetch album art for ID:f4e4b61294d192025ab2af82bc788dda08552954fe0c91a6386748b27ea56dad
+2023-01-17T10:04:03.749Z [info]: Attempting to fetch album art for ID:960100e7b509fdefb5d5ec874b53ae1062388e86bc20c0094fbde2994e2ddc8f
+2023-01-17T10:04:03.766Z [info]: Attempting to fetch album art for ID:5e2a364588766c9b6848137a01cf128d9011f06a0088c4ac3bf8af2b882c3fc6
+2023-01-17T10:04:03.794Z [info]: Attempting to fetch album art for ID:2a9c7d197f6044b9076c33abeb4492935b713a8e93dce1f6d23e215aa3b1a8c6
+2023-01-17T10:04:03.795Z [info]: Attempting to fetch album art for ID:2ee5ed9a54da699ac8e88c95efcdf7dfbdaa2be01bb4ad95c9c86cd5038d0ba9
+2023-01-17T10:04:03.802Z [info]: Attempting to fetch album art for ID:d7d956511b7b5a6260e8573ca42b67d698b3fa27be0a0e2bff94b46f15245798
+2023-01-17T10:04:03.805Z [info]: Attempting to fetch album art for ID:de2a2988b1074c72eddac1c2ed63b84acf6a1d7edaf7212ae9b7cf7b8725fed7
+2023-01-17T10:04:03.814Z [info]: Attempting to fetch album art for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-17T10:04:03.900Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T10:04:03.902Z [info]: Attempting to fetch album art for ID:2671e4d36e9c64bee2aaa02e0143b99978aaafd6a363ad2501ada53ceefc8ec0
+2023-01-17T10:04:03.903Z [info]: Attempting to fetch album art for ID:657c2c56596e46d7fe3721c8017637f488905b2a7cc122559fa2eb0ea652802f
+2023-01-17T10:04:03.927Z [info]: Attempting to fetch album art for ID:d38eca1c13eb42fbe46c38f7c613611cff70fbd71010ce986b6c39e9cf1cd841
+2023-01-17T10:04:03.995Z [info]: Attempting to fetch album art for ID:b3623e883c34fb316598a1d394038f3f8cfc5731617c1502eb145f4e3ba4309a
+2023-01-17T10:04:04.001Z [info]: Attempting to fetch album art for ID:8f9bc5f7acdb7a6f6d02b1df9c38edcdb4783ab46760083f2eebf18df3259701
+2023-01-17T10:04:04.005Z [info]: Attempting to fetch album art for ID:1e7c86c77caabba0e64467acefacd87eaabb47adcace62c8721ac585e423a817
+2023-01-17T10:04:04.008Z [info]: Attempting to fetch album art for ID:313bd194caa79af11cee42154e46bf412224b85c938a39f8388ead82fc4c1708
+2023-01-17T10:04:04.015Z [info]: Attempting to fetch album art for ID:c1d0f0b9c3ec05d6c4d7019a75ed7a7fd14a235f52243a72c376e89b1ea91ac1
+2023-01-17T10:04:04.030Z [info]: Attempting to fetch album art for ID:a2bba1b02ebb992cbbbb3d825a18d20e66255783502965942dedec8c285e3649
+2023-01-17T10:04:04.036Z [info]: Attempting to fetch album art for ID:04c187eb08c8dfe8067b855774b329b0cdfed765a4f6fe6abcc0860d52f87850
+2023-01-17T10:04:04.043Z [info]: Attempting to fetch album art for ID:8e8af9a07bcf57174fa9d47d2a6f7b592d9e80ab356c555a5b0a045cce8f31a1
+2023-01-17T10:04:04.050Z [info]: Attempting to fetch album art for ID:f9d68a1890f9f924d13b9137c8096f40bd76e0e950824dd75f023307c45e5b64
+2023-01-17T10:04:04.050Z [info]: Attempting to fetch album art for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-17T10:04:04.064Z [info]: Attempting to fetch album art for ID:0cbd33a03a70590ee851452af82394e12d65be6db850c597f7ce99b3fbc069f1
+2023-01-17T10:04:04.070Z [info]: Attempting to fetch album art for ID:822bac9eaa2cd1f73e89eacece9f560bea38506c61864626e004700466e6952c
+2023-01-17T10:04:04.075Z [info]: Attempting to fetch album art for ID:9e45181100598d84e4629ac01236029dd519e562b0a6e4286c1bb3316eb2cff8
+2023-01-17T10:04:04.081Z [info]: Attempting to fetch album art for ID:eea41c542ec575917eacc46355865cd1122136c50207cc7ba057c29c34c316db
+2023-01-17T10:04:04.081Z [info]: Attempting to fetch album art for ID:712772908981e0bc0fb15a70b0660f94aa7c6035b86f827f6e82a81136dcfdb0
+2023-01-17T10:04:04.094Z [info]: Attempting to fetch album art for ID:16f1b89f9d5eaf3bb1fabf41b99ce9c1dcdb18cfd957485ff5d3bd1f47e2902c
+2023-01-17T10:04:04.095Z [info]: Attempting to fetch album art for ID:3457b66bc49139a38c5350d10331123836847f251d1ae8b816fd7db99a39b3c2
+2023-01-17T10:04:04.095Z [info]: Attempting to fetch album art for ID:1139f2167200c19aad73175eb397820f0b11235b742e6208e76eba6b8a03dbee
+2023-01-17T10:04:04.114Z [info]: Attempting to fetch album art for ID:4aa331c8741c46f29baeeafeb6e103304a9a4951a9ca565f9e4cafad7097b171
+2023-01-17T10:04:04.121Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T10:04:04.123Z [info]: Attempting to fetch album art for ID:4e7b949688a7904fa03d3ac29e8fa300da238e55083bd5d1870ef325aa761763
+2023-01-17T10:04:04.128Z [info]: Attempting to fetch album art for ID:b10aaaed617ce9a8acc2c52773fe7faa58e77e544cf49ea62c58ee349940e3b9
+2023-01-17T10:04:04.130Z [info]: Attempting to fetch album art for ID:ff62767e06275a5c029ecb585124b5e2d3ce8db2bad0e9dab711bb11d0d6793f
+2023-01-17T10:04:04.134Z [info]: Attempting to fetch album art for ID:0f05afa4422a1b8f4849b6fb27e826c722a1e17d0bc337de083c499b0fa55d4a
+2023-01-17T10:04:37.557Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T10:04:37.561Z [info]: Connected to database
+2023-01-17T10:04:38.288Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:05:15.883Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:05:36.087Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:06:40.194Z [error]: Access requested denied due to Error 404 to /favicon.ico
+2023-01-17T10:08:46.711Z [info]: Attempting to fetch album data
+2023-01-17T10:08:46.729Z [info]: Attempting to sync music data from local system
+2023-01-17T10:08:46.730Z [info]: Detected OS: Windows
+2023-01-17T10:08:46.732Z [error]: Unexpected Error Occurred. Possibly Permission Denied for S-1-5-18
+2023-01-17T10:08:46.756Z [info]: Found Music File: 01 Amnesia.m4a
+2023-01-17T10:08:46.757Z [info]: Found Music File: 02 Daylight.m4a
+2023-01-17T10:08:46.758Z [info]: Found Music File: 03 American Idiot.m4a
+2023-01-17T10:08:46.758Z [info]: Found Music File: 04 Amnesia (Live At Wembley).m4a
+2023-01-17T10:08:46.759Z [info]: Found Music File: A1 - Running Up That Hill (A Deal With God).mp3
+2023-01-17T10:08:46.760Z [info]: Found Music File: A2 - Hounds of Love.flac
+2023-01-17T10:08:46.761Z [info]: Found Music File: 01. Sunrise.mp3
+2023-01-17T10:08:46.761Z [info]: Found Music File: 02. Church.mp3
+2023-01-17T10:08:46.762Z [info]: Found Music File: 03. Trouble In Town.mp3
+2023-01-17T10:08:46.762Z [info]: Found Music File: 04. BrokEn.mp3
+2023-01-17T10:08:46.763Z [info]: Found Music File: 05. Daddy.mp3
+2023-01-17T10:08:46.763Z [info]: Found Music File: 06. WOTWPOTP.mp3
+2023-01-17T10:08:46.764Z [info]: Found Music File: 07. Arabesque.mp3
+2023-01-17T10:08:46.764Z [info]: Found Music File: 08. When I Need A Friend.mp3
+2023-01-17T10:08:46.765Z [info]: Found Music File: 09. SunriseSunset Interlude #1.mp3
+2023-01-17T10:08:46.765Z [info]: Found Music File: 10. SunriseSunset Interlude #2.mp3
+2023-01-17T10:08:46.765Z [info]: Found Music File: 11. SunriseSunset Interlude #3.mp3
+2023-01-17T10:08:46.766Z [info]: Found Music File: 12. SunriseSunset Interlude #4.mp3
+2023-01-17T10:08:46.766Z [info]: Found Music File: 13. SunriseSunset Interlude #5.mp3
+2023-01-17T10:08:46.767Z [info]: Found Music File: 14. SunriseSunset Interlude #6.mp3
+2023-01-17T10:08:46.767Z [info]: Found Music File: 15. Guns.mp3
+2023-01-17T10:08:46.767Z [info]: Found Music File: 16. Orphans.mp3
+2023-01-17T10:08:46.768Z [info]: Found Music File: 17. Eko.mp3
+2023-01-17T10:08:46.768Z [info]: Found Music File: 18. Cry Cry Cry.mp3
+2023-01-17T10:08:46.769Z [info]: Found Music File: 19. Old Friends.mp3
+2023-01-17T10:08:46.769Z [info]: Found Music File: 20. Bani Adam.mp3
+2023-01-17T10:08:46.769Z [info]: Found Music File: 21. Champion Of The World.mp3
+2023-01-17T10:08:46.770Z [info]: Found Music File: 22. Everyday Life.mp3
+2023-01-17T10:08:46.771Z [info]: Found Music File: 01 Always In My Head.mp3
+2023-01-17T10:08:46.771Z [info]: Found Music File: 02 Magic.mp3
+2023-01-17T10:08:46.771Z [info]: Found Music File: 03 Ink.mp3
+2023-01-17T10:08:46.772Z [info]: Found Music File: 04 True Love.mp3
+2023-01-17T10:08:46.772Z [info]: Found Music File: 05 Midnight.mp3
+2023-01-17T10:08:46.773Z [info]: Found Music File: 06 Another's Arms.mp3
+2023-01-17T10:08:46.773Z [info]: Found Music File: 07 Oceans.mp3
+2023-01-17T10:08:46.774Z [info]: Found Music File: 08 A Sky Full Of Stars.mp3
+2023-01-17T10:08:46.776Z [info]: Found Music File: 09 O.mp3
+2023-01-17T10:08:46.776Z [info]: Found Music File: 10 All Your Friends.mp3
+2023-01-17T10:08:46.777Z [info]: Found Music File: 11 Ghost Story.mp3
+2023-01-17T10:08:46.777Z [info]: Found Music File: 12 O (Part 2 - Reprise).mp3
+2023-01-17T10:08:47.210Z [info]: Found Music File: ammathan.mp3
+2023-01-17T10:08:47.210Z [info]: Found Music File: anulak.m4a
+2023-01-17T10:08:47.211Z [info]: Found Music File: merinaMan.mp3
+2023-01-17T10:08:47.227Z [error]: Unexpected Error Occurred. Possibly Permission Denied for System Volume Information
+2023-01-17T10:08:47.265Z [error]: An internal error occurred while getting metadata. Further Investigation Required. Traceback at musicMetaData on {"type":"tagFormat","info":"No suitable tag reader found"}
+2023-01-17T10:08:48.383Z [info]: Saved Music File: merinaMan
+2023-01-17T10:08:48.575Z [info]: Saved Music File: Running Up That Hill (A Deal With God)
+2023-01-17T10:08:48.849Z [info]: Saved Music File: Sunrise
+2023-01-17T10:08:48.870Z [info]: Saved Music File: Church
+2023-01-17T10:08:48.888Z [info]: Saved Music File: Trouble In Town
+2023-01-17T10:08:48.923Z [info]: Saved Music File: BrokEn
+2023-01-17T10:08:48.941Z [info]: Saved Music File: Daddy
+2023-01-17T10:08:48.958Z [info]: Saved Music File: WOTW/POTP
+2023-01-17T10:08:48.976Z [info]: Saved Music File: Arabesque
+2023-01-17T10:08:48.995Z [info]: Saved Music File: Sunrise/Sunset Interlude #1
+2023-01-17T10:08:49.016Z [info]: Saved Music File: Sunrise/Sunset Interlude #2
+2023-01-17T10:08:49.036Z [info]: Saved Music File: Sunrise/Sunset Interlude #3
+2023-01-17T10:08:49.056Z [info]: Saved Music File: Sunrise/Sunset Interlude #4
+2023-01-17T10:08:49.076Z [info]: Saved Music File: Sunrise/Sunset Interlude #5
+2023-01-17T10:08:49.097Z [info]: Saved Music File: Sunrise/Sunset Interlude #6
+2023-01-17T10:08:49.116Z [info]: Saved Music File: When I Need A Friend
+2023-01-17T10:08:49.136Z [info]: Saved Music File: Guns
+2023-01-17T10:08:49.155Z [info]: Saved Music File: Orphans
+2023-01-17T10:08:49.180Z [info]: Saved Music File: Eko
+2023-01-17T10:08:49.197Z [info]: Saved Music File: Old Friends
+2023-01-17T10:08:49.215Z [info]: Saved Music File: Cry Cry Cry
+2023-01-17T10:08:49.234Z [info]: Saved Music File: Bani Adam
+2023-01-17T10:08:49.256Z [info]: Saved Music File: Champion Of The World
+2023-01-17T10:08:49.291Z [info]: Saved Music File: Everyday Life
+2023-01-17T10:08:49.315Z [info]: Saved Music File: Magic
+2023-01-17T10:08:49.334Z [info]: Saved Music File: Always In My Head
+2023-01-17T10:08:49.363Z [info]: Saved Music File: Ink
+2023-01-17T10:08:49.386Z [info]: Saved Music File: True Love
+2023-01-17T10:08:49.411Z [info]: Saved Music File: Another's Arms
+2023-01-17T10:08:49.446Z [info]: Saved Music File: Midnight
+2023-01-17T10:08:49.481Z [info]: Saved Music File: Oceans
+2023-01-17T10:08:49.500Z [info]: Saved Music File: O
+2023-01-17T10:08:49.582Z [info]: Saved Music File: All Your Friends
+2023-01-17T10:08:49.604Z [info]: Saved Music File: Ghost Story
+2023-01-17T10:08:49.627Z [info]: Saved Music File: A Sky Full of Stars
+2023-01-17T10:08:49.642Z [info]: Saved Music File: null
+2023-01-17T10:08:49.663Z [info]: Saved Music File: O (Part 2/Reprise)
+2023-01-17T10:08:49.715Z [info]: Saved Music File: Hounds of Love
+2023-01-17T10:08:49.751Z [info]: Saved Music File: Daylight
+2023-01-17T10:08:49.776Z [info]: Saved Music File: American Idiot
+2023-01-17T10:08:49.823Z [info]: Saved Music File: Amnesia
+2023-01-17T10:08:49.854Z [info]: Saved Music File: Amnesia (Live At Wembley)
+2023-01-17T10:08:49.869Z [info]: Saved Music File: null
+2023-01-17T10:08:50.327Z [info]: Deleted all music files except for 43 
+2023-01-17T10:08:50.327Z [info]: Music Sync Completed
+2023-01-17T10:08:50.406Z [info]: Attempting to fetch music data
+2023-01-17T10:08:50.686Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T10:08:50.688Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T10:08:50.689Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T10:08:50.690Z [info]: Attempting to fetch album art for ID:51e0c3a88648f50182d91f4c70d593e6af834bfd0f5279e49576369014bf40c2
+2023-01-17T10:08:50.691Z [info]: Attempting to fetch album art for ID:657c2c56596e46d7fe3721c8017637f488905b2a7cc122559fa2eb0ea652802f
+2023-01-17T10:08:50.693Z [info]: Attempting to fetch album art for ID:d38eca1c13eb42fbe46c38f7c613611cff70fbd71010ce986b6c39e9cf1cd841
+2023-01-17T10:08:50.747Z [info]: Attempting to fetch album art for ID:b3623e883c34fb316598a1d394038f3f8cfc5731617c1502eb145f4e3ba4309a
+2023-01-17T10:08:50.749Z [info]: Attempting to fetch album art for ID:1e7c86c77caabba0e64467acefacd87eaabb47adcace62c8721ac585e423a817
+2023-01-17T10:08:50.751Z [info]: Attempting to fetch album art for ID:8f9bc5f7acdb7a6f6d02b1df9c38edcdb4783ab46760083f2eebf18df3259701
+2023-01-17T10:08:50.773Z [info]: Attempting to fetch album art for ID:313bd194caa79af11cee42154e46bf412224b85c938a39f8388ead82fc4c1708
+2023-01-17T10:08:50.774Z [info]: Attempting to fetch album art for ID:c1d0f0b9c3ec05d6c4d7019a75ed7a7fd14a235f52243a72c376e89b1ea91ac1
+2023-01-17T10:08:50.776Z [info]: Attempting to fetch album art for ID:a2bba1b02ebb992cbbbb3d825a18d20e66255783502965942dedec8c285e3649
+2023-01-17T10:08:50.777Z [info]: Attempting to fetch album art for ID:8e8af9a07bcf57174fa9d47d2a6f7b592d9e80ab356c555a5b0a045cce8f31a1
+2023-01-17T10:08:50.778Z [info]: Attempting to fetch album art for ID:f9d68a1890f9f924d13b9137c8096f40bd76e0e950824dd75f023307c45e5b64
+2023-01-17T10:08:50.797Z [info]: Attempting to fetch album art for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-17T10:08:50.810Z [info]: Attempting to fetch album art for ID:04c187eb08c8dfe8067b855774b329b0cdfed765a4f6fe6abcc0860d52f87850
+2023-01-17T10:08:50.812Z [info]: Attempting to fetch album art for ID:0cbd33a03a70590ee851452af82394e12d65be6db850c597f7ce99b3fbc069f1
+2023-01-17T10:08:50.819Z [info]: Attempting to fetch album art for ID:712772908981e0bc0fb15a70b0660f94aa7c6035b86f827f6e82a81136dcfdb0
+2023-01-17T10:08:50.819Z [info]: Attempting to fetch album art for ID:822bac9eaa2cd1f73e89eacece9f560bea38506c61864626e004700466e6952c
+2023-01-17T10:08:50.827Z [info]: Attempting to fetch album art for ID:eea41c542ec575917eacc46355865cd1122136c50207cc7ba057c29c34c316db
+2023-01-17T10:08:50.834Z [info]: Attempting to fetch album art for ID:9e45181100598d84e4629ac01236029dd519e562b0a6e4286c1bb3316eb2cff8
+2023-01-17T10:08:50.856Z [info]: Attempting to fetch album art for ID:4aa331c8741c46f29baeeafeb6e103304a9a4951a9ca565f9e4cafad7097b171
+2023-01-17T10:08:50.863Z [info]: Attempting to fetch album art for ID:16f1b89f9d5eaf3bb1fabf41b99ce9c1dcdb18cfd957485ff5d3bd1f47e2902c
+2023-01-17T10:08:50.864Z [info]: Attempting to fetch album art for ID:3457b66bc49139a38c5350d10331123836847f251d1ae8b816fd7db99a39b3c2
+2023-01-17T10:08:50.867Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T10:08:50.873Z [info]: Attempting to fetch album art for ID:1139f2167200c19aad73175eb397820f0b11235b742e6208e76eba6b8a03dbee
+2023-01-17T10:08:50.886Z [info]: Attempting to fetch album art for ID:b10aaaed617ce9a8acc2c52773fe7faa58e77e544cf49ea62c58ee349940e3b9
+2023-01-17T10:08:50.897Z [info]: Attempting to fetch album art for ID:4e7b949688a7904fa03d3ac29e8fa300da238e55083bd5d1870ef325aa761763
+2023-01-17T10:08:50.901Z [info]: Attempting to fetch album art for ID:0f05afa4422a1b8f4849b6fb27e826c722a1e17d0bc337de083c499b0fa55d4a
+2023-01-17T10:08:50.911Z [info]: Attempting to fetch album art for ID:960100e7b509fdefb5d5ec874b53ae1062388e86bc20c0094fbde2994e2ddc8f
+2023-01-17T10:08:50.912Z [info]: Attempting to fetch album art for ID:ff62767e06275a5c029ecb585124b5e2d3ce8db2bad0e9dab711bb11d0d6793f
+2023-01-17T10:08:50.917Z [info]: Attempting to fetch album art for ID:f4e4b61294d192025ab2af82bc788dda08552954fe0c91a6386748b27ea56dad
+2023-01-17T10:08:50.932Z [info]: Attempting to fetch album art for ID:5e2a364588766c9b6848137a01cf128d9011f06a0088c4ac3bf8af2b882c3fc6
+2023-01-17T10:08:50.933Z [info]: Attempting to fetch album art for ID:2ee5ed9a54da699ac8e88c95efcdf7dfbdaa2be01bb4ad95c9c86cd5038d0ba9
+2023-01-17T10:08:50.941Z [info]: Attempting to fetch album art for ID:2a9c7d197f6044b9076c33abeb4492935b713a8e93dce1f6d23e215aa3b1a8c6
+2023-01-17T10:08:50.942Z [info]: Attempting to fetch album art for ID:d7d956511b7b5a6260e8573ca42b67d698b3fa27be0a0e2bff94b46f15245798
+2023-01-17T10:08:50.947Z [info]: Attempting to fetch album art for ID:de2a2988b1074c72eddac1c2ed63b84acf6a1d7edaf7212ae9b7cf7b8725fed7
+2023-01-17T10:08:50.958Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T10:08:51.046Z [info]: Attempting to fetch album art for ID:2671e4d36e9c64bee2aaa02e0143b99978aaafd6a363ad2501ada53ceefc8ec0
+2023-01-17T10:08:51.047Z [info]: Attempting to fetch album art for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-17T10:09:15.910Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T10:09:15.914Z [info]: Connected to database
+2023-01-17T10:09:16.118Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:09:51.877Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:11:32.813Z [info]: Attempting to fetch album data
+2023-01-17T10:12:03.752Z [info]: Attempting to fetch album data
+2023-01-17T10:12:05.222Z [info]: Attempting to fetch music data
+2023-01-17T10:12:05.397Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T10:12:05.399Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T10:12:05.402Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T10:12:05.403Z [info]: Attempting to fetch album art for ID:51e0c3a88648f50182d91f4c70d593e6af834bfd0f5279e49576369014bf40c2
+2023-01-17T10:12:05.404Z [info]: Attempting to fetch album art for ID:657c2c56596e46d7fe3721c8017637f488905b2a7cc122559fa2eb0ea652802f
+2023-01-17T10:12:05.405Z [info]: Attempting to fetch album art for ID:d38eca1c13eb42fbe46c38f7c613611cff70fbd71010ce986b6c39e9cf1cd841
+2023-01-17T10:12:05.471Z [info]: Attempting to fetch album art for ID:b3623e883c34fb316598a1d394038f3f8cfc5731617c1502eb145f4e3ba4309a
+2023-01-17T10:12:05.482Z [info]: Attempting to fetch album art for ID:1e7c86c77caabba0e64467acefacd87eaabb47adcace62c8721ac585e423a817
+2023-01-17T10:12:05.496Z [info]: Attempting to fetch album art for ID:8f9bc5f7acdb7a6f6d02b1df9c38edcdb4783ab46760083f2eebf18df3259701
+2023-01-17T10:12:05.502Z [info]: Attempting to fetch album art for ID:313bd194caa79af11cee42154e46bf412224b85c938a39f8388ead82fc4c1708
+2023-01-17T10:12:05.539Z [info]: Attempting to fetch album art for ID:c1d0f0b9c3ec05d6c4d7019a75ed7a7fd14a235f52243a72c376e89b1ea91ac1
+2023-01-17T10:12:05.543Z [info]: Attempting to fetch album art for ID:a2bba1b02ebb992cbbbb3d825a18d20e66255783502965942dedec8c285e3649
+2023-01-17T10:12:05.571Z [info]: Attempting to fetch album art for ID:8e8af9a07bcf57174fa9d47d2a6f7b592d9e80ab356c555a5b0a045cce8f31a1
+2023-01-17T10:12:05.579Z [info]: Attempting to fetch album art for ID:f9d68a1890f9f924d13b9137c8096f40bd76e0e950824dd75f023307c45e5b64
+2023-01-17T10:12:05.584Z [info]: Attempting to fetch album art for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-17T10:12:05.585Z [info]: Attempting to fetch album art for ID:04c187eb08c8dfe8067b855774b329b0cdfed765a4f6fe6abcc0860d52f87850
+2023-01-17T10:12:05.599Z [info]: Attempting to fetch album art for ID:0cbd33a03a70590ee851452af82394e12d65be6db850c597f7ce99b3fbc069f1
+2023-01-17T10:12:05.620Z [info]: Attempting to fetch album art for ID:712772908981e0bc0fb15a70b0660f94aa7c6035b86f827f6e82a81136dcfdb0
+2023-01-17T10:12:05.621Z [info]: Attempting to fetch album art for ID:822bac9eaa2cd1f73e89eacece9f560bea38506c61864626e004700466e6952c
+2023-01-17T10:12:05.632Z [info]: Attempting to fetch album art for ID:eea41c542ec575917eacc46355865cd1122136c50207cc7ba057c29c34c316db
+2023-01-17T10:12:05.640Z [info]: Attempting to fetch album art for ID:9e45181100598d84e4629ac01236029dd519e562b0a6e4286c1bb3316eb2cff8
+2023-01-17T10:12:05.651Z [info]: Attempting to fetch album art for ID:4aa331c8741c46f29baeeafeb6e103304a9a4951a9ca565f9e4cafad7097b171
+2023-01-17T10:12:05.660Z [info]: Attempting to fetch album art for ID:16f1b89f9d5eaf3bb1fabf41b99ce9c1dcdb18cfd957485ff5d3bd1f47e2902c
+2023-01-17T10:12:05.669Z [info]: Attempting to fetch album art for ID:3457b66bc49139a38c5350d10331123836847f251d1ae8b816fd7db99a39b3c2
+2023-01-17T10:12:05.688Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T10:12:05.689Z [info]: Attempting to fetch album art for ID:1139f2167200c19aad73175eb397820f0b11235b742e6208e76eba6b8a03dbee
+2023-01-17T10:12:05.699Z [info]: Attempting to fetch album art for ID:b10aaaed617ce9a8acc2c52773fe7faa58e77e544cf49ea62c58ee349940e3b9
+2023-01-17T10:12:05.701Z [info]: Attempting to fetch album art for ID:4e7b949688a7904fa03d3ac29e8fa300da238e55083bd5d1870ef325aa761763
+2023-01-17T10:12:05.709Z [info]: Attempting to fetch album art for ID:0f05afa4422a1b8f4849b6fb27e826c722a1e17d0bc337de083c499b0fa55d4a
+2023-01-17T10:12:05.735Z [info]: Attempting to fetch album art for ID:960100e7b509fdefb5d5ec874b53ae1062388e86bc20c0094fbde2994e2ddc8f
+2023-01-17T10:12:05.742Z [info]: Attempting to fetch album art for ID:ff62767e06275a5c029ecb585124b5e2d3ce8db2bad0e9dab711bb11d0d6793f
+2023-01-17T10:12:05.747Z [info]: Attempting to fetch album art for ID:f4e4b61294d192025ab2af82bc788dda08552954fe0c91a6386748b27ea56dad
+2023-01-17T10:12:05.747Z [info]: Attempting to fetch album art for ID:5e2a364588766c9b6848137a01cf128d9011f06a0088c4ac3bf8af2b882c3fc6
+2023-01-17T10:12:05.753Z [info]: Attempting to fetch album art for ID:2ee5ed9a54da699ac8e88c95efcdf7dfbdaa2be01bb4ad95c9c86cd5038d0ba9
+2023-01-17T10:12:05.773Z [info]: Attempting to fetch album art for ID:2a9c7d197f6044b9076c33abeb4492935b713a8e93dce1f6d23e215aa3b1a8c6
+2023-01-17T10:12:05.781Z [info]: Attempting to fetch album art for ID:d7d956511b7b5a6260e8573ca42b67d698b3fa27be0a0e2bff94b46f15245798
+2023-01-17T10:12:05.787Z [info]: Attempting to fetch album art for ID:de2a2988b1074c72eddac1c2ed63b84acf6a1d7edaf7212ae9b7cf7b8725fed7
+2023-01-17T10:12:05.789Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T10:12:05.799Z [info]: Attempting to fetch album art for ID:2671e4d36e9c64bee2aaa02e0143b99978aaafd6a363ad2501ada53ceefc8ec0
+2023-01-17T10:12:05.895Z [info]: Attempting to fetch album art for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-17T10:12:07.169Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:14:00.287Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:17:03.052Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:17:05.897Z [info]: Attempting to fetch album data
+2023-01-17T10:17:38.422Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T10:17:38.430Z [info]: Connected to database
+2023-01-17T10:17:41.797Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T10:17:41.801Z [info]: Connected to database
+2023-01-17T10:17:44.008Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T10:17:44.012Z [info]: Connected to database
+2023-01-17T10:17:45.292Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T10:17:45.295Z [info]: Connected to database
+2023-01-17T10:17:48.177Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T10:17:48.180Z [info]: Connected to database
+2023-01-17T10:17:51.577Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T10:17:51.587Z [info]: Connected to database
+2023-01-17T10:17:52.665Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:17:54.652Z [info]: Attempting to fetch album data
+2023-01-17T10:18:15.103Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T10:18:15.106Z [info]: Connected to database
+2023-01-17T10:18:17.113Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:18:20.224Z [info]: Attempting to fetch album data
+2023-01-17T10:18:23.885Z [info]: Attempting to fetch album data
+2023-01-17T10:18:26.252Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:18:33.566Z [info]: Attempting to fetch music data
+2023-01-17T10:18:33.784Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T10:18:33.786Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T10:18:33.788Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T10:18:33.789Z [info]: Attempting to fetch album art for ID:9e45181100598d84e4629ac01236029dd519e562b0a6e4286c1bb3316eb2cff8
+2023-01-17T10:18:33.790Z [info]: Attempting to fetch album art for ID:4aa331c8741c46f29baeeafeb6e103304a9a4951a9ca565f9e4cafad7097b171
+2023-01-17T10:18:33.791Z [info]: Attempting to fetch album art for ID:16f1b89f9d5eaf3bb1fabf41b99ce9c1dcdb18cfd957485ff5d3bd1f47e2902c
+2023-01-17T10:18:33.845Z [info]: Attempting to fetch album art for ID:51e0c3a88648f50182d91f4c70d593e6af834bfd0f5279e49576369014bf40c2
+2023-01-17T10:18:33.854Z [info]: Attempting to fetch album art for ID:c1d0f0b9c3ec05d6c4d7019a75ed7a7fd14a235f52243a72c376e89b1ea91ac1
+2023-01-17T10:18:33.878Z [info]: Attempting to fetch album art for ID:3457b66bc49139a38c5350d10331123836847f251d1ae8b816fd7db99a39b3c2
+2023-01-17T10:18:33.888Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T10:18:33.890Z [info]: Attempting to fetch album art for ID:1139f2167200c19aad73175eb397820f0b11235b742e6208e76eba6b8a03dbee
+2023-01-17T10:18:33.904Z [info]: Attempting to fetch album art for ID:b10aaaed617ce9a8acc2c52773fe7faa58e77e544cf49ea62c58ee349940e3b9
+2023-01-17T10:18:33.919Z [info]: Attempting to fetch album art for ID:4e7b949688a7904fa03d3ac29e8fa300da238e55083bd5d1870ef325aa761763
+2023-01-17T10:18:33.921Z [info]: Attempting to fetch album art for ID:0f05afa4422a1b8f4849b6fb27e826c722a1e17d0bc337de083c499b0fa55d4a
+2023-01-17T10:18:33.929Z [info]: Attempting to fetch album art for ID:960100e7b509fdefb5d5ec874b53ae1062388e86bc20c0094fbde2994e2ddc8f
+2023-01-17T10:18:33.939Z [info]: Attempting to fetch album art for ID:ff62767e06275a5c029ecb585124b5e2d3ce8db2bad0e9dab711bb11d0d6793f
+2023-01-17T10:18:33.960Z [info]: Attempting to fetch album art for ID:f4e4b61294d192025ab2af82bc788dda08552954fe0c91a6386748b27ea56dad
+2023-01-17T10:18:33.970Z [info]: Attempting to fetch album art for ID:5e2a364588766c9b6848137a01cf128d9011f06a0088c4ac3bf8af2b882c3fc6
+2023-01-17T10:18:33.981Z [info]: Attempting to fetch album art for ID:2ee5ed9a54da699ac8e88c95efcdf7dfbdaa2be01bb4ad95c9c86cd5038d0ba9
+2023-01-17T10:18:34.004Z [info]: Attempting to fetch album art for ID:657c2c56596e46d7fe3721c8017637f488905b2a7cc122559fa2eb0ea652802f
+2023-01-17T10:18:34.007Z [info]: Attempting to fetch album art for ID:d38eca1c13eb42fbe46c38f7c613611cff70fbd71010ce986b6c39e9cf1cd841
+2023-01-17T10:18:34.015Z [info]: Attempting to fetch album art for ID:2a9c7d197f6044b9076c33abeb4492935b713a8e93dce1f6d23e215aa3b1a8c6
+2023-01-17T10:18:34.030Z [info]: Attempting to fetch album art for ID:d7d956511b7b5a6260e8573ca42b67d698b3fa27be0a0e2bff94b46f15245798
+2023-01-17T10:18:34.039Z [info]: Attempting to fetch album art for ID:de2a2988b1074c72eddac1c2ed63b84acf6a1d7edaf7212ae9b7cf7b8725fed7
+2023-01-17T10:18:34.049Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T10:18:34.055Z [info]: Attempting to fetch album art for ID:2671e4d36e9c64bee2aaa02e0143b99978aaafd6a363ad2501ada53ceefc8ec0
+2023-01-17T10:18:34.057Z [info]: Attempting to fetch album art for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-17T10:18:34.058Z [info]: Attempting to fetch album art for ID:b3623e883c34fb316598a1d394038f3f8cfc5731617c1502eb145f4e3ba4309a
+2023-01-17T10:18:34.293Z [info]: Attempting to fetch album art for ID:1e7c86c77caabba0e64467acefacd87eaabb47adcace62c8721ac585e423a817
+2023-01-17T10:18:34.294Z [info]: Attempting to fetch album art for ID:8f9bc5f7acdb7a6f6d02b1df9c38edcdb4783ab46760083f2eebf18df3259701
+2023-01-17T10:18:34.296Z [info]: Attempting to fetch album art for ID:313bd194caa79af11cee42154e46bf412224b85c938a39f8388ead82fc4c1708
+2023-01-17T10:18:34.297Z [info]: Attempting to fetch album art for ID:a2bba1b02ebb992cbbbb3d825a18d20e66255783502965942dedec8c285e3649
+2023-01-17T10:18:34.331Z [info]: Attempting to fetch album art for ID:8e8af9a07bcf57174fa9d47d2a6f7b592d9e80ab356c555a5b0a045cce8f31a1
+2023-01-17T10:18:34.334Z [info]: Attempting to fetch album art for ID:f9d68a1890f9f924d13b9137c8096f40bd76e0e950824dd75f023307c45e5b64
+2023-01-17T10:18:34.337Z [info]: Attempting to fetch album art for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-17T10:18:34.338Z [info]: Attempting to fetch album art for ID:04c187eb08c8dfe8067b855774b329b0cdfed765a4f6fe6abcc0860d52f87850
+2023-01-17T10:18:34.339Z [info]: Attempting to fetch album art for ID:0cbd33a03a70590ee851452af82394e12d65be6db850c597f7ce99b3fbc069f1
+2023-01-17T10:18:34.356Z [info]: Attempting to fetch album art for ID:712772908981e0bc0fb15a70b0660f94aa7c6035b86f827f6e82a81136dcfdb0
+2023-01-17T10:18:34.390Z [info]: Attempting to fetch album art for ID:822bac9eaa2cd1f73e89eacece9f560bea38506c61864626e004700466e6952c
+2023-01-17T10:18:34.390Z [info]: Attempting to fetch album art for ID:eea41c542ec575917eacc46355865cd1122136c50207cc7ba057c29c34c316db
+2023-01-17T10:18:34.836Z [info]: Attempting to fetch album data
+2023-01-17T10:18:50.287Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T10:18:50.291Z [info]: Connected to database
+2023-01-17T10:19:02.847Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:19:05.526Z [info]: Attempting to fetch album data
+2023-01-17T10:19:05.542Z [info]: Attempting to fetch album art for ID:undefined
+2023-01-17T10:24:03.954Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T10:24:03.958Z [info]: Connected to database
+2023-01-17T10:24:08.928Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T10:24:08.935Z [info]: Connected to database
+2023-01-17T10:24:15.408Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:24:18.040Z [info]: Attempting to fetch album data
+2023-01-17T10:24:18.055Z [info]: Attempting to fetch album art for ID:undefined
+2023-01-17T10:26:10.768Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:26:13.333Z [info]: Attempting to fetch album data
+2023-01-17T10:26:13.351Z [info]: Attempting to fetch album art for ID:undefined
+2023-01-17T10:27:08.489Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:27:10.729Z [info]: Attempting to fetch music data
+2023-01-17T10:27:10.908Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T10:27:10.909Z [info]: Attempting to fetch album art for ID:712772908981e0bc0fb15a70b0660f94aa7c6035b86f827f6e82a81136dcfdb0
+2023-01-17T10:27:10.910Z [info]: Attempting to fetch album art for ID:822bac9eaa2cd1f73e89eacece9f560bea38506c61864626e004700466e6952c
+2023-01-17T10:27:10.911Z [info]: Attempting to fetch album art for ID:eea41c542ec575917eacc46355865cd1122136c50207cc7ba057c29c34c316db
+2023-01-17T10:27:10.912Z [info]: Attempting to fetch album art for ID:9e45181100598d84e4629ac01236029dd519e562b0a6e4286c1bb3316eb2cff8
+2023-01-17T10:27:10.913Z [info]: Attempting to fetch album art for ID:4aa331c8741c46f29baeeafeb6e103304a9a4951a9ca565f9e4cafad7097b171
+2023-01-17T10:27:10.981Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T10:27:10.982Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T10:27:10.983Z [info]: Attempting to fetch album art for ID:51e0c3a88648f50182d91f4c70d593e6af834bfd0f5279e49576369014bf40c2
+2023-01-17T10:27:10.987Z [info]: Attempting to fetch album art for ID:657c2c56596e46d7fe3721c8017637f488905b2a7cc122559fa2eb0ea652802f
+2023-01-17T10:27:10.993Z [info]: Attempting to fetch album art for ID:d38eca1c13eb42fbe46c38f7c613611cff70fbd71010ce986b6c39e9cf1cd841
+2023-01-17T10:27:11.014Z [info]: Attempting to fetch album art for ID:16f1b89f9d5eaf3bb1fabf41b99ce9c1dcdb18cfd957485ff5d3bd1f47e2902c
+2023-01-17T10:27:11.060Z [info]: Attempting to fetch album art for ID:3457b66bc49139a38c5350d10331123836847f251d1ae8b816fd7db99a39b3c2
+2023-01-17T10:27:11.068Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T10:27:11.077Z [info]: Attempting to fetch album art for ID:1139f2167200c19aad73175eb397820f0b11235b742e6208e76eba6b8a03dbee
+2023-01-17T10:27:11.078Z [info]: Attempting to fetch album art for ID:b10aaaed617ce9a8acc2c52773fe7faa58e77e544cf49ea62c58ee349940e3b9
+2023-01-17T10:27:11.091Z [info]: Attempting to fetch album art for ID:4e7b949688a7904fa03d3ac29e8fa300da238e55083bd5d1870ef325aa761763
+2023-01-17T10:27:11.106Z [info]: Attempting to fetch album art for ID:0f05afa4422a1b8f4849b6fb27e826c722a1e17d0bc337de083c499b0fa55d4a
+2023-01-17T10:27:11.124Z [info]: Attempting to fetch album art for ID:960100e7b509fdefb5d5ec874b53ae1062388e86bc20c0094fbde2994e2ddc8f
+2023-01-17T10:27:11.132Z [info]: Attempting to fetch album art for ID:ff62767e06275a5c029ecb585124b5e2d3ce8db2bad0e9dab711bb11d0d6793f
+2023-01-17T10:27:11.134Z [info]: Attempting to fetch album art for ID:f4e4b61294d192025ab2af82bc788dda08552954fe0c91a6386748b27ea56dad
+2023-01-17T10:27:11.135Z [info]: Attempting to fetch album art for ID:b3623e883c34fb316598a1d394038f3f8cfc5731617c1502eb145f4e3ba4309a
+2023-01-17T10:27:11.153Z [info]: Attempting to fetch album art for ID:1e7c86c77caabba0e64467acefacd87eaabb47adcace62c8721ac585e423a817
+2023-01-17T10:27:11.176Z [info]: Attempting to fetch album art for ID:8f9bc5f7acdb7a6f6d02b1df9c38edcdb4783ab46760083f2eebf18df3259701
+2023-01-17T10:27:11.184Z [info]: Attempting to fetch album art for ID:313bd194caa79af11cee42154e46bf412224b85c938a39f8388ead82fc4c1708
+2023-01-17T10:27:11.186Z [info]: Attempting to fetch album art for ID:c1d0f0b9c3ec05d6c4d7019a75ed7a7fd14a235f52243a72c376e89b1ea91ac1
+2023-01-17T10:27:11.188Z [info]: Attempting to fetch album art for ID:a2bba1b02ebb992cbbbb3d825a18d20e66255783502965942dedec8c285e3649
+2023-01-17T10:27:11.199Z [info]: Attempting to fetch album art for ID:8e8af9a07bcf57174fa9d47d2a6f7b592d9e80ab356c555a5b0a045cce8f31a1
+2023-01-17T10:27:11.230Z [info]: Attempting to fetch album art for ID:f9d68a1890f9f924d13b9137c8096f40bd76e0e950824dd75f023307c45e5b64
+2023-01-17T10:27:11.231Z [info]: Attempting to fetch album art for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-17T10:27:11.240Z [info]: Attempting to fetch album art for ID:04c187eb08c8dfe8067b855774b329b0cdfed765a4f6fe6abcc0860d52f87850
+2023-01-17T10:27:11.241Z [info]: Attempting to fetch album art for ID:0cbd33a03a70590ee851452af82394e12d65be6db850c597f7ce99b3fbc069f1
+2023-01-17T10:27:11.255Z [info]: Attempting to fetch album art for ID:5e2a364588766c9b6848137a01cf128d9011f06a0088c4ac3bf8af2b882c3fc6
+2023-01-17T10:27:11.263Z [info]: Attempting to fetch album art for ID:2ee5ed9a54da699ac8e88c95efcdf7dfbdaa2be01bb4ad95c9c86cd5038d0ba9
+2023-01-17T10:27:11.276Z [info]: Attempting to fetch album art for ID:2a9c7d197f6044b9076c33abeb4492935b713a8e93dce1f6d23e215aa3b1a8c6
+2023-01-17T10:27:11.283Z [info]: Attempting to fetch album art for ID:d7d956511b7b5a6260e8573ca42b67d698b3fa27be0a0e2bff94b46f15245798
+2023-01-17T10:27:11.284Z [info]: Attempting to fetch album art for ID:de2a2988b1074c72eddac1c2ed63b84acf6a1d7edaf7212ae9b7cf7b8725fed7
+2023-01-17T10:27:11.285Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T10:27:11.291Z [info]: Attempting to fetch album art for ID:2671e4d36e9c64bee2aaa02e0143b99978aaafd6a363ad2501ada53ceefc8ec0
+2023-01-17T10:27:11.373Z [info]: Attempting to fetch album art for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-17T10:27:11.932Z [info]: Attempting to fetch album data
+2023-01-17T10:27:11.947Z [info]: Attempting to fetch album art for ID:undefined
+2023-01-17T10:27:37.165Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:27:39.456Z [info]: Attempting to fetch album data
+2023-01-17T10:27:39.508Z [info]: Attempting to fetch album art for ID:undefined
+2023-01-17T10:27:51.389Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:27:53.524Z [info]: Attempting to fetch music data
+2023-01-17T10:27:53.709Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T10:27:53.710Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T10:27:53.712Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T10:27:53.745Z [info]: Attempting to fetch album art for ID:51e0c3a88648f50182d91f4c70d593e6af834bfd0f5279e49576369014bf40c2
+2023-01-17T10:27:53.748Z [info]: Attempting to fetch album art for ID:657c2c56596e46d7fe3721c8017637f488905b2a7cc122559fa2eb0ea652802f
+2023-01-17T10:27:53.749Z [info]: Attempting to fetch album art for ID:d38eca1c13eb42fbe46c38f7c613611cff70fbd71010ce986b6c39e9cf1cd841
+2023-01-17T10:27:53.749Z [info]: Attempting to fetch album art for ID:b3623e883c34fb316598a1d394038f3f8cfc5731617c1502eb145f4e3ba4309a
+2023-01-17T10:27:53.750Z [info]: Attempting to fetch album art for ID:1e7c86c77caabba0e64467acefacd87eaabb47adcace62c8721ac585e423a817
+2023-01-17T10:27:53.768Z [info]: Attempting to fetch album art for ID:8f9bc5f7acdb7a6f6d02b1df9c38edcdb4783ab46760083f2eebf18df3259701
+2023-01-17T10:27:53.822Z [info]: Attempting to fetch album art for ID:313bd194caa79af11cee42154e46bf412224b85c938a39f8388ead82fc4c1708
+2023-01-17T10:27:53.832Z [info]: Attempting to fetch album art for ID:c1d0f0b9c3ec05d6c4d7019a75ed7a7fd14a235f52243a72c376e89b1ea91ac1
+2023-01-17T10:27:53.833Z [info]: Attempting to fetch album art for ID:a2bba1b02ebb992cbbbb3d825a18d20e66255783502965942dedec8c285e3649
+2023-01-17T10:27:53.836Z [info]: Attempting to fetch album art for ID:8e8af9a07bcf57174fa9d47d2a6f7b592d9e80ab356c555a5b0a045cce8f31a1
+2023-01-17T10:27:53.849Z [info]: Attempting to fetch album art for ID:f9d68a1890f9f924d13b9137c8096f40bd76e0e950824dd75f023307c45e5b64
+2023-01-17T10:27:53.850Z [info]: Attempting to fetch album art for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-17T10:27:53.875Z [info]: Attempting to fetch album art for ID:04c187eb08c8dfe8067b855774b329b0cdfed765a4f6fe6abcc0860d52f87850
+2023-01-17T10:27:53.910Z [info]: Attempting to fetch album art for ID:0cbd33a03a70590ee851452af82394e12d65be6db850c597f7ce99b3fbc069f1
+2023-01-17T10:27:53.917Z [info]: Attempting to fetch album art for ID:712772908981e0bc0fb15a70b0660f94aa7c6035b86f827f6e82a81136dcfdb0
+2023-01-17T10:27:53.919Z [info]: Attempting to fetch album art for ID:822bac9eaa2cd1f73e89eacece9f560bea38506c61864626e004700466e6952c
+2023-01-17T10:27:53.919Z [info]: Attempting to fetch album art for ID:eea41c542ec575917eacc46355865cd1122136c50207cc7ba057c29c34c316db
+2023-01-17T10:27:53.926Z [info]: Attempting to fetch album art for ID:9e45181100598d84e4629ac01236029dd519e562b0a6e4286c1bb3316eb2cff8
+2023-01-17T10:27:53.960Z [info]: Attempting to fetch album art for ID:4aa331c8741c46f29baeeafeb6e103304a9a4951a9ca565f9e4cafad7097b171
+2023-01-17T10:27:53.969Z [info]: Attempting to fetch album art for ID:16f1b89f9d5eaf3bb1fabf41b99ce9c1dcdb18cfd957485ff5d3bd1f47e2902c
+2023-01-17T10:27:53.970Z [info]: Attempting to fetch album art for ID:3457b66bc49139a38c5350d10331123836847f251d1ae8b816fd7db99a39b3c2
+2023-01-17T10:27:53.978Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T10:27:53.996Z [info]: Attempting to fetch album art for ID:1139f2167200c19aad73175eb397820f0b11235b742e6208e76eba6b8a03dbee
+2023-01-17T10:27:54.006Z [info]: Attempting to fetch album art for ID:b10aaaed617ce9a8acc2c52773fe7faa58e77e544cf49ea62c58ee349940e3b9
+2023-01-17T10:27:54.025Z [info]: Attempting to fetch album art for ID:4e7b949688a7904fa03d3ac29e8fa300da238e55083bd5d1870ef325aa761763
+2023-01-17T10:27:54.031Z [info]: Attempting to fetch album art for ID:0f05afa4422a1b8f4849b6fb27e826c722a1e17d0bc337de083c499b0fa55d4a
+2023-01-17T10:27:54.032Z [info]: Attempting to fetch album art for ID:960100e7b509fdefb5d5ec874b53ae1062388e86bc20c0094fbde2994e2ddc8f
+2023-01-17T10:27:54.033Z [info]: Attempting to fetch album art for ID:ff62767e06275a5c029ecb585124b5e2d3ce8db2bad0e9dab711bb11d0d6793f
+2023-01-17T10:27:54.039Z [info]: Attempting to fetch album art for ID:f4e4b61294d192025ab2af82bc788dda08552954fe0c91a6386748b27ea56dad
+2023-01-17T10:27:54.055Z [info]: Attempting to fetch album art for ID:5e2a364588766c9b6848137a01cf128d9011f06a0088c4ac3bf8af2b882c3fc6
+2023-01-17T10:27:54.063Z [info]: Attempting to fetch album art for ID:2ee5ed9a54da699ac8e88c95efcdf7dfbdaa2be01bb4ad95c9c86cd5038d0ba9
+2023-01-17T10:27:54.063Z [info]: Attempting to fetch album art for ID:2a9c7d197f6044b9076c33abeb4492935b713a8e93dce1f6d23e215aa3b1a8c6
+2023-01-17T10:27:54.065Z [info]: Attempting to fetch album art for ID:d7d956511b7b5a6260e8573ca42b67d698b3fa27be0a0e2bff94b46f15245798
+2023-01-17T10:27:54.075Z [info]: Attempting to fetch album art for ID:de2a2988b1074c72eddac1c2ed63b84acf6a1d7edaf7212ae9b7cf7b8725fed7
+2023-01-17T10:27:54.089Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T10:27:54.173Z [info]: Attempting to fetch album art for ID:2671e4d36e9c64bee2aaa02e0143b99978aaafd6a363ad2501ada53ceefc8ec0
+2023-01-17T10:27:54.174Z [info]: Attempting to fetch album art for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-17T10:27:55.348Z [info]: Attempting to fetch album data
+2023-01-17T10:27:55.365Z [info]: Attempting to fetch album art for ID:undefined
+2023-01-17T10:28:15.418Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:28:16.017Z [error]: Access requested denied due to Error 404 to /favicon.ico
+2023-01-17T10:28:17.824Z [info]: Attempting to fetch music data
+2023-01-17T10:28:18.059Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T10:28:18.060Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T10:28:18.064Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T10:28:18.065Z [info]: Attempting to fetch album art for ID:1139f2167200c19aad73175eb397820f0b11235b742e6208e76eba6b8a03dbee
+2023-01-17T10:28:18.066Z [info]: Attempting to fetch album art for ID:51e0c3a88648f50182d91f4c70d593e6af834bfd0f5279e49576369014bf40c2
+2023-01-17T10:28:18.067Z [info]: Attempting to fetch album art for ID:b10aaaed617ce9a8acc2c52773fe7faa58e77e544cf49ea62c58ee349940e3b9
+2023-01-17T10:28:18.070Z [info]: Attempting to fetch album art for ID:657c2c56596e46d7fe3721c8017637f488905b2a7cc122559fa2eb0ea652802f
+2023-01-17T10:28:18.116Z [info]: Attempting to fetch album art for ID:4e7b949688a7904fa03d3ac29e8fa300da238e55083bd5d1870ef325aa761763
+2023-01-17T10:28:18.148Z [info]: Attempting to fetch album art for ID:d38eca1c13eb42fbe46c38f7c613611cff70fbd71010ce986b6c39e9cf1cd841
+2023-01-17T10:28:18.148Z [info]: Attempting to fetch album art for ID:0f05afa4422a1b8f4849b6fb27e826c722a1e17d0bc337de083c499b0fa55d4a
+2023-01-17T10:28:18.163Z [info]: Attempting to fetch album art for ID:960100e7b509fdefb5d5ec874b53ae1062388e86bc20c0094fbde2994e2ddc8f
+2023-01-17T10:28:18.166Z [info]: Attempting to fetch album art for ID:b3623e883c34fb316598a1d394038f3f8cfc5731617c1502eb145f4e3ba4309a
+2023-01-17T10:28:18.181Z [info]: Attempting to fetch album art for ID:ff62767e06275a5c029ecb585124b5e2d3ce8db2bad0e9dab711bb11d0d6793f
+2023-01-17T10:28:18.189Z [info]: Attempting to fetch album art for ID:f4e4b61294d192025ab2af82bc788dda08552954fe0c91a6386748b27ea56dad
+2023-01-17T10:28:18.197Z [info]: Attempting to fetch album art for ID:5e2a364588766c9b6848137a01cf128d9011f06a0088c4ac3bf8af2b882c3fc6
+2023-01-17T10:28:18.209Z [info]: Attempting to fetch album art for ID:2ee5ed9a54da699ac8e88c95efcdf7dfbdaa2be01bb4ad95c9c86cd5038d0ba9
+2023-01-17T10:28:18.212Z [info]: Attempting to fetch album art for ID:2a9c7d197f6044b9076c33abeb4492935b713a8e93dce1f6d23e215aa3b1a8c6
+2023-01-17T10:28:18.218Z [info]: Attempting to fetch album art for ID:d7d956511b7b5a6260e8573ca42b67d698b3fa27be0a0e2bff94b46f15245798
+2023-01-17T10:28:18.219Z [info]: Attempting to fetch album art for ID:de2a2988b1074c72eddac1c2ed63b84acf6a1d7edaf7212ae9b7cf7b8725fed7
+2023-01-17T10:28:18.237Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T10:28:18.247Z [info]: Attempting to fetch album art for ID:2671e4d36e9c64bee2aaa02e0143b99978aaafd6a363ad2501ada53ceefc8ec0
+2023-01-17T10:28:18.319Z [info]: Attempting to fetch album art for ID:1e7c86c77caabba0e64467acefacd87eaabb47adcace62c8721ac585e423a817
+2023-01-17T10:28:18.323Z [info]: Attempting to fetch album art for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-17T10:28:18.325Z [info]: Attempting to fetch album art for ID:8f9bc5f7acdb7a6f6d02b1df9c38edcdb4783ab46760083f2eebf18df3259701
+2023-01-17T10:28:18.381Z [info]: Attempting to fetch album art for ID:313bd194caa79af11cee42154e46bf412224b85c938a39f8388ead82fc4c1708
+2023-01-17T10:28:18.383Z [info]: Attempting to fetch album art for ID:c1d0f0b9c3ec05d6c4d7019a75ed7a7fd14a235f52243a72c376e89b1ea91ac1
+2023-01-17T10:28:18.386Z [info]: Attempting to fetch album art for ID:a2bba1b02ebb992cbbbb3d825a18d20e66255783502965942dedec8c285e3649
+2023-01-17T10:28:18.406Z [info]: Attempting to fetch album art for ID:8e8af9a07bcf57174fa9d47d2a6f7b592d9e80ab356c555a5b0a045cce8f31a1
+2023-01-17T10:28:18.419Z [info]: Attempting to fetch album art for ID:f9d68a1890f9f924d13b9137c8096f40bd76e0e950824dd75f023307c45e5b64
+2023-01-17T10:28:18.439Z [info]: Attempting to fetch album art for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-17T10:28:18.450Z [info]: Attempting to fetch album art for ID:04c187eb08c8dfe8067b855774b329b0cdfed765a4f6fe6abcc0860d52f87850
+2023-01-17T10:28:18.453Z [info]: Attempting to fetch album art for ID:0cbd33a03a70590ee851452af82394e12d65be6db850c597f7ce99b3fbc069f1
+2023-01-17T10:28:18.453Z [info]: Attempting to fetch album art for ID:712772908981e0bc0fb15a70b0660f94aa7c6035b86f827f6e82a81136dcfdb0
+2023-01-17T10:28:18.454Z [info]: Attempting to fetch album art for ID:822bac9eaa2cd1f73e89eacece9f560bea38506c61864626e004700466e6952c
+2023-01-17T10:28:18.475Z [info]: Attempting to fetch album art for ID:eea41c542ec575917eacc46355865cd1122136c50207cc7ba057c29c34c316db
+2023-01-17T10:28:18.493Z [info]: Attempting to fetch album art for ID:9e45181100598d84e4629ac01236029dd519e562b0a6e4286c1bb3316eb2cff8
+2023-01-17T10:28:18.494Z [info]: Attempting to fetch album art for ID:4aa331c8741c46f29baeeafeb6e103304a9a4951a9ca565f9e4cafad7097b171
+2023-01-17T10:28:18.502Z [info]: Attempting to fetch album art for ID:16f1b89f9d5eaf3bb1fabf41b99ce9c1dcdb18cfd957485ff5d3bd1f47e2902c
+2023-01-17T10:28:18.503Z [info]: Attempting to fetch album art for ID:3457b66bc49139a38c5350d10331123836847f251d1ae8b816fd7db99a39b3c2
+2023-01-17T10:28:18.513Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T10:28:18.554Z [info]: Attempting to fetch album data
+2023-01-17T10:28:18.575Z [info]: Attempting to fetch album art for ID:undefined
+2023-01-17T10:32:20.328Z [error]: Access requested denied due to Error 404 to /css/resources/redberry.svg
+2023-01-17T10:32:20.382Z [error]: Access requested denied due to Error 404 to /css/resources/redberry.svg
+2023-01-17T10:32:20.400Z [error]: Access requested denied due to Error 404 to /css/resources/redberry.svg
+2023-01-17T10:32:21.265Z [error]: Access requested denied due to Error 404 to /css/resources/light.svg
+2023-01-17T10:32:30.906Z [info]: Attempting to fetch music data
+2023-01-17T10:32:31.061Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T10:32:31.064Z [info]: Attempting to fetch album art for ID:51e0c3a88648f50182d91f4c70d593e6af834bfd0f5279e49576369014bf40c2
+2023-01-17T10:32:31.065Z [info]: Attempting to fetch album art for ID:657c2c56596e46d7fe3721c8017637f488905b2a7cc122559fa2eb0ea652802f
+2023-01-17T10:32:31.071Z [info]: Attempting to fetch album art for ID:04c187eb08c8dfe8067b855774b329b0cdfed765a4f6fe6abcc0860d52f87850
+2023-01-17T10:32:31.072Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T10:32:31.072Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T10:32:31.132Z [info]: Attempting to fetch album art for ID:d38eca1c13eb42fbe46c38f7c613611cff70fbd71010ce986b6c39e9cf1cd841
+2023-01-17T10:32:31.134Z [info]: Attempting to fetch album art for ID:0cbd33a03a70590ee851452af82394e12d65be6db850c597f7ce99b3fbc069f1
+2023-01-17T10:32:31.135Z [info]: Attempting to fetch album art for ID:712772908981e0bc0fb15a70b0660f94aa7c6035b86f827f6e82a81136dcfdb0
+2023-01-17T10:32:31.136Z [info]: Attempting to fetch album art for ID:822bac9eaa2cd1f73e89eacece9f560bea38506c61864626e004700466e6952c
+2023-01-17T10:32:31.137Z [info]: Attempting to fetch album art for ID:eea41c542ec575917eacc46355865cd1122136c50207cc7ba057c29c34c316db
+2023-01-17T10:32:31.138Z [info]: Attempting to fetch album art for ID:9e45181100598d84e4629ac01236029dd519e562b0a6e4286c1bb3316eb2cff8
+2023-01-17T10:32:31.218Z [info]: Attempting to fetch album art for ID:4aa331c8741c46f29baeeafeb6e103304a9a4951a9ca565f9e4cafad7097b171
+2023-01-17T10:32:31.219Z [info]: Attempting to fetch album art for ID:16f1b89f9d5eaf3bb1fabf41b99ce9c1dcdb18cfd957485ff5d3bd1f47e2902c
+2023-01-17T10:32:31.219Z [info]: Attempting to fetch album art for ID:3457b66bc49139a38c5350d10331123836847f251d1ae8b816fd7db99a39b3c2
+2023-01-17T10:32:31.220Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T10:32:31.221Z [info]: Attempting to fetch album art for ID:1139f2167200c19aad73175eb397820f0b11235b742e6208e76eba6b8a03dbee
+2023-01-17T10:32:31.260Z [info]: Attempting to fetch album art for ID:b10aaaed617ce9a8acc2c52773fe7faa58e77e544cf49ea62c58ee349940e3b9
+2023-01-17T10:32:31.263Z [info]: Attempting to fetch album art for ID:4e7b949688a7904fa03d3ac29e8fa300da238e55083bd5d1870ef325aa761763
+2023-01-17T10:32:31.265Z [info]: Attempting to fetch album art for ID:0f05afa4422a1b8f4849b6fb27e826c722a1e17d0bc337de083c499b0fa55d4a
+2023-01-17T10:32:31.266Z [info]: Attempting to fetch album art for ID:960100e7b509fdefb5d5ec874b53ae1062388e86bc20c0094fbde2994e2ddc8f
+2023-01-17T10:32:31.268Z [info]: Attempting to fetch album art for ID:ff62767e06275a5c029ecb585124b5e2d3ce8db2bad0e9dab711bb11d0d6793f
+2023-01-17T10:32:31.297Z [info]: Attempting to fetch album art for ID:f4e4b61294d192025ab2af82bc788dda08552954fe0c91a6386748b27ea56dad
+2023-01-17T10:32:31.305Z [info]: Attempting to fetch album art for ID:5e2a364588766c9b6848137a01cf128d9011f06a0088c4ac3bf8af2b882c3fc6
+2023-01-17T10:32:31.305Z [info]: Attempting to fetch album art for ID:2ee5ed9a54da699ac8e88c95efcdf7dfbdaa2be01bb4ad95c9c86cd5038d0ba9
+2023-01-17T10:32:31.306Z [info]: Attempting to fetch album art for ID:2a9c7d197f6044b9076c33abeb4492935b713a8e93dce1f6d23e215aa3b1a8c6
+2023-01-17T10:32:31.309Z [info]: Attempting to fetch album art for ID:d7d956511b7b5a6260e8573ca42b67d698b3fa27be0a0e2bff94b46f15245798
+2023-01-17T10:32:31.335Z [info]: Attempting to fetch album art for ID:b3623e883c34fb316598a1d394038f3f8cfc5731617c1502eb145f4e3ba4309a
+2023-01-17T10:32:31.348Z [info]: Attempting to fetch album art for ID:1e7c86c77caabba0e64467acefacd87eaabb47adcace62c8721ac585e423a817
+2023-01-17T10:32:31.366Z [info]: Attempting to fetch album art for ID:8f9bc5f7acdb7a6f6d02b1df9c38edcdb4783ab46760083f2eebf18df3259701
+2023-01-17T10:32:31.368Z [info]: Attempting to fetch album art for ID:de2a2988b1074c72eddac1c2ed63b84acf6a1d7edaf7212ae9b7cf7b8725fed7
+2023-01-17T10:32:31.376Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T10:32:31.388Z [info]: Attempting to fetch album art for ID:2671e4d36e9c64bee2aaa02e0143b99978aaafd6a363ad2501ada53ceefc8ec0
+2023-01-17T10:32:31.391Z [info]: Attempting to fetch album art for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-17T10:32:31.393Z [info]: Attempting to fetch album art for ID:313bd194caa79af11cee42154e46bf412224b85c938a39f8388ead82fc4c1708
+2023-01-17T10:32:31.578Z [info]: Attempting to fetch album art for ID:c1d0f0b9c3ec05d6c4d7019a75ed7a7fd14a235f52243a72c376e89b1ea91ac1
+2023-01-17T10:32:31.580Z [info]: Attempting to fetch album art for ID:a2bba1b02ebb992cbbbb3d825a18d20e66255783502965942dedec8c285e3649
+2023-01-17T10:32:31.585Z [info]: Attempting to fetch album art for ID:8e8af9a07bcf57174fa9d47d2a6f7b592d9e80ab356c555a5b0a045cce8f31a1
+2023-01-17T10:32:31.586Z [info]: Attempting to fetch album art for ID:f9d68a1890f9f924d13b9137c8096f40bd76e0e950824dd75f023307c45e5b64
+2023-01-17T10:32:31.599Z [info]: Attempting to fetch album art for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-17T10:32:32.559Z [info]: Attempting to fetch music data for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T10:32:33.015Z [info]: Attempting to fetch music data for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T10:32:34.966Z [info]: Attempting to fetch music data for ID:313bd194caa79af11cee42154e46bf412224b85c938a39f8388ead82fc4c1708
+2023-01-17T10:34:10.438Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:34:11.438Z [error]: Access requested denied due to Error 404
+2023-01-17T10:34:22.608Z [error]: Access requested denied due to Error 404 to /css/resources/dark.svg
+2023-01-17T10:34:23.188Z [error]: Access requested denied due to Error 404 to /css/resources/dark.svg
+2023-01-17T10:34:23.222Z [error]: Access requested denied due to Error 404 to /css/resources/dark.svg
+2023-01-17T10:34:23.239Z [error]: Access requested denied due to Error 404 to /css/resources/dark.svg
+2023-01-17T10:34:27.115Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T10:36:21.177Z [info]: Attempting to fetch album data
+2023-01-17T10:36:21.190Z [info]: Attempting to fetch album art for ID:undefined
+2023-01-17T15:49:36.182Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T15:49:39.603Z [info]: Attempting to fetch music data
+2023-01-17T15:49:39.845Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T15:49:39.846Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T15:49:39.847Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T15:49:39.849Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T15:49:39.850Z [info]: Attempting to fetch album art for ID:51e0c3a88648f50182d91f4c70d593e6af834bfd0f5279e49576369014bf40c2
+2023-01-17T15:49:39.850Z [info]: Attempting to fetch album art for ID:1139f2167200c19aad73175eb397820f0b11235b742e6208e76eba6b8a03dbee
+2023-01-17T15:49:39.880Z [info]: Attempting to fetch album art for ID:657c2c56596e46d7fe3721c8017637f488905b2a7cc122559fa2eb0ea652802f
+2023-01-17T15:49:39.913Z [info]: Attempting to fetch album art for ID:b10aaaed617ce9a8acc2c52773fe7faa58e77e544cf49ea62c58ee349940e3b9
+2023-01-17T15:49:39.944Z [info]: Attempting to fetch album art for ID:4e7b949688a7904fa03d3ac29e8fa300da238e55083bd5d1870ef325aa761763
+2023-01-17T15:49:39.954Z [info]: Attempting to fetch album art for ID:0f05afa4422a1b8f4849b6fb27e826c722a1e17d0bc337de083c499b0fa55d4a
+2023-01-17T15:49:39.954Z [info]: Attempting to fetch album art for ID:960100e7b509fdefb5d5ec874b53ae1062388e86bc20c0094fbde2994e2ddc8f
+2023-01-17T15:49:39.967Z [info]: Attempting to fetch album art for ID:ff62767e06275a5c029ecb585124b5e2d3ce8db2bad0e9dab711bb11d0d6793f
+2023-01-17T15:49:39.969Z [info]: Attempting to fetch album art for ID:f4e4b61294d192025ab2af82bc788dda08552954fe0c91a6386748b27ea56dad
+2023-01-17T15:49:40.010Z [info]: Attempting to fetch album art for ID:5e2a364588766c9b6848137a01cf128d9011f06a0088c4ac3bf8af2b882c3fc6
+2023-01-17T15:49:40.032Z [info]: Attempting to fetch album art for ID:2ee5ed9a54da699ac8e88c95efcdf7dfbdaa2be01bb4ad95c9c86cd5038d0ba9
+2023-01-17T15:49:40.035Z [info]: Attempting to fetch album art for ID:2a9c7d197f6044b9076c33abeb4492935b713a8e93dce1f6d23e215aa3b1a8c6
+2023-01-17T15:49:40.049Z [info]: Attempting to fetch album art for ID:d7d956511b7b5a6260e8573ca42b67d698b3fa27be0a0e2bff94b46f15245798
+2023-01-17T15:49:40.075Z [info]: Attempting to fetch album art for ID:de2a2988b1074c72eddac1c2ed63b84acf6a1d7edaf7212ae9b7cf7b8725fed7
+2023-01-17T15:49:40.088Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T15:49:40.113Z [info]: Attempting to fetch album art for ID:2671e4d36e9c64bee2aaa02e0143b99978aaafd6a363ad2501ada53ceefc8ec0
+2023-01-17T15:49:40.114Z [info]: Attempting to fetch album art for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-17T15:49:40.116Z [info]: Attempting to fetch album art for ID:d38eca1c13eb42fbe46c38f7c613611cff70fbd71010ce986b6c39e9cf1cd841
+2023-01-17T15:49:40.225Z [info]: Attempting to fetch album art for ID:b3623e883c34fb316598a1d394038f3f8cfc5731617c1502eb145f4e3ba4309a
+2023-01-17T15:49:40.374Z [info]: Attempting to fetch album art for ID:1e7c86c77caabba0e64467acefacd87eaabb47adcace62c8721ac585e423a817
+2023-01-17T15:49:40.384Z [info]: Attempting to fetch album art for ID:8f9bc5f7acdb7a6f6d02b1df9c38edcdb4783ab46760083f2eebf18df3259701
+2023-01-17T15:49:40.385Z [info]: Attempting to fetch album art for ID:313bd194caa79af11cee42154e46bf412224b85c938a39f8388ead82fc4c1708
+2023-01-17T15:49:40.386Z [info]: Attempting to fetch album art for ID:c1d0f0b9c3ec05d6c4d7019a75ed7a7fd14a235f52243a72c376e89b1ea91ac1
+2023-01-17T15:49:40.432Z [info]: Attempting to fetch album art for ID:a2bba1b02ebb992cbbbb3d825a18d20e66255783502965942dedec8c285e3649
+2023-01-17T15:49:40.435Z [info]: Attempting to fetch album art for ID:8e8af9a07bcf57174fa9d47d2a6f7b592d9e80ab356c555a5b0a045cce8f31a1
+2023-01-17T15:49:40.436Z [info]: Attempting to fetch album art for ID:f9d68a1890f9f924d13b9137c8096f40bd76e0e950824dd75f023307c45e5b64
+2023-01-17T15:49:40.437Z [info]: Attempting to fetch album art for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-17T15:49:40.438Z [info]: Attempting to fetch album art for ID:04c187eb08c8dfe8067b855774b329b0cdfed765a4f6fe6abcc0860d52f87850
+2023-01-17T15:49:40.447Z [info]: Attempting to fetch album art for ID:0cbd33a03a70590ee851452af82394e12d65be6db850c597f7ce99b3fbc069f1
+2023-01-17T15:49:40.496Z [info]: Attempting to fetch album art for ID:712772908981e0bc0fb15a70b0660f94aa7c6035b86f827f6e82a81136dcfdb0
+2023-01-17T15:49:40.497Z [info]: Attempting to fetch album art for ID:822bac9eaa2cd1f73e89eacece9f560bea38506c61864626e004700466e6952c
+2023-01-17T15:49:40.499Z [info]: Attempting to fetch album art for ID:eea41c542ec575917eacc46355865cd1122136c50207cc7ba057c29c34c316db
+2023-01-17T15:49:40.500Z [info]: Attempting to fetch album art for ID:9e45181100598d84e4629ac01236029dd519e562b0a6e4286c1bb3316eb2cff8
+2023-01-17T15:49:40.501Z [info]: Attempting to fetch album art for ID:4aa331c8741c46f29baeeafeb6e103304a9a4951a9ca565f9e4cafad7097b171
+2023-01-17T15:49:40.534Z [info]: Attempting to fetch album art for ID:16f1b89f9d5eaf3bb1fabf41b99ce9c1dcdb18cfd957485ff5d3bd1f47e2902c
+2023-01-17T15:49:40.543Z [info]: Attempting to fetch album art for ID:3457b66bc49139a38c5350d10331123836847f251d1ae8b816fd7db99a39b3c2
+2023-01-17T15:49:41.250Z [info]: Attempting to fetch album data
+2023-01-17T15:49:41.269Z [info]: Attempting to fetch album art for ID:undefined
+2023-01-17T15:49:49.725Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T15:49:52.033Z [info]: Attempting to fetch music data
+2023-01-17T15:49:52.226Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T15:49:52.227Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T15:49:52.230Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T15:49:52.230Z [info]: Attempting to fetch album art for ID:16f1b89f9d5eaf3bb1fabf41b99ce9c1dcdb18cfd957485ff5d3bd1f47e2902c
+2023-01-17T15:49:52.232Z [info]: Attempting to fetch album art for ID:51e0c3a88648f50182d91f4c70d593e6af834bfd0f5279e49576369014bf40c2
+2023-01-17T15:49:52.233Z [info]: Attempting to fetch album art for ID:3457b66bc49139a38c5350d10331123836847f251d1ae8b816fd7db99a39b3c2
+2023-01-17T15:49:52.284Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T15:49:52.297Z [info]: Attempting to fetch album art for ID:1139f2167200c19aad73175eb397820f0b11235b742e6208e76eba6b8a03dbee
+2023-01-17T15:49:52.298Z [info]: Attempting to fetch album art for ID:b10aaaed617ce9a8acc2c52773fe7faa58e77e544cf49ea62c58ee349940e3b9
+2023-01-17T15:49:52.307Z [info]: Attempting to fetch album art for ID:4e7b949688a7904fa03d3ac29e8fa300da238e55083bd5d1870ef325aa761763
+2023-01-17T15:49:52.308Z [info]: Attempting to fetch album art for ID:0f05afa4422a1b8f4849b6fb27e826c722a1e17d0bc337de083c499b0fa55d4a
+2023-01-17T15:49:52.337Z [info]: Attempting to fetch album art for ID:960100e7b509fdefb5d5ec874b53ae1062388e86bc20c0094fbde2994e2ddc8f
+2023-01-17T15:49:52.358Z [info]: Attempting to fetch album art for ID:ff62767e06275a5c029ecb585124b5e2d3ce8db2bad0e9dab711bb11d0d6793f
+2023-01-17T15:49:52.359Z [info]: Attempting to fetch album art for ID:f4e4b61294d192025ab2af82bc788dda08552954fe0c91a6386748b27ea56dad
+2023-01-17T15:49:52.366Z [info]: Attempting to fetch album art for ID:5e2a364588766c9b6848137a01cf128d9011f06a0088c4ac3bf8af2b882c3fc6
+2023-01-17T15:49:52.369Z [info]: Attempting to fetch album art for ID:2ee5ed9a54da699ac8e88c95efcdf7dfbdaa2be01bb4ad95c9c86cd5038d0ba9
+2023-01-17T15:49:52.376Z [info]: Attempting to fetch album art for ID:2a9c7d197f6044b9076c33abeb4492935b713a8e93dce1f6d23e215aa3b1a8c6
+2023-01-17T15:49:52.414Z [info]: Attempting to fetch album art for ID:d7d956511b7b5a6260e8573ca42b67d698b3fa27be0a0e2bff94b46f15245798
+2023-01-17T15:49:52.421Z [info]: Attempting to fetch album art for ID:de2a2988b1074c72eddac1c2ed63b84acf6a1d7edaf7212ae9b7cf7b8725fed7
+2023-01-17T15:49:52.422Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T15:49:52.424Z [info]: Attempting to fetch album art for ID:2671e4d36e9c64bee2aaa02e0143b99978aaafd6a363ad2501ada53ceefc8ec0
+2023-01-17T15:49:52.433Z [info]: Attempting to fetch album art for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-17T15:49:52.672Z [info]: Attempting to fetch album art for ID:657c2c56596e46d7fe3721c8017637f488905b2a7cc122559fa2eb0ea652802f
+2023-01-17T15:49:52.716Z [info]: Attempting to fetch album art for ID:d38eca1c13eb42fbe46c38f7c613611cff70fbd71010ce986b6c39e9cf1cd841
+2023-01-17T15:49:52.719Z [info]: Attempting to fetch album art for ID:b3623e883c34fb316598a1d394038f3f8cfc5731617c1502eb145f4e3ba4309a
+2023-01-17T15:49:52.739Z [info]: Attempting to fetch album art for ID:1e7c86c77caabba0e64467acefacd87eaabb47adcace62c8721ac585e423a817
+2023-01-17T15:49:52.740Z [info]: Attempting to fetch album art for ID:8f9bc5f7acdb7a6f6d02b1df9c38edcdb4783ab46760083f2eebf18df3259701
+2023-01-17T15:49:52.766Z [info]: Attempting to fetch album art for ID:313bd194caa79af11cee42154e46bf412224b85c938a39f8388ead82fc4c1708
+2023-01-17T15:49:52.782Z [info]: Attempting to fetch album art for ID:c1d0f0b9c3ec05d6c4d7019a75ed7a7fd14a235f52243a72c376e89b1ea91ac1
+2023-01-17T15:49:52.785Z [info]: Attempting to fetch album art for ID:a2bba1b02ebb992cbbbb3d825a18d20e66255783502965942dedec8c285e3649
+2023-01-17T15:49:52.792Z [info]: Attempting to fetch album art for ID:8e8af9a07bcf57174fa9d47d2a6f7b592d9e80ab356c555a5b0a045cce8f31a1
+2023-01-17T15:49:52.793Z [info]: Attempting to fetch album art for ID:f9d68a1890f9f924d13b9137c8096f40bd76e0e950824dd75f023307c45e5b64
+2023-01-17T15:49:52.811Z [info]: Attempting to fetch album art for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-17T15:49:52.826Z [info]: Attempting to fetch album art for ID:04c187eb08c8dfe8067b855774b329b0cdfed765a4f6fe6abcc0860d52f87850
+2023-01-17T15:49:52.830Z [info]: Attempting to fetch album art for ID:0cbd33a03a70590ee851452af82394e12d65be6db850c597f7ce99b3fbc069f1
+2023-01-17T15:49:52.838Z [info]: Attempting to fetch album art for ID:712772908981e0bc0fb15a70b0660f94aa7c6035b86f827f6e82a81136dcfdb0
+2023-01-17T15:49:52.838Z [info]: Attempting to fetch album art for ID:822bac9eaa2cd1f73e89eacece9f560bea38506c61864626e004700466e6952c
+2023-01-17T15:49:52.875Z [info]: Attempting to fetch album art for ID:eea41c542ec575917eacc46355865cd1122136c50207cc7ba057c29c34c316db
+2023-01-17T15:49:52.877Z [info]: Attempting to fetch album art for ID:9e45181100598d84e4629ac01236029dd519e562b0a6e4286c1bb3316eb2cff8
+2023-01-17T15:49:52.880Z [info]: Attempting to fetch album art for ID:4aa331c8741c46f29baeeafeb6e103304a9a4951a9ca565f9e4cafad7097b171
+2023-01-17T15:49:53.766Z [info]: Attempting to fetch album data
+2023-01-17T15:49:53.781Z [info]: Attempting to fetch album art for ID:undefined
+2023-01-17T15:50:16.017Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T15:50:18.608Z [info]: Attempting to fetch album data
+2023-01-17T15:50:18.623Z [info]: Attempting to fetch album art for ID:undefined
+2023-01-17T15:50:26.429Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T15:50:29.336Z [info]: Attempting to fetch album data
+2023-01-17T15:50:29.354Z [info]: Attempting to fetch album art for ID:undefined
+2023-01-17T15:51:05.871Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T15:51:08.221Z [info]: Attempting to fetch album data
+2023-01-17T15:51:08.235Z [info]: Attempting to fetch album art for ID:undefined
+2023-01-17T15:53:43.589Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T15:53:45.736Z [info]: Attempting to fetch album data
+2023-01-17T15:53:45.748Z [info]: Attempting to fetch album art for ID:undefined
+2023-01-17T15:53:54.601Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T15:53:56.884Z [info]: Attempting to fetch album data
+2023-01-17T15:53:56.908Z [info]: Attempting to fetch album art for ID:undefined
+2023-01-17T15:54:08.852Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T15:54:11.573Z [info]: Attempting to fetch album data
+2023-01-17T15:54:11.587Z [info]: Attempting to fetch album art for ID:undefined
+2023-01-17T15:54:27.211Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T15:54:30.432Z [info]: Attempting to fetch album data
+2023-01-17T15:54:30.454Z [info]: Attempting to fetch album art for ID:undefined
+2023-01-17T15:54:31.317Z [info]: Attempting to fetch music data
+2023-01-17T15:54:31.490Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T15:54:31.491Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T15:54:31.493Z [info]: Attempting to fetch album art for ID:4aa331c8741c46f29baeeafeb6e103304a9a4951a9ca565f9e4cafad7097b171
+2023-01-17T15:54:31.494Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T15:54:31.496Z [info]: Attempting to fetch album art for ID:16f1b89f9d5eaf3bb1fabf41b99ce9c1dcdb18cfd957485ff5d3bd1f47e2902c
+2023-01-17T15:54:31.497Z [info]: Attempting to fetch album art for ID:3457b66bc49139a38c5350d10331123836847f251d1ae8b816fd7db99a39b3c2
+2023-01-17T15:54:31.539Z [info]: Attempting to fetch album art for ID:51e0c3a88648f50182d91f4c70d593e6af834bfd0f5279e49576369014bf40c2
+2023-01-17T15:54:31.549Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T15:54:31.549Z [info]: Attempting to fetch album art for ID:1139f2167200c19aad73175eb397820f0b11235b742e6208e76eba6b8a03dbee
+2023-01-17T15:54:31.555Z [info]: Attempting to fetch album art for ID:b10aaaed617ce9a8acc2c52773fe7faa58e77e544cf49ea62c58ee349940e3b9
+2023-01-17T15:54:31.556Z [info]: Attempting to fetch album art for ID:4e7b949688a7904fa03d3ac29e8fa300da238e55083bd5d1870ef325aa761763
+2023-01-17T15:54:31.569Z [info]: Attempting to fetch album art for ID:0f05afa4422a1b8f4849b6fb27e826c722a1e17d0bc337de083c499b0fa55d4a
+2023-01-17T15:54:31.583Z [info]: Attempting to fetch album art for ID:960100e7b509fdefb5d5ec874b53ae1062388e86bc20c0094fbde2994e2ddc8f
+2023-01-17T15:54:31.585Z [info]: Attempting to fetch album art for ID:ff62767e06275a5c029ecb585124b5e2d3ce8db2bad0e9dab711bb11d0d6793f
+2023-01-17T15:54:31.590Z [info]: Attempting to fetch album art for ID:f4e4b61294d192025ab2af82bc788dda08552954fe0c91a6386748b27ea56dad
+2023-01-17T15:54:31.593Z [info]: Attempting to fetch album art for ID:5e2a364588766c9b6848137a01cf128d9011f06a0088c4ac3bf8af2b882c3fc6
+2023-01-17T15:54:31.609Z [info]: Attempting to fetch album art for ID:2ee5ed9a54da699ac8e88c95efcdf7dfbdaa2be01bb4ad95c9c86cd5038d0ba9
+2023-01-17T15:54:31.616Z [info]: Attempting to fetch album art for ID:657c2c56596e46d7fe3721c8017637f488905b2a7cc122559fa2eb0ea652802f
+2023-01-17T15:54:31.635Z [info]: Attempting to fetch album art for ID:2a9c7d197f6044b9076c33abeb4492935b713a8e93dce1f6d23e215aa3b1a8c6
+2023-01-17T15:54:31.649Z [info]: Attempting to fetch album art for ID:d7d956511b7b5a6260e8573ca42b67d698b3fa27be0a0e2bff94b46f15245798
+2023-01-17T15:54:31.652Z [info]: Attempting to fetch album art for ID:de2a2988b1074c72eddac1c2ed63b84acf6a1d7edaf7212ae9b7cf7b8725fed7
+2023-01-17T15:54:31.653Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T15:54:31.668Z [info]: Attempting to fetch album art for ID:2671e4d36e9c64bee2aaa02e0143b99978aaafd6a363ad2501ada53ceefc8ec0
+2023-01-17T15:54:31.704Z [info]: Attempting to fetch album art for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-17T15:54:31.819Z [info]: Attempting to fetch album art for ID:d38eca1c13eb42fbe46c38f7c613611cff70fbd71010ce986b6c39e9cf1cd841
+2023-01-17T15:54:31.843Z [info]: Attempting to fetch album art for ID:b3623e883c34fb316598a1d394038f3f8cfc5731617c1502eb145f4e3ba4309a
+2023-01-17T15:54:31.870Z [info]: Attempting to fetch album art for ID:1e7c86c77caabba0e64467acefacd87eaabb47adcace62c8721ac585e423a817
+2023-01-17T15:54:31.871Z [info]: Attempting to fetch album art for ID:8f9bc5f7acdb7a6f6d02b1df9c38edcdb4783ab46760083f2eebf18df3259701
+2023-01-17T15:54:31.872Z [info]: Attempting to fetch album art for ID:313bd194caa79af11cee42154e46bf412224b85c938a39f8388ead82fc4c1708
+2023-01-17T15:54:31.893Z [info]: Attempting to fetch album art for ID:c1d0f0b9c3ec05d6c4d7019a75ed7a7fd14a235f52243a72c376e89b1ea91ac1
+2023-01-17T15:54:31.894Z [info]: Attempting to fetch album art for ID:a2bba1b02ebb992cbbbb3d825a18d20e66255783502965942dedec8c285e3649
+2023-01-17T15:54:31.895Z [info]: Attempting to fetch album art for ID:8e8af9a07bcf57174fa9d47d2a6f7b592d9e80ab356c555a5b0a045cce8f31a1
+2023-01-17T15:54:31.896Z [info]: Attempting to fetch album art for ID:f9d68a1890f9f924d13b9137c8096f40bd76e0e950824dd75f023307c45e5b64
+2023-01-17T15:54:31.901Z [info]: Attempting to fetch album art for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-17T15:54:31.920Z [info]: Attempting to fetch album art for ID:04c187eb08c8dfe8067b855774b329b0cdfed765a4f6fe6abcc0860d52f87850
+2023-01-17T15:54:31.928Z [info]: Attempting to fetch album art for ID:0cbd33a03a70590ee851452af82394e12d65be6db850c597f7ce99b3fbc069f1
+2023-01-17T15:54:31.930Z [info]: Attempting to fetch album art for ID:712772908981e0bc0fb15a70b0660f94aa7c6035b86f827f6e82a81136dcfdb0
+2023-01-17T15:54:31.931Z [info]: Attempting to fetch album art for ID:822bac9eaa2cd1f73e89eacece9f560bea38506c61864626e004700466e6952c
+2023-01-17T15:54:31.937Z [info]: Attempting to fetch album art for ID:eea41c542ec575917eacc46355865cd1122136c50207cc7ba057c29c34c316db
+2023-01-17T15:54:31.954Z [info]: Attempting to fetch album art for ID:9e45181100598d84e4629ac01236029dd519e562b0a6e4286c1bb3316eb2cff8
+2023-01-17T15:54:32.502Z [info]: Attempting to fetch album data
+2023-01-17T15:55:17.700Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T15:55:20.691Z [info]: Attempting to fetch album data
+2023-01-17T15:55:20.704Z [info]: Attempting to fetch album art for ID:undefined
+2023-01-17T15:55:46.176Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T15:55:46.180Z [info]: Connected to database
+2023-01-17T15:56:21.401Z [error]: Access requested denied due to Error 404 to /api/album
+2023-01-17T15:56:23.346Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T15:56:29.077Z [info]: Attempting to fetch album data
+2023-01-17T15:59:02.955Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T15:59:02.959Z [info]: Connected to database
+2023-01-17T15:59:07.810Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T15:59:07.817Z [info]: Connected to database
+2023-01-17T15:59:09.479Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T15:59:09.483Z [info]: Connected to database
+2023-01-17T15:59:11.249Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T15:59:11.256Z [info]: Connected to database
+2023-01-17T15:59:12.969Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T15:59:12.974Z [info]: Connected to database
+2023-01-17T15:59:14.625Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T15:59:14.628Z [info]: Connected to database
+2023-01-17T15:59:17.425Z [info]: Attempting to fetch album data
+2023-01-17T15:59:58.066Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T15:59:58.069Z [info]: Connected to database
+2023-01-17T16:00:00.658Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T16:00:00.662Z [info]: Connected to database
+2023-01-17T16:00:09.368Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T16:00:09.372Z [info]: Connected to database
+2023-01-17T16:00:10.685Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T16:00:13.458Z [info]: Attempting to fetch album data
+2023-01-17T16:00:13.573Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T16:00:13.574Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T16:00:13.575Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T16:00:13.576Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T16:00:13.577Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T16:00:25.386Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T16:00:25.390Z [info]: Connected to database
+2023-01-17T16:00:26.103Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T16:00:28.470Z [info]: Attempting to fetch album data
+2023-01-17T16:00:28.549Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T16:00:28.551Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T16:00:28.552Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T16:00:28.553Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T16:00:28.554Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T16:01:04.651Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T16:01:04.655Z [info]: Connected to database
+2023-01-17T16:01:06.792Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T16:01:06.796Z [info]: Connected to database
+2023-01-17T16:01:10.367Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T16:01:10.370Z [info]: Connected to database
+2023-01-17T16:01:14.863Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T16:01:14.866Z [info]: Connected to database
+2023-01-17T16:01:25.481Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T16:01:25.485Z [info]: Connected to database
+2023-01-17T16:01:37.235Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T16:01:37.240Z [info]: Connected to database
+2023-01-17T16:01:43.804Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T16:01:43.808Z [info]: Connected to database
+2023-01-17T16:01:48.667Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T16:01:50.804Z [info]: Attempting to fetch album data
+2023-01-17T16:01:50.884Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T16:01:50.885Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T16:01:50.888Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T16:01:50.889Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T16:01:50.889Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T16:05:16.199Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T16:05:16.204Z [info]: Connected to database
+2023-01-17T16:05:16.651Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T16:05:20.107Z [info]: Attempting to fetch music data
+2023-01-17T16:05:20.280Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T16:05:20.282Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T16:05:20.284Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T16:05:20.287Z [info]: Attempting to fetch album art for ID:ff62767e06275a5c029ecb585124b5e2d3ce8db2bad0e9dab711bb11d0d6793f
+2023-01-17T16:05:20.288Z [info]: Attempting to fetch album art for ID:f4e4b61294d192025ab2af82bc788dda08552954fe0c91a6386748b27ea56dad
+2023-01-17T16:05:20.289Z [info]: Attempting to fetch album art for ID:5e2a364588766c9b6848137a01cf128d9011f06a0088c4ac3bf8af2b882c3fc6
+2023-01-17T16:05:20.323Z [info]: Attempting to fetch album art for ID:51e0c3a88648f50182d91f4c70d593e6af834bfd0f5279e49576369014bf40c2
+2023-01-17T16:05:20.354Z [info]: Attempting to fetch album art for ID:2ee5ed9a54da699ac8e88c95efcdf7dfbdaa2be01bb4ad95c9c86cd5038d0ba9
+2023-01-17T16:05:20.362Z [info]: Attempting to fetch album art for ID:2a9c7d197f6044b9076c33abeb4492935b713a8e93dce1f6d23e215aa3b1a8c6
+2023-01-17T16:05:20.363Z [info]: Attempting to fetch album art for ID:d7d956511b7b5a6260e8573ca42b67d698b3fa27be0a0e2bff94b46f15245798
+2023-01-17T16:05:20.364Z [info]: Attempting to fetch album art for ID:de2a2988b1074c72eddac1c2ed63b84acf6a1d7edaf7212ae9b7cf7b8725fed7
+2023-01-17T16:05:20.377Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T16:05:20.479Z [info]: Attempting to fetch album art for ID:2671e4d36e9c64bee2aaa02e0143b99978aaafd6a363ad2501ada53ceefc8ec0
+2023-01-17T16:05:20.490Z [info]: Attempting to fetch album art for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-17T16:05:20.491Z [info]: Attempting to fetch album art for ID:657c2c56596e46d7fe3721c8017637f488905b2a7cc122559fa2eb0ea652802f
+2023-01-17T16:05:20.492Z [info]: Attempting to fetch album art for ID:d38eca1c13eb42fbe46c38f7c613611cff70fbd71010ce986b6c39e9cf1cd841
+2023-01-17T16:05:20.569Z [info]: Attempting to fetch album art for ID:b3623e883c34fb316598a1d394038f3f8cfc5731617c1502eb145f4e3ba4309a
+2023-01-17T16:05:20.571Z [info]: Attempting to fetch album art for ID:1e7c86c77caabba0e64467acefacd87eaabb47adcace62c8721ac585e423a817
+2023-01-17T16:05:20.607Z [info]: Attempting to fetch album art for ID:8f9bc5f7acdb7a6f6d02b1df9c38edcdb4783ab46760083f2eebf18df3259701
+2023-01-17T16:05:20.611Z [info]: Attempting to fetch album art for ID:313bd194caa79af11cee42154e46bf412224b85c938a39f8388ead82fc4c1708
+2023-01-17T16:05:20.612Z [info]: Attempting to fetch album art for ID:c1d0f0b9c3ec05d6c4d7019a75ed7a7fd14a235f52243a72c376e89b1ea91ac1
+2023-01-17T16:05:20.634Z [info]: Attempting to fetch album art for ID:a2bba1b02ebb992cbbbb3d825a18d20e66255783502965942dedec8c285e3649
+2023-01-17T16:05:20.645Z [info]: Attempting to fetch album art for ID:8e8af9a07bcf57174fa9d47d2a6f7b592d9e80ab356c555a5b0a045cce8f31a1
+2023-01-17T16:05:20.645Z [info]: Attempting to fetch album art for ID:f9d68a1890f9f924d13b9137c8096f40bd76e0e950824dd75f023307c45e5b64
+2023-01-17T16:05:20.646Z [info]: Attempting to fetch album art for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-17T16:05:20.652Z [info]: Attempting to fetch album art for ID:04c187eb08c8dfe8067b855774b329b0cdfed765a4f6fe6abcc0860d52f87850
+2023-01-17T16:05:20.669Z [info]: Attempting to fetch album art for ID:0cbd33a03a70590ee851452af82394e12d65be6db850c597f7ce99b3fbc069f1
+2023-01-17T16:05:20.673Z [info]: Attempting to fetch album art for ID:712772908981e0bc0fb15a70b0660f94aa7c6035b86f827f6e82a81136dcfdb0
+2023-01-17T16:05:20.677Z [info]: Attempting to fetch album art for ID:822bac9eaa2cd1f73e89eacece9f560bea38506c61864626e004700466e6952c
+2023-01-17T16:05:20.684Z [info]: Attempting to fetch album art for ID:eea41c542ec575917eacc46355865cd1122136c50207cc7ba057c29c34c316db
+2023-01-17T16:05:20.687Z [info]: Attempting to fetch album art for ID:9e45181100598d84e4629ac01236029dd519e562b0a6e4286c1bb3316eb2cff8
+2023-01-17T16:05:20.699Z [info]: Attempting to fetch album art for ID:4aa331c8741c46f29baeeafeb6e103304a9a4951a9ca565f9e4cafad7097b171
+2023-01-17T16:05:20.709Z [info]: Attempting to fetch album art for ID:16f1b89f9d5eaf3bb1fabf41b99ce9c1dcdb18cfd957485ff5d3bd1f47e2902c
+2023-01-17T16:05:20.720Z [info]: Attempting to fetch album art for ID:3457b66bc49139a38c5350d10331123836847f251d1ae8b816fd7db99a39b3c2
+2023-01-17T16:05:20.720Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T16:05:20.727Z [info]: Attempting to fetch album art for ID:1139f2167200c19aad73175eb397820f0b11235b742e6208e76eba6b8a03dbee
+2023-01-17T16:05:20.735Z [info]: Attempting to fetch album art for ID:b10aaaed617ce9a8acc2c52773fe7faa58e77e544cf49ea62c58ee349940e3b9
+2023-01-17T16:05:20.741Z [info]: Attempting to fetch album art for ID:4e7b949688a7904fa03d3ac29e8fa300da238e55083bd5d1870ef325aa761763
+2023-01-17T16:05:20.747Z [info]: Attempting to fetch album art for ID:0f05afa4422a1b8f4849b6fb27e826c722a1e17d0bc337de083c499b0fa55d4a
+2023-01-17T16:05:20.753Z [info]: Attempting to fetch album art for ID:960100e7b509fdefb5d5ec874b53ae1062388e86bc20c0094fbde2994e2ddc8f
+2023-01-17T16:05:22.741Z [info]: Attempting to fetch album data
+2023-01-17T16:05:22.816Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T16:05:22.818Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T16:05:22.819Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T16:05:22.819Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T16:05:22.820Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T16:05:25.243Z [info]: Attempting to fetch music data
+2023-01-17T16:05:26.894Z [info]: Attempting to fetch album data
+2023-01-17T16:05:51.694Z [info]: Attempting to fetch music data
+2023-01-17T16:05:52.763Z [info]: Attempting to fetch album data
+2023-01-17T16:06:27.361Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T16:06:30.636Z [info]: Attempting to fetch album data
+2023-01-17T16:06:30.730Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T16:06:30.733Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T16:06:30.735Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T16:06:30.736Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T16:06:30.736Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T16:06:52.823Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T16:06:55.342Z [info]: Attempting to fetch album data
+2023-01-17T16:06:55.462Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T16:06:55.462Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T16:06:55.465Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T16:06:55.466Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T16:06:55.467Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T16:07:55.488Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T16:07:57.881Z [info]: Attempting to fetch album data
+2023-01-17T16:07:57.993Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T16:07:57.997Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T16:07:57.997Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T16:07:57.998Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T16:07:58.014Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T16:08:47.462Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T16:08:51.700Z [info]: Attempting to fetch album data
+2023-01-17T16:08:51.813Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T16:08:51.814Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T16:08:51.815Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T16:08:51.816Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T16:08:51.817Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T16:09:26.550Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T16:09:29.618Z [info]: Attempting to fetch album data
+2023-01-17T16:09:29.730Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T16:09:29.730Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T16:09:29.732Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T16:09:29.732Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T16:09:29.733Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T16:09:47.391Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T16:09:49.726Z [info]: Attempting to fetch album data
+2023-01-17T16:09:49.864Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T16:09:49.864Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T16:09:49.865Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T16:09:49.866Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T16:09:49.867Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T16:10:02.103Z [info]: http connection established by HOST:127.0.0.1
+2023-01-17T16:10:05.377Z [info]: Attempting to fetch album data
+2023-01-17T16:10:05.504Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T16:10:05.506Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T16:10:05.542Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T16:10:05.543Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T16:10:05.544Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T16:10:48.231Z [info]: Attempting to fetch music data
+2023-01-17T16:10:48.493Z [info]: Attempting to fetch album art for ID:8c536362a0b090b8d9396fd5a042fe3f9296dae82d2dd6ac27909286f422f5bd
+2023-01-17T16:10:48.495Z [info]: Attempting to fetch album art for ID:51e0c3a88648f50182d91f4c70d593e6af834bfd0f5279e49576369014bf40c2
+2023-01-17T16:10:48.496Z [info]: Attempting to fetch album art for ID:657c2c56596e46d7fe3721c8017637f488905b2a7cc122559fa2eb0ea652802f
+2023-01-17T16:10:48.524Z [info]: Attempting to fetch album art for ID:57978beca8b3ed70de78e53935db52aab4e8836046da48327c2ce1001bc95d72
+2023-01-17T16:10:48.526Z [info]: Attempting to fetch album art for ID:9e45181100598d84e4629ac01236029dd519e562b0a6e4286c1bb3316eb2cff8
+2023-01-17T16:10:48.527Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
+2023-01-17T16:10:48.615Z [info]: Attempting to fetch album art for ID:4aa331c8741c46f29baeeafeb6e103304a9a4951a9ca565f9e4cafad7097b171
+2023-01-17T16:10:48.618Z [info]: Attempting to fetch album art for ID:16f1b89f9d5eaf3bb1fabf41b99ce9c1dcdb18cfd957485ff5d3bd1f47e2902c
+2023-01-17T16:10:48.622Z [info]: Attempting to fetch album art for ID:3457b66bc49139a38c5350d10331123836847f251d1ae8b816fd7db99a39b3c2
+2023-01-17T16:10:48.624Z [info]: Attempting to fetch album art for ID:01115d1475f44da6db1685891959fdcf2166e4b2c9b5b780ad26228210cb066e
+2023-01-17T16:10:48.625Z [info]: Attempting to fetch album art for ID:1139f2167200c19aad73175eb397820f0b11235b742e6208e76eba6b8a03dbee
+2023-01-17T16:10:48.626Z [info]: Attempting to fetch album art for ID:b10aaaed617ce9a8acc2c52773fe7faa58e77e544cf49ea62c58ee349940e3b9
+2023-01-17T16:10:48.691Z [info]: Attempting to fetch album art for ID:4e7b949688a7904fa03d3ac29e8fa300da238e55083bd5d1870ef325aa761763
+2023-01-17T16:10:48.701Z [info]: Attempting to fetch album art for ID:0f05afa4422a1b8f4849b6fb27e826c722a1e17d0bc337de083c499b0fa55d4a
+2023-01-17T16:10:48.702Z [info]: Attempting to fetch album art for ID:960100e7b509fdefb5d5ec874b53ae1062388e86bc20c0094fbde2994e2ddc8f
+2023-01-17T16:10:48.703Z [info]: Attempting to fetch album art for ID:ff62767e06275a5c029ecb585124b5e2d3ce8db2bad0e9dab711bb11d0d6793f
+2023-01-17T16:10:48.710Z [info]: Attempting to fetch album art for ID:f4e4b61294d192025ab2af82bc788dda08552954fe0c91a6386748b27ea56dad
+2023-01-17T16:10:48.727Z [info]: Attempting to fetch album art for ID:5e2a364588766c9b6848137a01cf128d9011f06a0088c4ac3bf8af2b882c3fc6
+2023-01-17T16:10:48.746Z [info]: Attempting to fetch album art for ID:2ee5ed9a54da699ac8e88c95efcdf7dfbdaa2be01bb4ad95c9c86cd5038d0ba9
+2023-01-17T16:10:48.751Z [info]: Attempting to fetch album art for ID:2a9c7d197f6044b9076c33abeb4492935b713a8e93dce1f6d23e215aa3b1a8c6
+2023-01-17T16:10:48.759Z [info]: Attempting to fetch album art for ID:d7d956511b7b5a6260e8573ca42b67d698b3fa27be0a0e2bff94b46f15245798
+2023-01-17T16:10:48.760Z [info]: Attempting to fetch album art for ID:de2a2988b1074c72eddac1c2ed63b84acf6a1d7edaf7212ae9b7cf7b8725fed7
+2023-01-17T16:10:48.766Z [info]: Attempting to fetch album art for ID:12b2b956b767d127b066106f4bf1aae7faf30381f3162a5db9c10ea83e2e211a
+2023-01-17T16:10:48.796Z [info]: Attempting to fetch album art for ID:2671e4d36e9c64bee2aaa02e0143b99978aaafd6a363ad2501ada53ceefc8ec0
+2023-01-17T16:10:48.911Z [info]: Attempting to fetch album art for ID:ac39ab2d89360a1e9fbda4ae2b480530f06db9392d76a1f665cb0efce6f9e5d1
+2023-01-17T16:10:48.932Z [info]: Attempting to fetch album art for ID:d38eca1c13eb42fbe46c38f7c613611cff70fbd71010ce986b6c39e9cf1cd841
+2023-01-17T16:10:48.935Z [info]: Attempting to fetch album art for ID:b3623e883c34fb316598a1d394038f3f8cfc5731617c1502eb145f4e3ba4309a
+2023-01-17T16:10:48.970Z [info]: Attempting to fetch album art for ID:1e7c86c77caabba0e64467acefacd87eaabb47adcace62c8721ac585e423a817
+2023-01-17T16:10:49.008Z [info]: Attempting to fetch album art for ID:8f9bc5f7acdb7a6f6d02b1df9c38edcdb4783ab46760083f2eebf18df3259701
+2023-01-17T16:10:49.021Z [info]: Attempting to fetch album art for ID:313bd194caa79af11cee42154e46bf412224b85c938a39f8388ead82fc4c1708
+2023-01-17T16:10:49.043Z [info]: Attempting to fetch album art for ID:c1d0f0b9c3ec05d6c4d7019a75ed7a7fd14a235f52243a72c376e89b1ea91ac1
+2023-01-17T16:10:49.045Z [info]: Attempting to fetch album art for ID:a2bba1b02ebb992cbbbb3d825a18d20e66255783502965942dedec8c285e3649
+2023-01-17T16:10:49.046Z [info]: Attempting to fetch album art for ID:8e8af9a07bcf57174fa9d47d2a6f7b592d9e80ab356c555a5b0a045cce8f31a1
+2023-01-17T16:10:49.055Z [info]: Attempting to fetch album art for ID:f9d68a1890f9f924d13b9137c8096f40bd76e0e950824dd75f023307c45e5b64
+2023-01-17T16:10:49.061Z [info]: Attempting to fetch album art for ID:f8e8ae9f7d64ed7df819a7dd9f5c253fad8d35de13bc0480367a6c845bc01e76
+2023-01-17T16:10:49.069Z [info]: Attempting to fetch album art for ID:04c187eb08c8dfe8067b855774b329b0cdfed765a4f6fe6abcc0860d52f87850
+2023-01-17T16:10:49.088Z [info]: Attempting to fetch album art for ID:0cbd33a03a70590ee851452af82394e12d65be6db850c597f7ce99b3fbc069f1
+2023-01-17T16:10:49.088Z [info]: Attempting to fetch album art for ID:712772908981e0bc0fb15a70b0660f94aa7c6035b86f827f6e82a81136dcfdb0
+2023-01-17T16:10:49.089Z [info]: Attempting to fetch album art for ID:822bac9eaa2cd1f73e89eacece9f560bea38506c61864626e004700466e6952c
+2023-01-17T16:10:49.089Z [info]: Attempting to fetch album art for ID:eea41c542ec575917eacc46355865cd1122136c50207cc7ba057c29c34c316db
+2023-01-17T16:10:49.880Z [info]: Attempting to fetch album data
+2023-01-17T16:11:02.515Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T16:11:02.520Z [info]: Connected to database
+2023-01-17T16:11:31.260Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T16:11:31.264Z [info]: Connected to database
+2023-01-17T16:11:34.148Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T16:11:34.152Z [info]: Connected to database
+2023-01-17T16:11:36.813Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T16:11:36.817Z [info]: Connected to database
+2023-01-17T16:31:09.747Z [error]: Access requested denied due to Error 404 to /css/resources/redberry.svg
+2023-01-17T16:31:09.874Z [error]: Access requested denied due to Error 404 to /css/resources/redberry.svg

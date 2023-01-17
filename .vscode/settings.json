@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 1000,
+            "driver": "SQLite",
+            "name": "Musio",
+            "database": "${workspaceFolder:Musio Node}/manage/music.db"
+        }
+    ]
+}
