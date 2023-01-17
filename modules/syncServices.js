@@ -20,7 +20,7 @@ class musicLocalSync {
     this.res = res;
     this.id = [];
     this.db = new sqlite3.Database(path.join(__dirname, "/../manage/music.db"));
-  }
+  } 
 
   invokeHardReset = () => {
     this.reset = true;
