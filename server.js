@@ -5,11 +5,11 @@ const local = require("./modules/local.js");
 const sync_service = require("./modules/syncServices.js");
 const app = express();
 const fs = require("fs");
-
+ 
 const data = {
   setting_data: require("./manage/settings.json"),
 };
-
+ 
 const port = 80;
 
 app.use(express.static("dist"));
