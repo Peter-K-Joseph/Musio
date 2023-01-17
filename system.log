@@ -1747,3 +1747,5 @@
 2023-01-17T17:21:31.360Z [info]: Attempting to fetch album art for ID:bcab9fe606e62103101e3b5d1d45f9555c125df1dfefb79779adf241669e90b7
 2023-01-17T17:21:33.555Z [info]: Attempting to fetch music data
 2023-01-17T17:21:35.180Z [info]: Attempting to fetch album data
+2023-01-17T17:27:38.127Z [info]: Portifolio app is online and is active at PORT:80
+2023-01-17T17:27:38.134Z [info]: Connected to database
