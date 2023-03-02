@@ -97,30 +97,47 @@ const random_bg_color = () => {
     let InverseRGB = "rgb(" + (255 - red) + ", " + (255 - green) + ", " + (255 - blue) + ")";
     return [bgColor, InverseRGB];
 };
-const raiseError = (err) => {
-    document.querySelector("#music_insights").innerHTML = `Could not get insights<br><button onclick="syncTrackList()"><i class="fa-solid fa-sync"></i> Resync Library</button>`;
-    console.error("Error getting track list: \n Traceback logged: " + err);
-    Notiflix.Confirm.Init({ titleColor: "#c63232", okButtonBackground: "#ff0000", cancelButtonBackground: "#d8d8d8", cancelButtonColor: "#000000", });
-    Notiflix.Confirm.Show('Error Syncing Tracks', 'An error occurred while getting track list. Would you like to resync library?', 'Re-sync Library', 'Close', syncTrackList());
-    song_list.innerHTML = `<div class="pt-100 align-center"><div><center>
-    <svg width="50" height="50" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-        <path
-            d="m731.234002 153.838666v-18.841339c0-4.417534-3.577416-7.997327-7.990382-7.997327h-6.414571c-4.417012 0-7.990383 3.580525-7.990383 7.997327v18.841339h-18.841339c-4.417534 0-7.997327 3.577416-7.997327 7.990383v6.414571c0 4.417011 3.580525 7.990382 7.997327 7.990382h18.841339v18.841339c0 4.417534 3.577416 7.997328 7.990383 7.997328h6.414571c4.417011 0 7.990382-3.580526 7.990382-7.997328v-18.841339h18.841339c4.417534 0 7.997328-3.577416 7.997328-7.990382v-6.414571c0-4.417012-3.580526-7.990383-7.997328-7.990383z"
-            fill="#f87575"
-            transform="matrix(.70710678 -.70710678 .70710678 .70710678 -593.80455139 424.48059756)"></path>
-    </svg>
-    <h3>Oh No... I'm lost im space</h3><p>An Unknown Error occurred while syncing your song list.</p><div class="error">Traceback: ${err}</div></center></div></div>`;
-    player.updatePlayerInfo("Sync Failed", "An error occurred while syncing tracks", null, true);
-};
 if (localStorage.getItem("theme") != null) {
     themeChange(localStorage.getItem("theme"));
     Notiflix.Notify.Success(`Theme set to ${localStorage.getItem("theme")}`);
 }
-const changeMainView = (view) => {
+class errorManager {
+    constructor(main, sub, traceback) {
+        document.querySelector("#interactive_viewport").innerHTML = `<div class="pt-100 align-center"><div><center>
+        <svg width="50" height="50" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"> <path d="m731.234002 153.838666v-18.841339c0-4.417534-3.577416-7.997327-7.990382-7.997327h-6.414571c-4.417012 0-7.990383 3.580525-7.990383 7.997327v18.841339h-18.841339c-4.417534 0-7.997327 3.577416-7.997327 7.990383v6.414571c0 4.417011 3.580525 7.990382 7.997327 7.990382h18.841339v18.841339c0 4.417534 3.577416 7.997328 7.990383 7.997328h6.414571c4.417011 0 7.990382-3.580526 7.990382-7.997328v-18.841339h18.841339c4.417534 0 7.997328-3.577416 7.997328-7.990382v-6.414571c0-4.417012-3.580526-7.990383-7.997328-7.990383z" fill="#f87575" transform="matrix(.70710678 -.70710678 .70710678 .70710678 -593.80455139 424.48059756)"></path> </svg>
+        <h3>${main}</h3><p>${sub}</p><div class="error"><code>Uncaugh Error (traceback: ${traceback})</code></div></center></div></div>`;
+        player.updatePlayerInfo("Application Error", traceback, null, true);
+    }
+}
+const changeMainView = (nav) => {
     document.querySelector("#interactive_viewport").classList.add("change_view");
-    setTimeout(() => {
-        document.querySelector("#interactive_viewport").innerHTML = view;
-        document.querySelector("#interactive_viewport").classList.remove("change_view");
-    }, 500);
+    console.log(routes[nav]);
+    if (routes[nav].load_template) {
+        fetch(`${window.location.origin}/${routes[nav].view}`).then((response) => {
+            response.text().then((data) => {
+                console.log(data);
+                setTimeout(() => {
+                    try {
+                        document.querySelector("#interactive_viewport").innerHTML = data;
+                        document.querySelector("#interactive_viewport").classList.remove("change_view");
+                        if (routes[nav].js != null) {
+                            routes[nav].js();
+                        }
+                    }
+                    catch (err) {
+                        new errorManager("A little Alohomora here! Our app's stuck", `We caught an exception while execting ${nav}'s initaliser function inside the changeMainView State manager`, err);
+                    }
+                }, 500);
+            });
+        }).catch((err) => {
+            new errorManager("A little Alohomora here! Our app's stuck", `We caught an exception while loading ${nav}'s template inside the changeMainView State manager`, err);
+        });
+    }
+    else {
+        setTimeout(() => {
+            document.querySelector("#interactive_viewport").innerHTML = routes[nav].view;
+            document.querySelector("#interactive_viewport").classList.remove("change_view");
+        }, 500);
+    }
 };
 const player = new Player;

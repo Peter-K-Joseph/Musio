@@ -186,10 +186,12 @@ body {
 
                 #album_list {
                     margin: 0 auto;
-                    display: flex;
-                    flex-wrap: wrap;
-                    display: flex;
+                    display: grid;
+                    grid-gap: 10px;
+                    width: 95%;
+                    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
                     height: 100%;
+                    background-color: #0c0c0c;
 
                     .album-card {
                         width: 200px;
@@ -202,7 +204,7 @@ body {
                             box-shadow: 0 0 20px -6px var(--option);
                         }
 
-                        .album-card-img img{
+                        .album-card-img img {
                             width: 200px;
                             height: 200px;
                             border-radius: .7rem;
@@ -210,11 +212,12 @@ body {
 
                         .album-card-info {
                             transform: translateY(-100%);
-                            background: linear-gradient(#0000,black 70%);
+                            background: linear-gradient(#0000, black 70%);
                             padding: 10px;
                             border-radius: .7rem;
 
-                            h3,p {
+                            h3,
+                            p {
                                 margin: 0;
                                 color: #d0d2e1;
                             }
@@ -273,7 +276,7 @@ body {
                             }
                         }
 
-                        > div {
+                        >div {
                             width: 100%;
                             overflow: hidden;
                             text-overflow: ellipsis;
@@ -342,7 +345,7 @@ body {
                                 h1 {
                                     margin: 0;
                                 }
-                                
+
                                 p {
                                     margin: 10px 0 0 0;
                                 }
@@ -449,7 +452,7 @@ body {
                         }
 
                         100% {
-                            opacity: 0;  
+                            opacity: 0;
                             transform: translateX(100%);
                         }
                     }
@@ -473,13 +476,21 @@ body {
 
     .player_down {
         background-color: var(--bg-color-main-col);
-        height: calc(100% - 40px);
-        margin: 10px 20px;
+        height: calc(100% - 30px);
+        margin: 5px 20px;
         border-radius: 1rem;
         min-width: calc(100vw - 40px);
+        overflow: hidden;
 
         .row {
             display: flex;
+        }
+
+        .slider {
+            height: 3px;
+            width: 100%;
+            background-color: var(--option);
+            transition: .3s cubic-bezier(0.075, 0.82, 0.165, 1);
         }
 
         .internal_controls {

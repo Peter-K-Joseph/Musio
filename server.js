@@ -4,7 +4,6 @@ const logger = require("./modules/logger.js");
 const local = require("./modules/local.js");
 const sync_service = require("./modules/syncServices.js");
 const app = express();
-const fs = require("fs");
  
 const data = {
   setting_data: require("./manage/settings.json"),
@@ -120,6 +119,16 @@ app.get("/api/albums", (req, res) => {
     local.getAlbumData(res)
 });
 
+app.get("/templates/song_view", (req, res) => {
+    logger.info("Attempting to fetch song_view.ejs");
+    res.render("song_view")
+});
+
+app.get("/templates/album_view", (req, res) => {
+    logger.info("Attempting to fetch song_view.ejs");
+    res.render("album_view")
+});
+
 app.listen(port, () => {
   logger.info(`Portifolio app is online and is active at PORT:${port}`);
 });
@@ -138,7 +147,7 @@ app.get("*", (req, res) => {
 
 app.post("*", (req, res) => {
   logger.error(`Access requested denied due to Error 404`);
-  res.send(
+  res.status(404).send(
     res.json({
       error: 404,
       "access-request": "denied",

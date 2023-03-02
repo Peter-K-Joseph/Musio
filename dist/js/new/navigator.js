@@ -1,79 +1,33 @@
 const routes = {
     "home": {
-        "html": '',
+        "load_template": false,
         "js": null
     },
-    "info-by-album": {
-        "html": `<div class="row m-1 mt-2 section" id="liked-songs-section">
-        <div class="bg-grad">
-            <div class="row">
-                <div class="col">
-                    <h1 class="heading">All Albums</h1>
-                    <p id="music_insights">Loading your albums</p>
-                </div>
-                <div class="col">
-                </div>
-                <div class="col">
-                    <ion-icon class="icon-poster fav" name="musical-note-outline">...</ion-icon>
-                </div>
-            </div>
-        </div>
-        <div id="album_list"></div>
-    </div>`,
+    "album": {
+        "view": `templates/album_view`,
+        "load_template": true,
         "js": () => {
-            fetch(`${window.location.origin}/api/albums`).then((res) => {
-                res.json().then((val) => {
-                    document.querySelector("#music_insights").innerHTML = `Showing ${val.length} albums`;
-                    val.forEach((album) => {
-                        const albumCard = document.createElement("div");
-                        albumCard.classList.add("album-card");
-                        albumCard.innerHTML = `<div class="album-card-img">
-                            <img src="${window.location.origin}${album.art}" alt="${album.name} Album Art">
-                        </div>
-                        <div class="album-card-info">
-                        <h3>${album.album}</h3>
-                            <p>${album.artist}</p>
-                        </div>`;
-                        document.querySelector("#album_list").appendChild(albumCard);
-                    });
-                });
-            });
+            new album_manager(true);
         }
     },
     "songs": {
-        "html": `<div class="row m-1 mt-2 section" id="liked-songs-section">
-                    <div class="bg-grad">
-                        <div class="row">
-                            <div class="col">
-                                <h1 class="heading">All Songs</h1>
-                                <p id="music_insights">Loading your music</p>
-                            </div>
-                            <div class="col">
-                                <div class="child">
-                                    <button class="shuffle"><i class="fa-solid fa-shuffle"></i></button>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <ion-icon class="icon-poster fav" name="musical-note-outline">...</ion-icon>
-                            </div>
-                        </div>
-                    </div>
-                    <div id="song_list"></div>
-                </div>`,
+        "view": `templates/song_view`,
+        "load_template": true,
         "js": () => {
+            // load song view template from server
             const song_list = document.querySelector("#song_list");
             song_list.innerHTML += `<div class="w-100 h-100 align-center"><div><center><svg xmlns="http://www.w3.org/2000/svg" class="icon-poster" width="16" height="16"fill="currentColor" class="bi bi-inbox-fill" viewBox="0 0 16 16"><path d="M4.98 4a.5.5 0 0 0-.39.188L1.54 8H6a.5.5 0 0 1 .5.5 1.5 1.5 0 1 0 3 0A.5.5 0 0 1 10 8h4.46l-3.05-3.812A.5.5 0 0 0 11.02 4H4.98zm-1.17-.437A1.5 1.5 0 0 1 4.98 3h6.04a1.5 1.5 0 0 1 1.17.563l3.7 4.625a.5.5 0 0 1 .106.374l-.39 3.124A1.5 1.5 0 0 1 14.117 13H1.883a1.5 1.5 0 0 1-1.489-1.314l-.39-3.124a.5.5 0 0 1 .106-.374l3.7-4.625z" /></svg><h3>No Tracks Found</h3></center></div></div`;
             fetch(`${window.location.origin}/api/music`).then((res) => {
                 // get the status code 
                 if (res.status == 500) {
                     res.json().then((val) => {
-                        raiseError(val.message);
+                        new errorManager("Song list API Error", "Ummm. I think this isn't where er poos t.", "Internal Server Error: 500");
                     });
                     return;
                 }
                 else if (res.status == 400) {
                     res.json().then((val) => {
-                        raiseError("An active sync in in session. Please wait for it to finish.");
+                        new errorManager("Easy there, Stark! Our app needs a breather. Slowing things down for now.", "An active sync lock is been engaged. Please wait a while before you do anything.", "Internal Server Error: 500");
                     });
                     return;
                 }
@@ -134,19 +88,45 @@ const routes = {
                     }
                 });
             }).catch((err) => {
-                raiseError(err);
+                new errorManager("Welcome to the 2000s my friend", "Songs initialiser function failed to execute the songs API", err);
             });
         }
     }
 };
 document.querySelectorAll(".navigate").forEach((nav) => {
     nav.addEventListener("click", () => {
-        console.log(nav.getAttribute("data-route"));
         document.querySelector(".navigate.selected").classList.remove("selected");
         nav.classList.add("selected");
-        changeMainView(routes[nav.getAttribute("data-route")].html);
-        setTimeout(() => {
-            routes[nav.getAttribute("data-route")].js();
-        }, 550);
+        changeMainView(nav.getAttribute("data-route"));
     });
 });
+class album_manager {
+    album_data;
+    constructor(init_load = false) {
+        fetch(`${window.location.origin}/api/albums`).then((res) => {
+            res.json().then((val) => {
+                this.album_data = val;
+                if (init_load)
+                    this._init_app();
+            });
+        });
+    }
+    _init_app() {
+        document.querySelector("#music_insights").innerHTML = `Showing ${this.album_data.length} albums`;
+        this.album_data.forEach((album) => {
+            const mainCard = document.createElement("div");
+            const albumCard = document.createElement("div");
+            mainCard.classList.add("view_album_details");
+            mainCard.setAttribute("album_rep_id", album.album);
+            albumCard.classList.add("album-card");
+            albumCard.innerHTML = `<div class="album-card-img"><img src="${window.location.origin}${album.art}" alt="${album.name} Album Art"></div><div class="album-card-info"><h3>${album.album}</h3><p>${album.artist}</p></div>`;
+            mainCard.appendChild(albumCard);
+            mainCard.addEventListener("click", (e) => {
+                this._load_album_info_initmode(e.currentTarget);
+            });
+            document.querySelector("#album_list").appendChild(mainCard);
+        });
+    }
+    _load_album_info_initmode(e) {
+    }
+}

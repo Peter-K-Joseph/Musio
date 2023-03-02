@@ -176,10 +176,12 @@ body .main #interactive_viewport #liked-songs-section {
 }
 body .main #interactive_viewport #liked-songs-section #album_list {
   margin: 0 auto;
-  display: flex;
-  flex-wrap: wrap;
-  display: flex;
+  display: grid;
+  grid-gap: 10px;
+  width: 95%;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   height: 100%;
+  background-color: #0c0c0c;
 }
 body .main #interactive_viewport #liked-songs-section #album_list .album-card {
   width: 200px;
@@ -202,7 +204,8 @@ body .main #interactive_viewport #liked-songs-section #album_list .album-card .a
   padding: 10px;
   border-radius: 0.7rem;
 }
-body .main #interactive_viewport #liked-songs-section #album_list .album-card .album-card-info h3, body .main #interactive_viewport #liked-songs-section #album_list .album-card .album-card-info p {
+body .main #interactive_viewport #liked-songs-section #album_list .album-card .album-card-info h3,
+body .main #interactive_viewport #liked-songs-section #album_list .album-card .album-card-info p {
   margin: 0;
   color: #d0d2e1;
 }
@@ -410,13 +413,20 @@ body .main #interactive_viewport.change_view > div {
 }
 .player .player_down {
   background-color: var(--bg-color-main-col);
-  height: calc(100% - 40px);
-  margin: 10px 20px;
+  height: calc(100% - 30px);
+  margin: 5px 20px;
   border-radius: 1rem;
   min-width: calc(100vw - 40px);
+  overflow: hidden;
 }
 .player .player_down .row {
   display: flex;
+}
+.player .player_down .slider {
+  height: 3px;
+  width: 100%;
+  background-color: var(--option);
+  transition: 0.3s cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 .player .player_down .internal_controls {
   display: flex;
