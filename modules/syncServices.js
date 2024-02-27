@@ -94,6 +94,7 @@ class musicLocalSync {
       Once done, it will call the function to get the metadata of the music files.
     */
   getMusicList = (directory) => {
+    console.log(directory);
     let files = fs.readdirSync(directory);
     for (let i = 0; i < files.length; i++) {
       try {
@@ -113,7 +114,9 @@ class musicLocalSync {
           !files[i].startsWith(".") &&
           files[i] != "AppData" &&
           files[i] != "node_modules" &&
-          files[i] != "System Volume Information"
+          files[i] != "System Volume Information" &&
+          files[i] != "Windows" &&
+          files[i] != "Library"
         ) {
           this.getMusicList(path.join(directory, files[i]));
         }
@@ -150,8 +153,8 @@ class musicLocalSync {
   getOSRootDir = () => {
     switch (process.platform) {
       case "darwin":
-        logger.error("Mac OS is not supported");
-        break;
+        if (fs.readdirSync("/").includes("Users")) return "/Users";
+        else return "/";
       case "win32":
         logger.info("Detected OS: Windows");
         if (fs.readdirSync("/").includes("Users")) return "/Users";

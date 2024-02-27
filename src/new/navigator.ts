@@ -11,7 +11,7 @@ const routes = {
         }
     },
     "songs": {
-        "view": `templates/song_view`,
+        "view": `templates/song_view`, 
         "load_template": true,
         "js":
             () => {

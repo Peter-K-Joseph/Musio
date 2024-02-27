@@ -5,20 +5,6 @@ const accounts = {
             "last": "K Joseph"
         },
         "profile": "./resources/profile1.jpeg"
-    },
-    1: {
-        "name": {
-            "first": "Anagh",
-            "last": "N Manoj"
-        },
-        "profile": "./resources/profile2.jpeg"
-    },
-    2: {
-        "name": {
-            "first": "Arohi",
-            "last": "Varshney"
-        },
-        "profile": "./resources/profile3.jpeg"
     }
 };
 const youtube_music = {
